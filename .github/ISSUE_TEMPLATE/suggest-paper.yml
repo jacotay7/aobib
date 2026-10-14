@@ -1,0 +1,28 @@
+name: Suggest a paper or resource
+description: Propose an entry for the registry
+labels: ["suggestion"]
+body:
+  - type: input
+    id: citation
+    attributes:
+      label: Citation
+      description: Authors, year, title, venue, DOI
+    validations:
+      required: true
+  - type: input
+    id: free_link
+    attributes:
+      label: Free full-text link
+      description: arXiv, open-access publisher page, institutional repository, author page, ADS scan... (no ResearchGate/Academia.edu). If there is no free copy, say so; it can go in PAYWALLED.md.
+    validations:
+      required: true
+  - type: input
+    id: topic
+    attributes:
+      label: Suggested topic folder
+      placeholder: e.g. 02-wavefront-sensing
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it noteworthy?
+      description: Foundational, widely used method, first demonstration, major facility, review...

@@ -1,0 +1,29 @@
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Validate entries
+        run: python3 tools/build_index.py --check
+      - name: Indexes are up to date
+        run: |
+          python3 tools/build_index.py
+          git add -N keywords && git diff --exit-code -- README.md KEYWORDS.md CATALOG.md keywords '*/README.md' \
+            || (echo "::error::Generated indexes are stale. Run 'python3 tools/build_index.py' and commit the result." && exit 1)
+      - name: Check links of changed entries
+        if: github.event_name == 'pull_request'
+        run: |
+          git fetch --depth=1 origin "${{ github.base_ref }}"
+          files=$(git diff --name-only --diff-filter=AM "origin/${{ github.base_ref }}" -- '[0-9][0-9]-*/*.md' | grep -v README.md || true)
+          if [ -n "$files" ]; then python3 tools/check_links.py $files; else echo "no entry files changed"; fi

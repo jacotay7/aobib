@@ -1,0 +1,30 @@
+name: Report an error
+description: Wrong metadata, inaccurate summary, dead or non-free link
+labels: ["error"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry file
+      placeholder: e.g. 02-wavefront-sensing/ragazzoni-1996-pyramid-wavefront-sensor.md
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong?
+      options:
+        - Summary is inaccurate or misleading
+        - Metadata (authors, year, venue, DOI) is wrong
+        - Link is dead
+        - Link is not actually free
+        - Duplicate entry
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details and suggested correction
+    validations:
+      required: true

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this registry, please cite it as below."
+title: "aobib: a curated registry of adaptive optics literature"
+type: dataset
+authors:
+  - family-names: Taylor
+    given-names: Jacob
+license: CC-BY-4.0
+keywords:
+  - adaptive optics
+  - bibliography
+  - wavefront sensing
+  - astronomy
+  - literature review
