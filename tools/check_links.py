@@ -10,14 +10,20 @@ Prints one line per non-OK link.  Some publishers reject scripted requests
 (HTTP 403) even though the page opens fine in a browser; those are reported as
 "BLOCKED?" rather than failures so they can be checked by hand.  Servers with a
 broken TLS certificate chain that still serve the page are reported as "SSL-CERT".
+HAL pages sit behind a bot check that stalls scripted requests, so HAL links are
+checked through the HAL search API instead: the record must exist and carry a
+full-text file ("HAL-NOFILE" otherwise).
 ResearchGate links are not requested at all (the site forbids scripted access);
 they are listed as "MANUAL" so they can be rechecked in a browser.
 """
 
 from __future__ import annotations
 
+import json
+import re
 import ssl
 import sys
+import urllib.parse
 import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
@@ -27,6 +33,10 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 UA = "Mozilla/5.0 (X11; Linux x86_64) aobib-linkcheck"
+HAL_API = "https://api.archives-ouvertes.fr/search/?"
+HAL_HOST = re.compile(r"^https?://([a-z0-9-]+\.)*(hal\.science|ccsd\.cnrs\.fr|hal\.[a-z0-9.-]+)/", re.I)
+HAL_ID = re.compile(r"/([a-z][a-z0-9]*-\d{6,})(?:v\d+)?(?:/|$)")
+HAL_COLLECTION = re.compile(r"^https?://[^/]+/([A-Z][A-Z0-9_-]+)/?$")
 
 
 def urls_of(path: Path) -> list[str]:
@@ -38,7 +48,32 @@ def urls_of(path: Path) -> list[str]:
     return [u for u in [meta.get("url"), *(meta.get("alt_urls") or [])] if u]
 
 
+def hal_status(url: str) -> str | None:
+    """Status of a HAL record or collection via the HAL API; None if not a HAL link or the API fails."""
+    if not HAL_HOST.match(url):
+        return None
+    if m := HAL_ID.search(url):
+        query = {"q": f"halId_s:{m.group(1)}", "fl": "halId_s,fileMain_s"}
+    elif m := HAL_COLLECTION.match(url):
+        query = {"q": f"collCode_s:{m.group(1)}", "rows": 0}
+    else:
+        return None
+    req = urllib.request.Request(HAL_API + urllib.parse.urlencode(query), headers={"User-Agent": UA})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            resp = json.load(r)["response"]
+    except Exception:  # noqa: BLE001
+        return None
+    if not resp.get("numFound"):
+        return "HAL-NOTFOUND"
+    if "halId_s" in query["q"] and not resp["docs"][0].get("fileMain_s"):
+        return "HAL-NOFILE"
+    return "200"
+
+
 def status(url: str) -> str:
+    if hal := hal_status(url):
+        return hal
     for method in ("HEAD", "GET"):
         req = urllib.request.Request(url, method=method, headers={"User-Agent": UA})
         try:
