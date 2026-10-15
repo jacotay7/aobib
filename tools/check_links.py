@@ -12,7 +12,8 @@ Prints one line per non-OK link.  Some publishers reject scripted requests
 broken TLS certificate chain that still serve the page are reported as "SSL-CERT".
 HAL pages sit behind a bot check that stalls scripted requests, so HAL links are
 checked through the HAL search API instead: the record must exist and carry a
-full-text file ("HAL-NOFILE" otherwise).
+full-text file ("HAL-NOFILE" otherwise).  Some networks (e.g. GitHub's runners)
+cannot reach HAL at all; those links are reported as "BLOCKED? HAL-UNREACHABLE".
 ResearchGate links are not requested at all (the site forbids scripted access);
 they are listed as "MANUAL" so they can be rechecked in a browser.
 """
@@ -49,7 +50,7 @@ def urls_of(path: Path) -> list[str]:
 
 
 def hal_status(url: str) -> str | None:
-    """Status of a HAL record or collection via the HAL API; None if not a HAL link or the API fails."""
+    """Status of a HAL record or collection via the HAL API; None if not a HAL record link."""
     if not HAL_HOST.match(url):
         return None
     if m := HAL_ID.search(url):
@@ -63,7 +64,7 @@ def hal_status(url: str) -> str | None:
         with urllib.request.urlopen(req, timeout=30) as r:
             resp = json.load(r)["response"]
     except Exception:  # noqa: BLE001
-        return None
+        return "HAL-UNREACHABLE"  # the HAL pages themselves would only stall on the bot check
     if not resp.get("numFound"):
         return "HAL-NOTFOUND"
     if "halId_s" in query["q"] and not resp["docs"][0].get("fileMain_s"):
@@ -122,7 +123,7 @@ def main() -> int:
             if s.startswith("SSL-2"):
                 label = "SSL-CERT"  # page served, but the server's TLS chain is incomplete
             else:
-                label = "BLOCKED?" if s in ("403", "418", "429") else "FAIL"
+                label = "BLOCKED?" if s in ("403", "418", "429", "HAL-UNREACHABLE") else "FAIL"
             bad += label == "FAIL"
             print(f"{label} {s} {f.relative_to(ROOT)} {u}")
     print(f"checked {len(jobs)} links in {len(files)} entries; {bad} failure(s); {len(manual)} left for manual check")
