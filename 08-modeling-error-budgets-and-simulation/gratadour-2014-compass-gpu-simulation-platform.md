@@ -2,7 +2,7 @@
 title: "COMPASS: COMputing Platform for Adaptive opticS Systems"
 authors: ["Gratadour, D.", "Puech, M.", "Vérinaud, C.", "Kestener, P.", "Gray, M.", "Petit, C.", "et al."]
 year: 2014
-venue: "Software (CUDA/C++/Python), Observatoire de Paris; reference paper Proc. SPIE 9148"
+venue: "Software (CUDA/C++/Python), Observatoire de Paris; reference paper Proc. SPIE 9148, 91486O"
 doi: "10.1117/12.2056358"
 url: "https://compass.pages.obspm.fr/website/"
 alt_urls: ["https://github.com/ANR-COMPASS/shesha", "https://compass.pages.obspm.fr/website/page/publications/"]
@@ -15,7 +15,7 @@ keywords: ["compass", "end-to-end simulation", "gpu", "elt", "pyramid wavefront 
 
 # COMPASS: COMputing Platform for Adaptive opticS Systems
 
-**Gratadour et al. (2014)** · *Software (CUDA/C++/Python), Observatoire de Paris; reference paper Proc. SPIE 9148* · [Free full text](https://compass.pages.obspm.fr/website/) · DOI: [10.1117/12.2056358](https://doi.org/10.1117/12.2056358)
+**Gratadour et al. (2014)** · *Software (CUDA/C++/Python), Observatoire de Paris; reference paper Proc. SPIE 9148, 91486O* · [Free full text](https://compass.pages.obspm.fr/website/) · DOI: [10.1117/12.2056358](https://doi.org/10.1117/12.2056358)
 
 ## Summary
 

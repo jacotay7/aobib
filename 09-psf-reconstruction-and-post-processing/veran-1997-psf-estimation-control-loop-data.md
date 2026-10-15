@@ -19,7 +19,7 @@ keywords: ["psf reconstruction", "telemetry", "long-exposure psf", "wavefront se
 
 ## Summary
 
-Presents a method to estimate the long-exposure point-spread function associated with each AO image from data recorded by the AO control computer during the exposure: the wavefront-sensor measurements and the commands sent to the deformable mirror. Knowing the PSF is needed for image restoration, but the PSF varies with time, and this approach needs no extra observing time. The method was tested on PUEO, the adaptive optics system of the Canada-France-Hawaii Telescope, where it gave accurate PSF estimates for guide stars of magnitude 13 or brighter. This paper is the original reference for PSF reconstruction from AO telemetry.
+Presents a method to estimate the long-exposure point-spread function associated with each AO image from data recorded by the AO control computer during the exposure: the wavefront-sensor measurements and the commands sent to the deformable mirror. Knowing the PSF is needed for image restoration, but the PSF varies with time, and this approach needs no extra observing time. The method was tested on PUEO, the adaptive optics system of the Canada-France-Hawaii Telescope, where it gave accurate PSF estimates for guide stars of magnitude 13 or brighter.
 
 ## Keywords
 

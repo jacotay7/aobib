@@ -19,7 +19,7 @@ keywords: ["ground-layer ao", "glao", "cn2 profile", "ensquared energy", "laser 
 
 ## Summary
 
-This review introduces the knowledge of the Cn2 turbulence profile available at the time, emphasising the existence of a strong turbulent layer close to the ground. It then presents the concept of ground-layer adaptive optics, gives estimates of the expected performance (for example in ensquared energy over wide fields) and discusses its potential for astronomical applications. Practical implementation concepts are described for two VLT instruments, MUSE and HAWK-I, using multiple laser guide stars and a large deformable secondary mirror, whose design is also outlined because it is well suited to GLAO; these became the GALACSI and GRAAL modules of the VLT Adaptive Optics Facility.
+This review introduces the knowledge of the Cn2 turbulence profile available at the time, emphasising the existence of a strong turbulent layer close to the ground. It then presents the concept of ground-layer adaptive optics, gives estimates of the expected performance (for example in ensquared energy over wide fields) and discusses its potential for astronomical applications. Practical implementation concepts are described for two VLT instruments, MUSE and HAWK-I, using multiple laser guide stars and a large deformable secondary mirror, whose design is also outlined because it is well suited to GLAO; the two GLAO systems are GALACSI (for MUSE) and GRAAL (for HAWK-I).
 
 ## Keywords
 

@@ -1,5 +1,5 @@
 ---
-title: "Nonlinear wave front reconstruction from a pyramid sensor using neural networks"
+title: "Nonlinear Wave Front Reconstruction from a Pyramid Sensor using Neural Networks"
 authors: ["Wong, A. P.", "Norris, B. R. M.", "Deo, V.", "Tuthill, P. G.", "Scalzo, R.", "Sweeney, D.", "et al."]
 year: 2023
 venue: "PASP 135, 114501"
@@ -14,7 +14,7 @@ also_relevant_to: ["02-wavefront-sensing", "07-high-contrast-and-extreme-ao"]
 keywords: ["pyramid wavefront sensor", "pwfs", "neural network", "nonlinear reconstruction", "scexao", "modulation", "subaru"]
 ---
 
-# Nonlinear wave front reconstruction from a pyramid sensor using neural networks
+# Nonlinear Wave Front Reconstruction from a Pyramid Sensor using Neural Networks
 
 **Wong et al. (2023)** · *PASP 135, 114501* · [Free full text](https://arxiv.org/abs/2311.02595) · DOI: [10.1088/1538-3873/acfdcb](https://doi.org/10.1088/1538-3873/acfdcb)
 

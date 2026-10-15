@@ -19,7 +19,7 @@ keywords: ["come-on", "history", "first light", "shack-hartmann", "deformable mi
 
 ## Summary
 
-This Letter reports the first diffraction-limited astronomical images obtained in real time with an adaptive optics system. The COME-ON prototype combined a 5x5 Shack-Hartmann wavefront sensor working in the visible with an intensified Reticon detector, a 19-actuator piezoelectric deformable mirror, a separate tip-tilt mirror, and a digital control loop sampled at 100 Hz, feeding a 32x32 InSb infrared camera. Installed at the 1.52-m telescope of Observatoire de Haute-Provence in October 1989, the system delivered diffraction-limited images from 2.2 to 5 micron. The close binary gamma2 And was resolved at 2.23 micron using a wavefront reference star 9.6 arcsec away. The paper is widely cited as the first demonstration of astronomical AO.
+This Letter reports the first diffraction-limited astronomical images obtained in real time with an adaptive optics system. The COME-ON prototype combined a 5x5 Shack-Hartmann wavefront sensor working in the visible with an intensified Reticon detector, a 19-actuator piezoelectric deformable mirror, a separate tip-tilt mirror, and a digital control loop sampled at 100 Hz, feeding a 32x32 InSb infrared camera. Installed at the 1.52-m telescope of Observatoire de Haute-Provence in October 1989, the system delivered diffraction-limited images from 2.2 to 5 micron. The close binary gamma2 And was resolved at 2.23 micron using a wavefront reference star 9.6 arcsec away.
 
 ## Keywords
 

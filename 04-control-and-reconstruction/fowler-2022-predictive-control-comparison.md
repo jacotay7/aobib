@@ -2,7 +2,7 @@
 title: "Battle of the Predictive Wavefront Controls: Comparing Data and Model-Driven Predictive Control for High Contrast Imaging"
 authors: ["Fowler, J.", "van Kooten, M. A. M.", "Jensen-Clem, R."]
 year: 2022
-venue: "Proc. SPIE 12185 (Adaptive Optics Systems VIII)"
+venue: "Proc. SPIE 12185, 1218582"
 doi: "10.1117/12.2629521"
 arxiv: "2208.00984"
 url: "https://arxiv.org/abs/2208.00984"
@@ -16,7 +16,7 @@ keywords: ["predictive control", "empirical orthogonal functions", "eof", "predi
 
 # Battle of the Predictive Wavefront Controls: Comparing Data and Model-Driven Predictive Control for High Contrast Imaging
 
-**Fowler et al. (2022)** · *Proc. SPIE 12185 (Adaptive Optics Systems VIII)* · [Free full text](https://arxiv.org/abs/2208.00984) · DOI: [10.1117/12.2629521](https://doi.org/10.1117/12.2629521)
+**Fowler et al. (2022)** · *Proc. SPIE 12185, 1218582* · [Free full text](https://arxiv.org/abs/2208.00984) · DOI: [10.1117/12.2629521](https://doi.org/10.1117/12.2629521)
 
 ## Summary
 

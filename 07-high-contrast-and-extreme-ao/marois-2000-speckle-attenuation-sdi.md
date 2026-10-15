@@ -19,7 +19,7 @@ keywords: ["simultaneous differential imaging", "spectral differential imaging",
 
 ## Summary
 
-Proposes attenuating speckle noise by simultaneous imaging at several closely spaced wavelengths around a spectral feature of cool companions (the 1.6 micron methane band), so that the stellar speckle pattern, nearly identical across the channels, can be subtracted while the companion signal differs. Combining images from three wavelengths compensates for the chromatic scaling of the speckle pattern. The paper evaluates the expected speckle attenuation and its implications for detecting methane-bearing companions, and is a foundational reference for spectral differential imaging.
+Proposes attenuating speckle noise by simultaneous imaging at several closely spaced wavelengths around a spectral feature of cool companions (the 1.6 micron methane band), so that the stellar speckle pattern, nearly identical across the channels, can be subtracted while the companion signal differs. Combining images from three wavelengths compensates for the chromatic scaling of the speckle pattern. Numerical simulations show that a three-wavelength double difference across the 1.59 micron CH4 bandhead could attenuate speckle noise by a factor of about 1e4 in AO images, enough to reach the photon limit in searches for methane-bearing companions of bright stars.
 
 ## Keywords
 

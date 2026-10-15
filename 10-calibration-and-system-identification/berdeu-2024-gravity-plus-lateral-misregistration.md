@@ -1,10 +1,11 @@
 ---
-title: "Estimation of the lateral mis-registrations of the GRAVITY+ adaptive optics system"
+title: "Estimation of the lateral mis-registrations of the GRAVITY+ adaptive optics system. Perturbative method with open-loop modal correlation and non-perturbative method with temporal correlation of closed-loop telemetry"
 authors: ["Berdeu, A.", "Bonnet, H.", "Le Bouquin, J.-B.", "Édouard, C.", "Gomes, T.", "Shchekaturov, P.", "et al."]
 year: 2024
 venue: "A&A 687, A157"
 doi: "10.1051/0004-6361/202449311"
 arxiv: "2407.07423"
+bibcode: "2024A&A...687A.157B"
 url: "https://arxiv.org/abs/2407.07423"
 alt_urls: ["https://hal.science/hal-04639795"]
 access: arXiv
@@ -14,7 +15,7 @@ also_relevant_to: []
 keywords: ["mis-registration", "gravity+", "vlt", "shack-hartmann", "telemetry", "non-perturbative estimation", "interaction matrix", "calibration"]
 ---
 
-# Estimation of the lateral mis-registrations of the GRAVITY+ adaptive optics system
+# Estimation of the lateral mis-registrations of the GRAVITY+ adaptive optics system. Perturbative method with open-loop modal correlation and non-perturbative method with temporal correlation of closed-loop telemetry
 
 **Berdeu et al. (2024)** · *A&A 687, A157* · [Free full text](https://arxiv.org/abs/2407.07423) · DOI: [10.1051/0004-6361/202449311](https://doi.org/10.1051/0004-6361/202449311)
 

@@ -1,5 +1,5 @@
 ---
-title: "PRIME: PSF Reconstruction and Identification for Multiple-source characterization Enhancement - application to Keck/NIRC2 imager"
+title: "PRIME: PSF Reconstruction and Identification for Multiple-source characterization Enhancement - application to Keck NIRC2 imager"
 authors: ["Beltramo-Martin, O.", "Correia, C. M.", "Ragland, S.", "Jolissaint, L.", "Neichel, B.", "Fusco, T.", "Wizinowich, P. L."]
 year: 2019
 venue: "MNRAS 487, 5450"
@@ -14,13 +14,13 @@ also_relevant_to: []
 keywords: ["psf reconstruction", "psf-r", "prime", "keck", "nirc2", "photometry", "astrometry", "psf fitting"]
 ---
 
-# PRIME: PSF Reconstruction and Identification for Multiple-source characterization Enhancement - application to Keck/NIRC2 imager
+# PRIME: PSF Reconstruction and Identification for Multiple-source characterization Enhancement - application to Keck NIRC2 imager
 
 **Beltramo-Martin et al. (2019)** · *MNRAS 487, 5450* · [Free full text](https://arxiv.org/abs/1903.02772) · DOI: [10.1093/mnras/stz1667](https://doi.org/10.1093/mnras/stz1667)
 
 ## Summary
 
-PRIME is a PSF determination concept that jointly uses the science image and the AO control-loop telemetry, calibrating a reconstructed PSF model directly on the science frame. Validated on Keck II NIRC2 images, the approach reaches about 1% accuracy on Strehl ratio and 3 mas on PSF FWHM. On binary-star images the authors show photometric and astrometric precision below 0.005 mag and 100 microarcseconds for an H = 14 mag object. A test on the triple system Gl569BAB gives separation and differential photometry consistent with values obtained using an empirically extracted PSF.
+PRIME is a hybrid PSF estimation concept that uses both focal-plane (science image) and pupil-plane (AO telemetry) measurements to jointly estimate the parameters of a PSF model related to the atmosphere (Cn2(h) profile, seeing) and to the AO system (for example optical gains and residual low-order errors), with photometry and astrometry as by-products. The parametric model can be scaled with field position and wavelength, for on-axis and off-axis data reduction. The method is validated on engineering and binary-star images from the NIRC2 imager on Keck II. Applications include calibrating the PSF model for observations with no star in the field, updating the AO error breakdown constrained by both telemetry and images, and measuring photometry and astrometry of the triple system Gl 569.
 
 ## Keywords
 

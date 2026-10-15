@@ -19,7 +19,7 @@ keywords: ["yao", "end-to-end simulation", "monte carlo simulation", "yorick", "
 
 ## Summary
 
-Yao is an open-source Monte-Carlo AO simulation package written as a yorick plugin with compute-intensive routines in C. It simulates wavefront sensors, deformable mirrors, reconstructors and control laws of a range of types and has been used for SCAO, LGS and MCAO studies (including GMT and ELT instrument work) since the early 2000s. The package is described in Rigaut & van Dam (2013), AO4ELT3 proceedings; the link points to the project documentation, with the source code on GitHub.
+Yao is an open-source Monte-Carlo AO simulation package written as a yorick plugin with compute-intensive routines in C. It simulates wavefront sensors, deformable mirrors and reconstructors of a range of types, with any number of WFSs and DMs and natural or laser guide stars, so that SCAO, GLAO, LTAO and MCAO systems can be modeled, including ELT-scale systems such as the GMT LTAO system. The package is described in Rigaut & van Dam (2013), AO4ELT3 proceedings; the link points to the project documentation, with the source code on GitHub.
 
 ## Keywords
 

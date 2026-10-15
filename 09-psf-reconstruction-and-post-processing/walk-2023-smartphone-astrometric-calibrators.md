@@ -1,5 +1,5 @@
 ---
-title: "Smartphone screens as astrometric calibrators"
+title: "Smartphone Screens as Astrometric Calibrators"
 authors: ["Walk, A.", "Claveau, C.-A.", "Bottom, M.", "Chun, M.", "Jacobson, S.", "Service, M.", "Lu, J. R."]
 year: 2023
 venue: "J. Astron. Instrum. 12, 2350009"
@@ -15,7 +15,7 @@ also_relevant_to: ["10-calibration-and-system-identification"]
 keywords: ["astrometry", "geometric distortion", "distortion calibration", "astrometric calibrator", "oled screen", "calibration"]
 ---
 
-# Smartphone screens as astrometric calibrators
+# Smartphone Screens as Astrometric Calibrators
 
 **Walk et al. (2023)** · *J. Astron. Instrum. 12, 2350009* · [Free full text](https://arxiv.org/abs/2303.04961) · DOI: [10.1142/S2251171723500095](https://doi.org/10.1142/S2251171723500095)
 

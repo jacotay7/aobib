@@ -19,7 +19,7 @@ keywords: ["conference proceedings", "ao4elt", "elt", "extremely large telescope
 
 ## Summary
 
-Open-access proceedings of the first AO4ELT conference, organised by Observatoire de Paris (LESIA, GEPI) and ONERA and held in Paris in 2009, published online by EDP Sciences in 2010 (editors Y. Clénet, J.-M. Conan, T. Fusco and G. Rousset). The roughly 100 contributions cover ELT science requirements, AO system concepts for the E-ELT, TMT and GMT, wavefront sensing, deformable mirrors, laser guide stars, tomography, control and simulation. Individual papers have DOIs of the form 10.1051/ao4elt/2010xxxxx; the DOI given here is that of the volume preface.
+Open-access proceedings of the first AO4ELT conference, organised by Observatoire de Paris (LESIA, GEPI) and ONERA and held in Paris in 2009, published online by EDP Sciences in 2010 (editors Y. Clénet, J.-M. Conan, T. Fusco and G. Rousset). The roughly 90 published papers (from 63 oral and 40 poster presentations) cover ELT science requirements, AO system concepts for the E-ELT, TMT and GMT, wavefront sensing, deformable mirrors, laser guide stars, tomography, control and simulation. Individual papers have DOIs of the form 10.1051/ao4elt/2010xxxxx; the DOI given here is that of the volume preface.
 
 ## Keywords
 

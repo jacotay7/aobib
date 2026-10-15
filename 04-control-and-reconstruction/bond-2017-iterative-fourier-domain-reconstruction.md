@@ -20,7 +20,7 @@ keywords: ["fourier transform reconstructor", "ftr", "gerchberg", "boundary prob
 
 ## Summary
 
-Addresses the boundary problem of Fourier-domain wavefront reconstruction, where FFT-based methods require rectangular data with suitable boundary conditions while wavefront-sensor data are defined over a circular pupil. The authors adapt an iterative Gerchberg routine to extend the measured slopes so that FFT requirements are satisfied, and the adaptation step can be coupled to any Wiener-like or least-squares filter. Simulations of a 40x40 SPHERE-like system show improved Strehl ratio and reduced noise propagation compared with previous Fourier methods. In closed loop with few iterations, K-band Strehl increases from 95.4% to 96.9% (about 40 nm rms), with reduced high-spatial-frequency error near the edge of the correction band.
+Addresses the boundary problem of Fourier-domain wavefront reconstruction, where FFT-based methods require rectangular data with suitable boundary conditions while wavefront-sensor data are defined over a circular pupil. The authors adapt an iterative Gerchberg routine to extend the measured slopes so that FFT requirements are satisfied, and the adaptation step can be coupled to any Wiener-like or least-squares filter. Simulations of a 40x40 SPHERE-like system show improved Strehl ratio and reduced noise propagation compared with previous Fourier methods. In closed loop with few iterations, K-band Strehl increases from 95.4% to 96.9% (an improvement of about 40 nm rms), with reduced high-spatial-frequency error near the edge of the correction band.
 
 ## Keywords
 

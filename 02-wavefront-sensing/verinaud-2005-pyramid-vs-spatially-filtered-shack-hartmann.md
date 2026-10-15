@@ -6,7 +6,7 @@ venue: "MNRAS 357, L26"
 doi: "10.1111/j.1745-3933.2005.08638.x"
 bibcode: "2005MNRAS.357L..26V"
 url: "https://articles.adsabs.harvard.edu/pdf/2005MNRAS.357L..26V"
-alt_urls: []
+alt_urls: ["https://hal.science/hal-00416925"]
 access: ADS-scan
 type: paper
 subtopic: "Overviews and sensor comparisons"

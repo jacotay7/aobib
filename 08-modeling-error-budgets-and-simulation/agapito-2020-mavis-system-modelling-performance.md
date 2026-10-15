@@ -2,7 +2,7 @@
 title: "MAVIS: system modelling and performance prediction"
 authors: ["Agapito, G.", "Vassallo, D.", "Plantet, C.", "Viotto, V.", "Pinna, E.", "Neichel, B.", "Fusco, T.", "Rigaut, F."]
 year: 2020
-venue: "Proc. SPIE 11448"
+venue: "Proc. SPIE 11448, 114483R"
 doi: "10.1117/12.2561252"
 arxiv: "2012.14487"
 url: "https://arxiv.org/abs/2012.14487"
@@ -16,7 +16,7 @@ keywords: ["sky coverage", "mavis", "mcao", "performance prediction", "passata",
 
 # MAVIS: system modelling and performance prediction
 
-**Agapito et al. (2020)** · *Proc. SPIE 11448* · [Free full text](https://arxiv.org/abs/2012.14487) · DOI: [10.1117/12.2561252](https://doi.org/10.1117/12.2561252)
+**Agapito et al. (2020)** · *Proc. SPIE 11448, 114483R* · [Free full text](https://arxiv.org/abs/2012.14487) · DOI: [10.1117/12.2561252](https://doi.org/10.1117/12.2561252)
 
 ## Summary
 

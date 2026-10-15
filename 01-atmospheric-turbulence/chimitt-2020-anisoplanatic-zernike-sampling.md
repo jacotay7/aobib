@@ -1,5 +1,5 @@
 ---
-title: "Simulating Anisoplanatic Turbulence by Sampling Inter-modal and Spatially Correlated Zernike Coefficients"
+title: "Simulating anisoplanatic turbulence by sampling intermodal and spatially correlated Zernike coefficients"
 authors: ["Chimitt, N.", "Chan, S. H."]
 year: 2020
 venue: "Optical Engineering 59, 083101"
@@ -14,7 +14,7 @@ also_relevant_to: ["16-free-space-optical-communications-and-space"]
 keywords: ["anisoplanatism", "zernike polynomials", "zernike covariance", "turbulence simulation", "angle of arrival", "imaging through turbulence"]
 ---
 
-# Simulating Anisoplanatic Turbulence by Sampling Inter-modal and Spatially Correlated Zernike Coefficients
+# Simulating anisoplanatic turbulence by sampling intermodal and spatially correlated Zernike coefficients
 
 **Chimitt & Chan (2020)** · *Optical Engineering 59, 083101* · [Free full text](https://arxiv.org/abs/2004.11210) · DOI: [10.1117/1.OE.59.8.083101](https://doi.org/10.1117/1.OE.59.8.083101)
 

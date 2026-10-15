@@ -1,5 +1,5 @@
 ---
-title: "Characterisation of ALPAO deformable mirrors for the NAOMI VLTI Auxiliary Telescopes Adaptive Optics"
+title: "Characterization of ALPAO deformable mirrors for the NAOMI VLTI Auxiliary Telescopes adaptive optics"
 authors: ["Le Bouquin, J.-B.", "Berger, J.-P.", "Beuzit, J.-L.", "Cottalorda, E.", "Delboulbe, A.", "Egner, S. E.", "et al."]
 year: 2018
 venue: "Proc. SPIE 10703"
@@ -14,7 +14,7 @@ also_relevant_to: ["12-ao-systems-and-instruments"]
 keywords: ["alpao", "magnetic deformable mirror", "creep", "hysteresis", "characterization", "naomi", "vlti", "chopping"]
 ---
 
-# Characterisation of ALPAO deformable mirrors for the NAOMI VLTI Auxiliary Telescopes Adaptive Optics
+# Characterization of ALPAO deformable mirrors for the NAOMI VLTI Auxiliary Telescopes adaptive optics
 
 **Le Bouquin et al. (2018)** · *Proc. SPIE 10703* · [Free full text](https://arxiv.org/abs/1806.10552) · DOI: [10.1117/12.2313442](https://doi.org/10.1117/12.2313442)
 

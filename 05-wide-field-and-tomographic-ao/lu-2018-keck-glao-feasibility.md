@@ -2,7 +2,7 @@
 title: "Ground layer adaptive optics for the W. M. Keck Observatory: feasibility study"
 authors: ["Lu, J. R.", "Chun, M.", "Ammons, S. M.", "Bundy, K.", "Dekany, R.", "Do, T.", "et al."]
 year: 2018
-venue: "Proc. SPIE 10703"
+venue: "Proc. SPIE 10703, 107030N"
 doi: "10.1117/12.2314417"
 arxiv: "1807.08832"
 url: "https://arxiv.org/abs/1807.08832"
@@ -16,7 +16,7 @@ keywords: ["ground-layer ao", "glao", "keck", "feasibility study", "multi-object
 
 # Ground layer adaptive optics for the W. M. Keck Observatory: feasibility study
 
-**Lu et al. (2018)** · *Proc. SPIE 10703* · [Free full text](https://arxiv.org/abs/1807.08832) · DOI: [10.1117/12.2314417](https://doi.org/10.1117/12.2314417)
+**Lu et al. (2018)** · *Proc. SPIE 10703, 107030N* · [Free full text](https://arxiv.org/abs/1807.08832) · DOI: [10.1117/12.2314417](https://doi.org/10.1117/12.2314417)
 
 ## Summary
 

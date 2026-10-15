@@ -1,5 +1,5 @@
 ---
-title: "Performance limits of adaptive-optics/high-contrast imagers with pyramid wave-front sensors"
+title: "Performance limits of adaptive-optics/high-contrast imagers with pyramid wavefront sensors"
 authors: ["Correia, C. M.", "Fauvarque, O.", "Bond, C. Z.", "Chambouleyron, V.", "Sauvage, J.-F.", "Fusco, T."]
 year: 2020
 venue: "MNRAS 495, 4380"
@@ -14,7 +14,7 @@ also_relevant_to: ["07-high-contrast-and-extreme-ao", "08-modeling-error-budgets
 keywords: ["pyramid wavefront sensor", "pwfs", "fourier model", "error budget", "contrast", "aliasing", "extreme ao"]
 ---
 
-# Performance limits of adaptive-optics/high-contrast imagers with pyramid wave-front sensors
+# Performance limits of adaptive-optics/high-contrast imagers with pyramid wavefront sensors
 
 **Correia et al. (2020)** · *MNRAS 495, 4380* · [Free full text](https://arxiv.org/abs/2003.06011) · DOI: [10.1093/mnras/staa843](https://doi.org/10.1093/mnras/staa843)
 

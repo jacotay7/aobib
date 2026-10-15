@@ -2,9 +2,10 @@
 title: "Characterization of the MUSE NFM PSF as a function of atmospheric conditions: TipTop calibration"
 authors: ["Congiu, E.", "Bian, F.", "Manara, C. F.", "Kuznetsov, A.", "Agapito, G.", "Hartke, J.", "et al."]
 year: 2026
-venue: "arXiv:2608.04819"
+venue: "Proc. SPIE 14150, 1415069"
+doi: "10.1117/12.3102860"
 arxiv: "2608.04819"
-bibcode: "2026arXiv260804819C"
+bibcode: "2026SPIE14150E..69C"
 url: "https://arxiv.org/abs/2608.04819"
 alt_urls: []
 access: arXiv
@@ -16,7 +17,7 @@ keywords: ["muse", "galacsi", "narrow field mode", "tiptop", "exposure time calc
 
 # Characterization of the MUSE NFM PSF as a function of atmospheric conditions: TipTop calibration
 
-**Congiu et al. (2026)** · *arXiv:2608.04819* · [Free full text](https://arxiv.org/abs/2608.04819)
+**Congiu et al. (2026)** · *Proc. SPIE 14150, 1415069* · [Free full text](https://arxiv.org/abs/2608.04819) · DOI: [10.1117/12.3102860](https://doi.org/10.1117/12.3102860)
 
 ## Summary
 

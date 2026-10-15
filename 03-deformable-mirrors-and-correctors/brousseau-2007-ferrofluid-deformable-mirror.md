@@ -5,7 +5,7 @@ year: 2007
 venue: "Optics Express 15, 18190"
 doi: "10.1364/OE.15.018190"
 url: "https://doi.org/10.1364/OE.15.018190"
-alt_urls: ["https://arxiv.org/abs/1810.09987"]
+alt_urls: []
 access: open-access
 type: paper
 subtopic: "Membrane, ferrofluid & novel correctors"
@@ -19,7 +19,7 @@ keywords: ["ferrofluid deformable mirror", "liquid mirror", "magnetic actuator",
 
 ## Summary
 
-Presents a low-cost deformable mirror whose reflecting surface is a magnetic liquid (ferrofluid) shaped by a hexagonal array of small current-carrying coils. Predicted and measured performance of a 37-actuator prototype are compared, validating the model used to compute coil currents for a desired wavefront shape. The mirror corrected an 11-micron low-order aberrated wavefront to 0.05 microns rms residual, corresponding to a Strehl ratio of 0.82. Later work on response time using elastomer membranes and overdrive is linked as an alternative (Rochette et al. 2018).
+Presents a low-cost deformable mirror whose reflecting surface is a magnetic liquid (ferrofluid) shaped by a hexagonal array of small current-carrying coils. Predicted and measured performance of a 37-actuator prototype are compared, validating the model used to compute coil currents for a desired wavefront shape. The mirror corrected an 11-micron low-order aberrated wavefront to 0.05 microns rms residual, corresponding to a Strehl ratio of 0.82. Later work on the response time using elastomer membranes and overdrive is a separate paper (Rochette et al. 2018, International Journal of Optomechatronics 12, 20; arXiv:1810.09987).
 
 ## Keywords
 

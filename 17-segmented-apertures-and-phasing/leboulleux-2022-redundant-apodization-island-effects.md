@@ -1,5 +1,5 @@
 ---
-title: "Redundant apodization for direct imaging of exoplanets 2: Application to island effects"
+title: "Redundant apodization for direct imaging of exoplanets. II. Application to island effects"
 authors: ["Leboulleux, L.", "Carlotti, A.", "N'Diaye, M.", "Bertrou-Cantou, A.", "Milli, J.", "Pourré, N.", "et al."]
 year: 2022
 venue: "A&A 666, A91"
@@ -14,7 +14,7 @@ also_relevant_to: ["07-high-contrast-and-extreme-ao"]
 keywords: ["redundant apodized pupil", "rap", "island effect", "low-wind effect", "petal modes", "coronagraph", "elt", "apodization"]
 ---
 
-# Redundant apodization for direct imaging of exoplanets 2: Application to island effects
+# Redundant apodization for direct imaging of exoplanets. II. Application to island effects
 
 **Leboulleux et al. (2022)** · *A&A 666, A91* · [Free full text](https://arxiv.org/abs/2206.00295) · DOI: [10.1051/0004-6361/202243413](https://doi.org/10.1051/0004-6361/202243413)
 

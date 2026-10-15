@@ -1,5 +1,5 @@
 ---
-title: "Status and new operation modes of the versatile VLT/NACO"
+title: "Status and new operation modes of the versatile VLT/NaCo"
 authors: ["Girard, J. H. V.", "Kasper, M.", "Quanz, S. P.", "Kenworthy, M. A.", "Rengaswamy, S.", "Schödel, R.", "Gallenne, A.", "Gillessen, S.", "et al."]
 year: 2010
 venue: "Proc. SPIE 7736, 77362N"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["naco", "vlt", "laser guide star", "seeing improvement", "operations", "facility ao upgrade"]
 ---
 
-# Status and new operation modes of the versatile VLT/NACO
+# Status and new operation modes of the versatile VLT/NaCo
 
 **Girard et al. (2010)** · *Proc. SPIE 7736, 77362N* · [Free full text](https://arxiv.org/abs/1009.1256) · DOI: [10.1117/12.856799](https://doi.org/10.1117/12.856799)
 

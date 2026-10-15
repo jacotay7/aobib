@@ -19,7 +19,7 @@ keywords: ["mems deformable mirror", "flattening", "extreme ao", "high-contrast 
 
 ## Summary
 
-Tests whether MEMS deformable mirrors can meet the wavefront-control precision required for ground-based high-contrast imaging, about two orders of magnitude tighter than conventional AO. Using a 1024-actuator MEMS mirror with 340-micron actuator pitch and about 1 micron of stroke over an aperture 27 actuators across, the authors flattened the mirror in closed loop to 0.54 nm rms residual wavefront error within the controllable spatial-frequency range. Individual contributors to the final wavefront quality, such as actuator voltage response and uniformity, are identified and characterised. The work supported the choice of a MEMS tweeter for the Gemini Planet Imager.
+Tests whether MEMS deformable mirrors can meet the wavefront-control precision required for ground-based high-contrast imaging, about two orders of magnitude tighter than conventional AO. Using a 1024-actuator MEMS mirror with 340-micron actuator pitch and about 1 micron of stroke over an aperture 27 actuators across, the authors flattened the mirror in closed loop to 0.54 nm rms residual wavefront error within the controllable spatial-frequency range. Individual contributors to the final wavefront quality, such as actuator voltage response and uniformity, are identified and characterised.
 
 ## Keywords
 

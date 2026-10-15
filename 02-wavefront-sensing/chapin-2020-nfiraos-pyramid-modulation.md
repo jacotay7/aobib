@@ -2,7 +2,7 @@
 title: "Fast modulation and dithering for the NFIRAOS pyramid wavefront sensor"
 authors: ["Chapin, E. L.", "Andersen, D.", "Brown, O.", "Crane, J.", "Densmore, A.", "Dunn, J.", "et al."]
 year: 2020
-venue: "Proc. SPIE 11451"
+venue: "Proc. SPIE 11451, 114514V"
 doi: "10.1117/12.2560418"
 arxiv: "2108.06429"
 url: "https://arxiv.org/abs/2108.06429"
@@ -16,7 +16,7 @@ keywords: ["pyramid wavefront sensor", "pwfs", "modulation", "dithering", "optic
 
 # Fast modulation and dithering for the NFIRAOS pyramid wavefront sensor
 
-**Chapin et al. (2020)** · *Proc. SPIE 11451* · [Free full text](https://arxiv.org/abs/2108.06429) · DOI: [10.1117/12.2560418](https://doi.org/10.1117/12.2560418)
+**Chapin et al. (2020)** · *Proc. SPIE 11451, 114514V* · [Free full text](https://arxiv.org/abs/2108.06429) · DOI: [10.1117/12.2560418](https://doi.org/10.1117/12.2560418)
 
 ## Summary
 

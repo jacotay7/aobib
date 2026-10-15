@@ -19,7 +19,7 @@ keywords: ["fourier transform reconstructor", "ftr", "fast reconstruction", "sha
 
 ## Summary
 
-Shows that wavefront reconstruction with the fast Fourier transform and spatial filtering is computationally tractable and sufficiently accurate for large Shack-Hartmann adaptive optics systems with up to at least 10,000 actuators. The method is faster than vector-matrix-multiply reconstruction and can have lower noise propagation. The paper identifies and solves the boundary problem that had prevented accurate reconstruction in circular apertures with square-grid transforms, and adapts the method to the Fried geometry. Mean-squared error and noise propagation are analysed with theory and simulation. The linked free copy is the LLNL preprint (UCRL-JC-147058) on OSTI.
+Shows that wavefront reconstruction with the fast Fourier transform and spatial filtering is computationally tractable and sufficiently accurate for large Shack-Hartmann adaptive optics systems with up to at least 10,000 actuators. The method is significantly faster than vector-matrix-multiply reconstruction, with noise propagation that can be comparable. The paper identifies and solves the boundary problem that had prevented accurate reconstruction in circular apertures with square-grid transforms, and adapts the method to the Fried geometry. Mean-squared error and noise propagation are analysed with theory and simulation. The linked free copy is the LLNL preprint (UCRL-JC-147058) on OSTI.
 
 ## Keywords
 

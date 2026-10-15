@@ -1,5 +1,5 @@
 ---
-title: "A generalised non-linear reconstructor for all Fourier-type wavefront sensors"
+title: "Generalized non-linear reconstructor for all Fourier-type wavefront sensors"
 authors: ["Laidlaw, V."]
 year: 2025
 venue: "Optics Express 33, 31281"
@@ -14,7 +14,7 @@ also_relevant_to: ["04-control-and-reconstruction"]
 keywords: ["fourier-filtering wavefront sensor", "pyramid wavefront sensor", "nonlinear reconstruction", "landweber iteration", "nesterov acceleration", "strong turbulence"]
 ---
 
-# A generalised non-linear reconstructor for all Fourier-type wavefront sensors
+# Generalized non-linear reconstructor for all Fourier-type wavefront sensors
 
 **Laidlaw (2025)** · *Optics Express 33, 31281* · [Free full text](https://arxiv.org/abs/2505.03477) · DOI: [10.1364/OE.567084](https://doi.org/10.1364/OE.567084)
 

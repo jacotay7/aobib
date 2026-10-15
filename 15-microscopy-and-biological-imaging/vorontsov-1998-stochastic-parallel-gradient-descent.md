@@ -20,7 +20,7 @@ keywords: ["stochastic parallel gradient descent", "spgd", "sensorless adaptive 
 
 ## Summary
 
-Applies a new optimization technique, stochastic parallel-gradient descent (SPGD), to high-resolution adaptive wavefront correction without a wavefront sensor: all control channels are perturbed at once and the controls are updated from the resulting change in an image-quality metric. The paper introduces a performance criterion for parallel-perturbation algorithms and uses it to optimize the adaptive system architecture. It presents simulations of an adaptive imaging system based on the method and experiments with a white-light adaptive imaging system with 37 control channels, and introduces a system with a self-organized hierarchy of control channels. SPGD became a widely used approach for wavefront-sensorless AO, notably in laser and free-space optical applications.
+Applies a new optimization technique, stochastic parallel-gradient descent (SPGD), to high-resolution adaptive wavefront correction without a wavefront sensor: all control channels are perturbed at once and the controls are updated from the resulting change in an image-quality metric. The paper introduces a performance criterion for parallel-perturbation algorithms and uses it to optimize the adaptive system architecture. It presents simulations of an adaptive imaging system based on the method and experiments with a white-light adaptive imaging system with 37 control channels, and introduces a system with a self-organized hierarchy of control channels.
 
 ## Keywords
 

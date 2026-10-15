@@ -2,8 +2,9 @@
 title: "Towards higher resolution profiling using filtered laser-based adaptive optics telemetry"
 authors: ["Béchet, C."]
 year: 2022
-venue: "Proc. SPIE 12185 (Adaptive Optics Systems VIII)"
+venue: "Proc. SPIE 12185, 121851O"
 doi: "10.1117/12.2630488"
+bibcode: "2022SPIE12185E..1OB"
 url: "https://hal.science/hal-04970424"
 alt_urls: []
 access: repository
@@ -15,7 +16,7 @@ keywords: ["cn2 profile", "outer scale", "wind profile", "slodar", "laser guide 
 
 # Towards higher resolution profiling using filtered laser-based adaptive optics telemetry
 
-**Béchet (2022)** · *Proc. SPIE 12185 (Adaptive Optics Systems VIII)* · [Free full text](https://hal.science/hal-04970424) · DOI: [10.1117/12.2630488](https://doi.org/10.1117/12.2630488)
+**Béchet (2022)** · *Proc. SPIE 12185, 121851O* · [Free full text](https://hal.science/hal-04970424) · DOI: [10.1117/12.2630488](https://doi.org/10.1117/12.2630488)
 
 ## Summary
 

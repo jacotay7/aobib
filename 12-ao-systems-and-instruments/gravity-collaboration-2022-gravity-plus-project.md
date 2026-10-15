@@ -20,7 +20,7 @@ keywords: ["gravity+", "vlti", "laser guide star", "interferometry", "facility a
 
 ## Summary
 
-This article outlines the GRAVITY+ upgrade of GRAVITY and the VLT Interferometer, aimed at all-sky coverage, fainter targets and high-contrast interferometry. The upgrade includes wide-field off-axis fringe tracking, new adaptive optics systems on all four Unit Telescopes, and laser guide stars on all UTs. The science drivers include black-hole mass measurements in hundreds of active galactic nuclei across cosmic time, tests of general relativity with faint stars near the Galactic Centre, and characterisation of young exoplanets. The AO upgrade replaces the earlier MACAO/CIAO systems with high-order natural and laser guide star sensing to increase coupled flux into the interferometer.
+This article outlines the GRAVITY+ upgrade of GRAVITY and the VLT Interferometer, aimed at all-sky coverage, fainter targets and high-contrast interferometry. The upgrade includes wide-field off-axis fringe tracking, new adaptive optics systems on all four Unit Telescopes, and laser guide stars on all UTs. The science drivers include black-hole mass measurements in hundreds of active galactic nuclei across cosmic time, tests of general relativity with faint stars near the Galactic Centre, and characterisation of young exoplanets. The AO upgrade replaces the MACAO systems with new natural and laser guide star wavefront sensors and a 1353-actuator deformable mirror on each UT, to increase the flux injected into the GRAVITY fibres.
 
 ## Keywords
 

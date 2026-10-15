@@ -6,7 +6,7 @@ venue: "Applied Optics 31, 6036"
 doi: "10.1364/AO.31.006036"
 bibcode: "1992ApOpt..31.6036W"
 url: "https://lss.fnal.gov/archive/other/steward-1040.pdf"
-alt_urls: []
+alt_urls: ["https://web.archive.org/web/20170213011812/http://lss.fnal.gov/archive/other/steward-1040.pdf"]
 access: repository
 type: paper
 subtopic: "Origins and first astronomical AO systems"

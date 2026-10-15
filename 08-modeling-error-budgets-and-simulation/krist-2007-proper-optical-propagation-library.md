@@ -2,7 +2,7 @@
 title: "PROPER: an optical propagation library"
 authors: ["Krist, J. E."]
 year: 2007
-venue: "Software (IDL/MATLAB/Python); described in Proc. SPIE 6675"
+venue: "Software (IDL/MATLAB/Python); described in Proc. SPIE 6675, 66750P"
 doi: "10.1117/12.731179"
 url: "https://proper-library.sourceforge.net/"
 alt_urls: []
@@ -15,7 +15,7 @@ keywords: ["proper", "fresnel propagation", "angular spectrum", "physical optics
 
 # PROPER: an optical propagation library
 
-**Krist (2007)** · *Software (IDL/MATLAB/Python); described in Proc. SPIE 6675* · [Free full text](https://proper-library.sourceforge.net/) · DOI: [10.1117/12.731179](https://doi.org/10.1117/12.731179)
+**Krist (2007)** · *Software (IDL/MATLAB/Python); described in Proc. SPIE 6675, 66750P* · [Free full text](https://proper-library.sourceforge.net/) · DOI: [10.1117/12.731179](https://doi.org/10.1117/12.731179)
 
 ## Summary
 

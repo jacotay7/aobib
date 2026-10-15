@@ -1,10 +1,11 @@
 ---
-title: "On-line long-exposure phase diversity: a powerful tool for sensing quasi-static aberrations of extreme adaptive optics imaging systems"
+title: "On-Line Long-Exposure Phase Diversity: a Powerful Tool for Sensing Quasi-Static Aberrations of Extreme Adaptive Optics Imaging Systems"
 authors: ["Mugnier, L. M.", "Sauvage, J.-F.", "Fusco, T.", "Cornia, A.", "Dandy, S."]
 year: 2008
 venue: "Optics Express 16, 18406"
 doi: "10.1364/OE.16.018406"
 arxiv: "0810.0603"
+bibcode: "2008OExpr..1618406M"
 url: "https://arxiv.org/abs/0810.0603"
 alt_urls: []
 access: arXiv
@@ -14,7 +15,7 @@ also_relevant_to: ["07-high-contrast-and-extreme-ao", "02-wavefront-sensing"]
 keywords: ["phase diversity", "non-common path aberrations", "ncpa", "quasi-static aberrations", "long exposure", "extreme ao", "focal-plane wavefront sensing"]
 ---
 
-# On-line long-exposure phase diversity: a powerful tool for sensing quasi-static aberrations of extreme adaptive optics imaging systems
+# On-Line Long-Exposure Phase Diversity: a Powerful Tool for Sensing Quasi-Static Aberrations of Extreme Adaptive Optics Imaging Systems
 
 **Mugnier et al. (2008)** · *Optics Express 16, 18406* · [Free full text](https://arxiv.org/abs/0810.0603) · DOI: [10.1364/OE.16.018406](https://doi.org/10.1364/OE.16.018406)
 

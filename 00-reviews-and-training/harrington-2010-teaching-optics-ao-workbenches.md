@@ -2,8 +2,9 @@
 title: "Teaching Optics and Systems Engineering With Adaptive Optics Workbenches"
 authors: ["Harrington, D.", "Ammons, M.", "Hunter, L.", "Max, C.", "Hoffmann, M.", "Pitts, M.", "Armstrong, J. D."]
 year: 2010
-venue: "ASP Conference Series 436 (Learning from Inquiry in Practice)"
+venue: "ASP Conference Series 436, 306 (Learning from Inquiry in Practice)"
 arxiv: "1009.4463"
+bibcode: "2010ASPC..436..306H"
 url: "https://arxiv.org/abs/1009.4463"
 alt_urls: []
 access: arXiv
@@ -15,7 +16,7 @@ keywords: ["adaptive optics", "education", "laboratory", "ao demonstrator", "opt
 
 # Teaching Optics and Systems Engineering With Adaptive Optics Workbenches
 
-**Harrington et al. (2010)** · *ASP Conference Series 436 (Learning from Inquiry in Practice)* · [Free full text](https://arxiv.org/abs/1009.4463)
+**Harrington et al. (2010)** · *ASP Conference Series 436, 306 (Learning from Inquiry in Practice)* · [Free full text](https://arxiv.org/abs/1009.4463)
 
 ## Summary
 

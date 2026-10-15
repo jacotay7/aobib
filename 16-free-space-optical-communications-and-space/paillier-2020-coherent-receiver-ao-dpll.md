@@ -20,7 +20,7 @@ keywords: ["coherent communication", "phase-locked loop", "leo", "downlink", "bi
 
 ## Summary
 
-Investigates a coherent ground receiver for high-data-rate satellite-to-ground optical links that combines adaptive optics with digital carrier synchronisation. A digital phase-locked loop is proposed to compensate the Doppler shift between the received signal and the local oscillator after coarse frequency estimation. End-to-end simulations of a representative LEO downlink characterise the influence of turbulence. AO correction allows the loop to lock within a few milliseconds and track phase fluctuations; bit-error-rate performance is not degraded by the digital loop but is limited by residual amplitude fluctuations.
+Investigates a coherent ground receiver for high-data-rate satellite-to-ground optical links that combines adaptive optics with digital carrier synchronisation. A fine carrier-recovery stage based on a digital phase-locked loop is designed to track carrier frequency and phase after a prior coarse frequency estimation. A refined end-to-end model of a LEO downlink includes atmospheric turbulence, AO correction, laser phase noise and the frequency mismatch between the transmit and receive lasers. With AO, the loop converges after a few hundred microseconds and accurately tracks the phase fluctuations; residual amplitude fluctuations and laser phase noise are the dominant impairments for link performance.
 
 ## Keywords
 

@@ -5,7 +5,7 @@ year: 2010
 venue: "Optics Express 18, 5433"
 doi: "10.1364/OE.18.005433"
 url: "https://doi.org/10.1364/OE.18.005433"
-alt_urls: ["https://arxiv.org/abs/1001.5048"]
+alt_urls: []
 access: open-access
 type: paper
 subtopic: "MEMS deformable mirrors"
@@ -19,7 +19,7 @@ keywords: ["mems deformable mirror", "open-loop control", "influence function", 
 
 ## Summary
 
-Motivated by multi-object AO, in which the deformable mirror must be driven in open loop, the authors characterise a MEMS deformable mirror with the aim of an open-loop control strategy that avoids computationally heavy plate-equation models. The approach relies on additivity of the influence functions combined with careful calibration of each actuator's stroke-voltage relationship and influence function. For 100 von Karman phase screens with a mean of 97 nm rms, the mean residual open-loop error was 16.5 nm rms, of which 13.3 nm rms is fitting error and 10.8 nm rms is attributed to the DM model, about 11% of the input. A companion AO4ELT1 paper (linked as an alternative) studies the influence-function non-additivities of a 1024-actuator device.
+Motivated by multi-object AO, in which the deformable mirror must be driven in open loop, the authors characterise a MEMS deformable mirror with the aim of an open-loop control strategy that avoids computationally heavy plate-equation models. The approach relies on additivity of the influence functions combined with careful calibration of each actuator's stroke-voltage relationship and influence function. For 100 von Karman phase screens with a mean of 97 nm rms, the mean residual open-loop error was 16.5 nm rms, of which 13.3 nm rms is fitting error and 10.8 nm rms is attributed to the DM model, about 11% of the input. A separate companion AO4ELT1 paper (arXiv:1001.5048) studies the influence-function non-additivities of a 1024-actuator device.
 
 ## Keywords
 

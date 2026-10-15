@@ -20,7 +20,7 @@ keywords: ["turbulence forecasting", "seeing", "machine learning", "mauna kea", 
 
 ## Summary
 
-Presents a machine-learning approach that translates the experience of the Maunakea Weather Center forecasters into a forecast of nightly average optical turbulence. Observed seeing measurements available since 2009 and weather-model forecast variables were used to build a predictive model of total and free-atmosphere seeing for the following five nights, including a data-clustering step. The paper describes the operational implementation and a year-long operational experiment. The stated motivations are to provide guidance to forecasters and to allow dynamic calibration of the optical-turbulence scheme in the centre's WRF model.
+Presents a machine-learning approach that translates the experience of the Maunakea Weather Center forecasters into a forecast of nightly average optical turbulence. Observed seeing measurements available since 2009 and weather-model forecast variables were used to build a predictive model of total and free-atmosphere seeing for the following five nights, including a data-clustering step. The model was tested over a year (2020) in a set-up that simulates operational use, with daily forecasts for the following five nights. The stated motivations are to provide guidance to forecasters and to allow dynamic calibration of the optical-turbulence scheme in the centre's WRF model.
 
 ## Keywords
 

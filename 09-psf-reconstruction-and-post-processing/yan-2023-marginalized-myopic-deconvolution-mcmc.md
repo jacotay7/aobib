@@ -1,5 +1,5 @@
 ---
-title: "Marginalized myopic deconvolution of adaptive optics corrected images using MCMC methods"
+title: "Marginalized myopic deconvolution of adaptive optics corrected images using Markov chain Monte Carlo methods"
 authors: ["Yan, A.", "Mugnier, L. M.", "Giovannelli, J.-F.", "Fétick, R.", "Petit, C."]
 year: 2023
 venue: "JATIS 9, 048004"
@@ -13,7 +13,7 @@ also_relevant_to: ["16-free-space-optical-communications-and-space"]
 keywords: ["myopic deconvolution", "marginal estimation", "mcmc", "psf estimation", "uncertainty quantification", "zimpol", "satellite imaging"]
 ---
 
-# Marginalized myopic deconvolution of adaptive optics corrected images using MCMC methods
+# Marginalized myopic deconvolution of adaptive optics corrected images using Markov chain Monte Carlo methods
 
 **Yan et al. (2023)** · *JATIS 9, 048004* · [Free full text](https://hal.science/hal-04051187) · DOI: [10.1117/1.JATIS.9.4.048004](https://doi.org/10.1117/1.JATIS.9.4.048004)
 

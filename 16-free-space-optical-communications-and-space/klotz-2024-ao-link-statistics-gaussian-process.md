@@ -1,7 +1,7 @@
 ---
 title: "Assessment of adaptive optics-corrected optical links statistics from integrated turbulence parameters through a Gaussian process metamodel"
 authors: ["Klotz, E.", "Lefebvre, S.", "Védrenne, N.", "Musso, C.", "Poulenard, S.", "Fusco, T."]
-year: 2023
+year: 2024
 venue: "Int. J. Satellite Communications and Networking 42, 38-56"
 doi: "10.1002/sat.1497"
 url: "https://doi.org/10.1002/sat.1497"
@@ -15,7 +15,7 @@ keywords: ["single-mode fiber coupling", "downlink", "performance prediction", "
 
 # Assessment of adaptive optics-corrected optical links statistics from integrated turbulence parameters through a Gaussian process metamodel
 
-**Klotz et al. (2023)** · *Int. J. Satellite Communications and Networking 42, 38-56* · [Free full text](https://doi.org/10.1002/sat.1497) · DOI: [10.1002/sat.1497](https://doi.org/10.1002/sat.1497)
+**Klotz et al. (2024)** · *Int. J. Satellite Communications and Networking 42, 38-56* · [Free full text](https://doi.org/10.1002/sat.1497) · DOI: [10.1002/sat.1497](https://doi.org/10.1002/sat.1497)
 
 ## Summary
 

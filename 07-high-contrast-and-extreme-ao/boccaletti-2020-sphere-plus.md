@@ -19,7 +19,7 @@ keywords: ["sphere", "saxo+", "upgrade", "vlt", "extreme ao", "exao", "exoplanet
 
 ## Summary
 
-White paper presenting the science case for SPHERE+, an upgrade of the VLT SPHERE instrument after more than five years of operation. The project aims to push high-contrast performance closer to the star in order to detect and spectroscopically characterize the giant planet population down to the snow line, via improved adaptive optics (the second-stage SAXO+ system) and new spectroscopic capabilities. The document describes the science program and its synergy with other ground and space facilities.
+White paper presenting the science case for SPHERE+, an upgrade of the VLT SPHERE instrument after more than five years of operation. The project aims to push high-contrast performance closer to the star in order to detect and spectroscopically characterize the giant planet population down to the snow line, via improved adaptive optics (a second-stage AO correction in the near-infrared behind SAXO) and new spectroscopic capabilities. The document describes the science program and its synergy with other ground and space facilities.
 
 ## Keywords
 

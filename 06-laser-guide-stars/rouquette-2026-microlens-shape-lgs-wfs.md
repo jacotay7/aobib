@@ -1,5 +1,5 @@
 ---
-title: "Impact of microlens shape on the performance of Laser Guide Star wavefront sensors for ELT-class telescopes"
+title: "Impact of microlenses shape on the performance of laser guide star wavefront sensors for ELT-class telescopes"
 authors: ["Rouquette, P.", "Neichel, B.", "Héritier, C. T.", "Jouve, P.", "Costille, A.", "Dohlen, K.", "Fusco, T."]
 year: 2026
 venue: "Proc. SPIE 14150 (Adaptive Optics Systems X)"
@@ -14,7 +14,7 @@ also_relevant_to: ["02-wavefront-sensing", "05-wide-field-and-tomographic-ao"]
 keywords: ["shack-hartmann", "microlens array", "laser guide star", "spot elongation", "centroiding", "morfeo", "harmoni", "elt", "manufacturing errors"]
 ---
 
-# Impact of microlens shape on the performance of Laser Guide Star wavefront sensors for ELT-class telescopes
+# Impact of microlenses shape on the performance of laser guide star wavefront sensors for ELT-class telescopes
 
 **Rouquette et al. (2026)** · *Proc. SPIE 14150 (Adaptive Optics Systems X)* · [Free full text](https://arxiv.org/abs/2607.26543) · DOI: [10.1117/12.3102513](https://doi.org/10.1117/12.3102513)
 

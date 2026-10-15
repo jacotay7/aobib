@@ -1,5 +1,5 @@
 ---
-title: "Using the Gerchberg-Saxton algorithm to reconstruct non-modulated pyramid wavefront sensor measurements"
+title: "Using the Gerchberg-Saxton algorithm to reconstruct nonmodulated pyramid wavefront sensor measurements"
 authors: ["Chambouleyron, V.", "Sengupta, A.", "Salama, M.", "van Kooten, M. A. M.", "Gerard, B. L.", "Haffert, S. Y.", "et al."]
 year: 2024
 venue: "A&A 681, A48"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["pyramid wavefront sensor", "pwfs", "unmodulated", "gerchberg-saxton", "phase retrieval", "dynamic range", "seal testbed"]
 ---
 
-# Using the Gerchberg-Saxton algorithm to reconstruct non-modulated pyramid wavefront sensor measurements
+# Using the Gerchberg-Saxton algorithm to reconstruct nonmodulated pyramid wavefront sensor measurements
 
 **Chambouleyron et al. (2024)** · *A&A 681, A48* · [Free full text](https://arxiv.org/abs/2309.14283) · DOI: [10.1051/0004-6361/202347220](https://doi.org/10.1051/0004-6361/202347220)
 

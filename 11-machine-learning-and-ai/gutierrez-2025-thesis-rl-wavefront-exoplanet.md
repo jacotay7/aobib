@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement learning for wavefront command in exoplanet imaging (Apprentissage par renforcement pour la correction de surface d'onde en imagerie d'exoplanetes)"
+title: "Reinforcement learning for wavefront command in exoplanet imaging (Apprentissage par renforcement pour la correction de surface d'onde en imagerie d'exoplanètes)"
 authors: ["Gutierrez, Y."]
 year: 2025
 venue: "PhD thesis (HAL tel-05583288)"
@@ -13,7 +13,7 @@ also_relevant_to: ["07-high-contrast-and-extreme-ao"]
 keywords: ["thesis", "reinforcement learning", "dark hole", "focal-plane wavefront sensing", "coronagraph", "phase diversity", "high-contrast imaging"]
 ---
 
-# Reinforcement learning for wavefront command in exoplanet imaging (Apprentissage par renforcement pour la correction de surface d'onde en imagerie d'exoplanetes)
+# Reinforcement learning for wavefront command in exoplanet imaging (Apprentissage par renforcement pour la correction de surface d'onde en imagerie d'exoplanètes)
 
 **Gutierrez (2025)** · *PhD thesis (HAL tel-05583288)* · [Free full text](https://theses.hal.science/tel-05583288) · DOI: [10.70675/12bc8d88z307az40a0z8b00za8d9df0661ac](https://doi.org/10.70675/12bc8d88z307az40a0z8b00za8d9df0661ac)
 

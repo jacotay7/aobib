@@ -20,7 +20,7 @@ keywords: ["tiptop", "fourier model", "psf", "exposure time calculator", "scao",
 
 ## Summary
 
-TIPTOP is a fast Python tool that produces the expected AO PSF for SCAO, LTAO, MCAO and GLAO observing modes under arbitrary atmospheric conditions (seeing, Cn2 profile, wind speed) and natural guide star configurations. It follows an analytical approach with computations in the Fourier domain, reaching computation times of a few seconds per PSF so that the parameter space can be explored efficiently. The tool unifies previous Fourier-based codes in a single framework and is intended as a building block of the ELT exposure time calculator, as well as for AO design, PSF reconstruction and asterism selection.
+TIPTOP is a fast Python tool that produces the expected AO PSF for SCAO, LTAO, MCAO and GLAO observing modes under arbitrary atmospheric conditions (seeing, Cn2 profile, wind speed) and natural guide star configurations. It follows an analytical approach with computations in the Fourier domain, reaching computation times of a few seconds per PSF so that the parameter space can be explored efficiently. The tool unifies previous Fourier-based codes in a single framework and is intended as a building block of the ELT observation-preparation tools, including natural guide star asterism selection and the exposure time calculator.
 
 ## Keywords
 

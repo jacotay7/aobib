@@ -19,7 +19,7 @@ keywords: ["review", "adaptive optics microscopy", "sensorless adaptive optics",
 
 ## Summary
 
-Invited review by several of the main groups in the field covering classic and recently developed adaptive optics techniques for optical microscopy. It is organised by approach: direct wavefront sensing, zonal methods with indirect wavefront sensing (pupil segmentation), modal sensorless correction, interferometric focus-sensing methods, phase retrieval and phase diversity, and machine-learning and computational approaches. For each, representative applications to high- and super-resolution imaging of biological structure and function in complex tissues are described, followed by practical considerations and an outlook.
+Invited review by authors from several adaptive optics microscopy groups, covering classic and recently developed adaptive optics techniques for optical microscopy. It is organised by approach: direct wavefront sensing, zonal methods with indirect wavefront sensing (pupil segmentation), modal sensorless correction, interferometric focus-sensing methods, phase retrieval and phase diversity, and machine-learning and computational approaches. For each, representative applications to high- and super-resolution imaging of biological structure and function in complex tissues are described, followed by practical considerations and an outlook.
 
 ## Keywords
 

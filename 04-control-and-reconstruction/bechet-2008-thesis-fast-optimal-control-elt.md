@@ -18,7 +18,7 @@ keywords: ["frim", "minimum variance", "optimal control", "internal model contro
 
 ## Summary
 
-Thesis (in French) on fast optimal control for adaptive optics on 30-100 m telescopes, where thousands of degrees of freedom must be estimated in real time. It shows that wavefront estimation error can be reduced by about a factor of 2 in variance by using prior knowledge of turbulence statistics together with a fast algorithm suited to large systems (the FRiM approach). Optimizing a closed-loop criterion then leads to an optimal internal-model controller that remains applicable in real time on very large telescopes thanks to the same fast algorithm. Robustness and performance are assessed with a full AO simulator and compared with other approaches.
+Thesis (in French) on fast optimal control for adaptive optics on 30-100 m telescopes, where thousands of degrees of freedom must be estimated in real time. It shows that wavefront estimation error can be reduced by about a factor of 2 in variance by using prior knowledge of turbulence statistics together with a fast algorithm suited to large systems (the FrIM approach). Optimizing a closed-loop criterion then leads to an optimal internal-model controller that remains applicable in real time on very large telescopes thanks to the same fast algorithm. Robustness and performance are assessed with a full AO simulator and compared with other approaches.
 
 ## Keywords
 

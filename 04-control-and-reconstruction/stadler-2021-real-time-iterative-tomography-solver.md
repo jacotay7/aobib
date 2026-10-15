@@ -1,7 +1,7 @@
 ---
-title: "Real-time implementation of an iterative solver for atmospheric tomography"
+title: "Parallel implementation of an iterative solver for atmospheric tomography"
 authors: ["Stadler, B.", "Biasi, R.", "Manetti, M.", "Ramlau, R."]
-year: 2020
+year: 2021
 venue: "Proc. ICCSA 2021 (IEEE), 123"
 doi: "10.1109/ICCSA54496.2021.00026"
 arxiv: "2009.00946"
@@ -14,9 +14,9 @@ also_relevant_to: ["05-wide-field-and-tomographic-ao"]
 keywords: ["fewha", "wavelet reconstructor", "tomography", "gpu", "parallel computing", "real-time computing", "extremely large telescope"]
 ---
 
-# Real-time implementation of an iterative solver for atmospheric tomography
+# Parallel implementation of an iterative solver for atmospheric tomography
 
-**Stadler et al. (2020)** · *Proc. ICCSA 2021 (IEEE), 123* · [Free full text](https://arxiv.org/abs/2009.00946) · DOI: [10.1109/ICCSA54496.2021.00026](https://doi.org/10.1109/ICCSA54496.2021.00026)
+**Stadler et al. (2021)** · *Proc. ICCSA 2021 (IEEE), 123* · [Free full text](https://arxiv.org/abs/2009.00946) · DOI: [10.1109/ICCSA54496.2021.00026](https://doi.org/10.1109/ICCSA54496.2021.00026)
 
 ## Summary
 

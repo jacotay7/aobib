@@ -19,7 +19,7 @@ keywords: ["adaptive optics", "ocular aberrations", "fundus camera", "flood illu
 
 ## Summary
 
-Reports correction of the eye's higher-order monochromatic aberrations with adaptive optics; these aberrations are not corrected by spectacles or contact lenses and blur vision when the pupil is large. A Hartmann-Shack wavefront sensor measured the eye's aberrations and a deformable mirror corrected them over a large pupil. Observers viewing gratings through the AO system showed increased contrast sensitivity at high spatial frequencies. The same system, configured as a flood-illumination fundus camera, resolved the cone photoreceptor mosaic in the living human eye. The paper is generally cited as the starting point of AO in vision science and ophthalmology.
+Reports correction of the eye's higher-order monochromatic aberrations with adaptive optics; these aberrations are not corrected by spectacles or contact lenses and blur vision when the pupil is large. A Hartmann-Shack wavefront sensor measured the eye's aberrations and a deformable mirror corrected them over a large pupil. Observers viewing gratings through the AO system showed increased contrast sensitivity at high spatial frequencies. The same system, configured as a flood-illumination fundus camera, resolved the cone photoreceptor mosaic in the living human eye. Earlier work by Dreher et al. had used a deformable mirror with the eye only to correct astigmatism taken from a conventional refraction.
 
 ## Keywords
 

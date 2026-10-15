@@ -18,7 +18,7 @@ keywords: ["history", "adaptive optics", "ao systems", "survey", "cfht"]
 
 ## Summary
 
-This CFHT web page, maintained by the CFHT AO group, lists the astronomical AO systems in operation or under development worldwide in 1996. It also refers to F. Rigaut's review of existing and planned AO systems on medium-sized (1.5-5 m) telescopes, presented at the 1996 Maui AO conference, although the linked PostScript file and survey database are no longer online. Systems listed include ADONIS, the University of Hawaii AO system, CFHT's PUEO, Mt Wilson ACE, the Keck and Gemini projects, the Starfire Optical Range, the Lick laser guide star system and others. It is a historical snapshot of the field shortly before the 8-10 m telescope AO era.
+This CFHT web page, created in January 1996 and maintained by Olivier Lai of the CFHT AO group, lists the astronomical AO systems in operation or under development worldwide in 1996. It also refers to F. Rigaut's review of existing and planned AO systems on medium-sized (1.5-5 m) telescopes, presented at the 1996 Maui AO conference, although the linked PostScript file and survey database are no longer online. Systems listed include ADONIS, the University of Hawaii AO system, CFHT's PUEO, Mt Wilson ACE, the Keck and Gemini projects, the Starfire Optical Range, the Lick laser guide star system and others. It is a historical snapshot of the field shortly before the 8-10 m telescope AO era.
 
 ## Keywords
 

@@ -2,7 +2,7 @@
 title: "POPPY: Physical Optics Propagation in Python"
 authors: ["Perrin, M. D.", "Soummer, R.", "Elliott, E. M.", "Lallo, M. D.", "Sivaramakrishnan, A."]
 year: 2012
-venue: "Software (Python); described in Proc. SPIE 8442"
+venue: "Software (Python); described in Proc. SPIE 8442, 84423D"
 doi: "10.1117/12.925230"
 url: "https://poppy-optics.readthedocs.io/"
 alt_urls: ["https://github.com/spacetelescope/poppy"]
@@ -15,7 +15,7 @@ keywords: ["poppy", "physical optics propagation", "fresnel propagation", "fraun
 
 # POPPY: Physical Optics Propagation in Python
 
-**Perrin et al. (2012)** · *Software (Python); described in Proc. SPIE 8442* · [Free full text](https://poppy-optics.readthedocs.io/) · DOI: [10.1117/12.925230](https://doi.org/10.1117/12.925230)
+**Perrin et al. (2012)** · *Software (Python); described in Proc. SPIE 8442, 84423D* · [Free full text](https://poppy-optics.readthedocs.io/) · DOI: [10.1117/12.925230](https://doi.org/10.1117/12.925230)
 
 ## Summary
 

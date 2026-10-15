@@ -2,7 +2,7 @@
 title: "EMCCD for pyramid wavefront sensor: laboratory characterization"
 authors: ["Agapito, G.", "Mazzoni, T.", "Rossi, F.", "Puglisi, A.", "Plantet, C.", "Pinna, E."]
 year: 2018
-venue: "Proc. SPIE 10703"
+venue: "Proc. SPIE 10703, 107035R"
 doi: "10.1117/12.2313827"
 arxiv: "2012.14634"
 url: "https://arxiv.org/abs/2012.14634"
@@ -16,7 +16,7 @@ keywords: ["emccd", "ocam2", "detector", "pyramid wavefront sensor", "soul", "lb
 
 # EMCCD for pyramid wavefront sensor: laboratory characterization
 
-**Agapito et al. (2018)** · *Proc. SPIE 10703* · [Free full text](https://arxiv.org/abs/2012.14634) · DOI: [10.1117/12.2313827](https://doi.org/10.1117/12.2313827)
+**Agapito et al. (2018)** · *Proc. SPIE 10703, 107035R* · [Free full text](https://arxiv.org/abs/2012.14634) · DOI: [10.1117/12.2313827](https://doi.org/10.1117/12.2313827)
 
 ## Summary
 

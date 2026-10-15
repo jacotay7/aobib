@@ -20,7 +20,7 @@ keywords: ["neural network", "carmen", "tomography", "moao", "open-loop ao", "ca
 
 ## Summary
 
-Introduces an artificial-neural-network tomographic reconstructor (later named CARMEN) for multi-object adaptive optics, which estimates the on-axis target phase from off-axis guide-star Shack-Hartmann measurements. The method is compared with a least-squares matrix reconstructor and with the Learn & Apply method developed for the CANARY MOAO demonstrator. Because the network is trained over a wide range of turbulent-layer altitudes, it does not require the turbulence profile as an input and is less sensitive to changing conditions. The authors also exploit the non-linear response of the network to obtain greater robustness to noisy centroid measurements than linear techniques.
+Introduces an artificial-neural-network tomographic reconstructor, named CARMEN (Complex Atmospheric Reconstructor based on Machine lEarNing), for multi-object adaptive optics, which estimates the on-axis target phase from off-axis guide-star Shack-Hartmann measurements. The method is compared with a least-squares matrix reconstructor and with the Learn & Apply method developed for the CANARY MOAO demonstrator. Because the network is trained over a wide range of turbulent-layer altitudes, it does not require the turbulence profile as an input and is less sensitive to changing conditions. The authors also exploit the non-linear response of the network to obtain greater robustness to noisy centroid measurements than linear techniques.
 
 ## Keywords
 

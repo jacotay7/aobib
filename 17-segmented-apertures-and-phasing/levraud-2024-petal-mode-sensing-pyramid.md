@@ -1,5 +1,5 @@
 ---
-title: "A strategy for sensing the petal mode in the presence of AO residual turbulence with a pyramid wavefront sensor"
+title: "A strategy for sensing the petal mode in the presence of AO residual turbulence with the pyramid wavefront sensor"
 authors: ["Levraud, N.", "Chambouleyron, V.", "Sauvage, J.-F.", "Neichel, B.", "Cissé, M.", "Fauvarque, O.", "et al."]
 year: 2024
 venue: "A&A 682, A84"
@@ -14,7 +14,7 @@ also_relevant_to: ["02-wavefront-sensing"]
 keywords: ["petal modes", "pyramid wavefront sensor", "unmodulated", "pupil fragmentation", "spatial filtering", "elt", "differential piston", "second-stage wavefront sensor"]
 ---
 
-# A strategy for sensing the petal mode in the presence of AO residual turbulence with a pyramid wavefront sensor
+# A strategy for sensing the petal mode in the presence of AO residual turbulence with the pyramid wavefront sensor
 
 **Levraud et al. (2024)** · *A&A 682, A84* · [Free full text](https://arxiv.org/abs/2401.07570) · DOI: [10.1051/0004-6361/202346929](https://doi.org/10.1051/0004-6361/202346929)
 

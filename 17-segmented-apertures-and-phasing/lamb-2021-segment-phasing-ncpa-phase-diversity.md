@@ -1,5 +1,5 @@
 ---
-title: "Simultaneous estimation of segmented telescope phasing errors and non-common path aberrations from adaptive optics corrected images"
+title: "Simultaneous estimation of segmented telescope phasing errors and non-common path aberrations from adaptive-optics-corrected images"
 authors: ["Lamb, M.", "Correia, C.", "Sivanandam, S.", "Swanson, R.", "Zavyalova, P."]
 year: 2021
 venue: "MNRAS 505, 3347"
@@ -14,7 +14,7 @@ also_relevant_to: ["10-calibration-and-system-identification"]
 keywords: ["phase diversity", "segment phasing", "ncpa", "keck", "nirc2", "focal-plane wavefront sensing", "segmented mirror"]
 ---
 
-# Simultaneous estimation of segmented telescope phasing errors and non-common path aberrations from adaptive optics corrected images
+# Simultaneous estimation of segmented telescope phasing errors and non-common path aberrations from adaptive-optics-corrected images
 
 **Lamb et al. (2021)** · *MNRAS 505, 3347* · [Free full text](https://arxiv.org/abs/2104.14609) · DOI: [10.1093/mnras/stab1247](https://doi.org/10.1093/mnras/stab1247)
 

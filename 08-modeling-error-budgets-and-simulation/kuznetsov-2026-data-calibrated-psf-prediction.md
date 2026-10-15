@@ -2,7 +2,7 @@
 title: "Data-calibrated point spread function prediction: General description of the method and demonstration on MUSE-NFM"
 authors: ["Kuznetsov, A.", "Neichel, B.", "Oberti, S.", "Fusco, T."]
 year: 2026
-venue: "A&A"
+venue: "A&A 708, A311"
 doi: "10.1051/0004-6361/202557297"
 arxiv: "2603.23339"
 url: "https://arxiv.org/abs/2603.23339"
@@ -16,7 +16,7 @@ keywords: ["psf prediction", "model validation", "tiptop", "muse", "neural netwo
 
 # Data-calibrated point spread function prediction: General description of the method and demonstration on MUSE-NFM
 
-**Kuznetsov et al. (2026)** · *A&A* · [Free full text](https://arxiv.org/abs/2603.23339) · DOI: [10.1051/0004-6361/202557297](https://doi.org/10.1051/0004-6361/202557297)
+**Kuznetsov et al. (2026)** · *A&A 708, A311* · [Free full text](https://arxiv.org/abs/2603.23339) · DOI: [10.1051/0004-6361/202557297](https://doi.org/10.1051/0004-6361/202557297)
 
 ## Summary
 

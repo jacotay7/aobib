@@ -56,11 +56,15 @@ We only link; never commit PDFs or full text to this repository.
 1. Pick the single best **home topic** folder. If it is also useful elsewhere,
    list the other folders in `also_relevant_to` and it will be cross-listed
    in their indexes automatically. Do not create duplicate files.
-2. Copy [`TEMPLATE.md`](TEMPLATE.md) to `<topic>/<firstauthor>-<year>-<short-slug>.md`.
-3. Fill in the front matter. Verify arXiv IDs with
+2. Copy [`TEMPLATE.md`](TEMPLATE.md) to `<topic>/<firstauthor>-<year>-<short-slug>.md`,
+   using the first author and year of the published version (not the arXiv year).
+3. Fill in the front matter. Title, authors, year and venue describe the published version
+   when there is one, even if the free link is a preprint. Verify arXiv IDs with
    `python3 tools/arxiv_lookup.py <id>` and the link with
-   `python3 tools/check_links.py <topic>/<file>.md`.
-4. Write a neutral 3–6 sentence summary from the abstract or paper itself,
+   `python3 tools/check_links.py <topic>/<file>.md`. `alt_urls` holds only other free copies
+   of the same work; cite companion or follow-up papers in the summary instead.
+4. Write a neutral 3–6 sentence summary from the abstract or paper itself (the published
+   abstract when the preprint differs),
    plus keywords (lowercase; reuse existing keywords from
    [`KEYWORDS.md`](KEYWORDS.md) where possible).
 5. Run `python3 tools/build_index.py` to validate and regenerate all indexes.

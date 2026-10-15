@@ -1,5 +1,5 @@
 ---
-title: "GREGOR: Optics Redesign and Updates from 2018-2020"
+title: "GREGOR: Optics redesign and updates from 2018-2020"
 authors: ["Kleint, L.", "Berkefeld, T.", "Esteves, M.", "Sonner, T.", "Volkmer, R.", "Gerber, K.", "et al."]
 year: 2020
 venue: "A&A 641, A27"
@@ -14,7 +14,7 @@ also_relevant_to: ["12-ao-systems-and-instruments"]
 keywords: ["gregor", "solar telescope", "solar adaptive optics", "upgrade", "diffraction-limited imaging"]
 ---
 
-# GREGOR: Optics Redesign and Updates from 2018-2020
+# GREGOR: Optics redesign and updates from 2018-2020
 
 **Kleint et al. (2020)** · *A&A 641, A27* · [Free full text](https://arxiv.org/abs/2006.11875) · DOI: [10.1051/0004-6361/202038208](https://doi.org/10.1051/0004-6361/202038208)
 

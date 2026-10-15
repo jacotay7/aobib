@@ -19,7 +19,7 @@ keywords: ["speckle noise", "speckle", "companion detection", "strehl ratio", "d
 
 ## Summary
 
-Classic analysis of speckle noise as the limiting noise source for detecting faint companions close to bright stars in adaptive-optics images. The paper examines how residual speckles in the AO halo, rather than photon noise, set the detection limit over much of the field, and how this limit depends on Strehl ratio and on speckle temporal behavior with exposure time. It is widely cited as a motivation for very high-order (extreme) AO and for speckle calibration techniques such as simultaneous differential imaging.
+Analysis of speckle noise as the limiting noise source for detecting faint companions close to bright stars in adaptive-optics images. The paper examines how residual speckles in the AO halo, rather than photon noise, set the detection limit, and how this limit depends on the speckle dwell time, the stellar brightness and the Strehl ratio. The predictions agree with limits found with the Canada-France-Hawaii Telescope adaptive optics bonnette, and the limiting detectable brightness scales as (1-S)/S, emphasizing the need for high Strehl ratios. Strategies to reduce speckle noise are proposed, with encouraging results from a test.
 
 ## Keywords
 

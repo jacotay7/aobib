@@ -20,7 +20,7 @@ keywords: ["lijiang 1.8 m telescope", "ioe-cas", "china", "sodium lgs", "laser g
 
 ## Summary
 
-Reports the first-generation sodium laser guide star AO system developed by the Institute of Optics and Electronics (CAS) with partners and integrated on the Lijiang 1.8-m telescope (Gaomeigu, Yunnan) in 2013. The system comprises a 20 W long-pulsed sodium laser developed at the Technical Institute of Physics and Chemistry (CAS), a 300-mm laser launch telescope, and a compact 37-element AO system. First light was obtained on 25 January 2014, with high-resolution images of the mV = 8.18 star HIP 43963. The paper describes the laser, the launch telescope, the compact AO system, and the first-light results; it documents the first sodium LGS AO system on a Chinese telescope.
+Reports the first-generation sodium laser guide star AO system developed by the Institute of Optics and Electronics (CAS) with partners and integrated on the Lijiang 1.8-m telescope (Gaomeigu, Yunnan) in 2013. The system comprises a 20 W long-pulsed sodium laser developed at the Technical Institute of Physics and Chemistry (CAS), a 300-mm laser launch telescope, and a compact 37-element AO system. First light was obtained on 25 January 2014, with high-resolution images of the mV = 8.18 star HIP 43963. The paper describes the laser, the launch telescope, the compact AO system, and the first-light results.
 
 ## Keywords
 

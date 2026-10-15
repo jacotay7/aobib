@@ -1,5 +1,5 @@
 ---
-title: "Tilt anisoplanatism in laser-guide-star-based multiconjugate adaptive optics"
+title: "Tilt anisoplanatism in laser-guide-star-based multiconjugate adaptive optics. Reconstruction of the long exposure point spread function from control loop data"
 authors: ["Flicker, R. C.", "Rigaut, F. J.", "Ellerbroek, B. L."]
 year: 2003
 venue: "A&A 400, 1199"
@@ -13,7 +13,7 @@ also_relevant_to: ["06-laser-guide-stars", "09-psf-reconstruction-and-post-proce
 keywords: ["tilt anisoplanatism", "laser guide star", "multi-conjugate ao", "mcao", "null modes", "psf reconstruction", "natural guide star"]
 ---
 
-# Tilt anisoplanatism in laser-guide-star-based multiconjugate adaptive optics
+# Tilt anisoplanatism in laser-guide-star-based multiconjugate adaptive optics. Reconstruction of the long exposure point spread function from control loop data
 
 **Flicker et al. (2003)** · *A&A 400, 1199* · [Free full text](https://www.aanda.org/articles/aa/pdf/2003/12/aah3939.pdf) · DOI: [10.1051/0004-6361:20030022](https://doi.org/10.1051/0004-6361:20030022)
 

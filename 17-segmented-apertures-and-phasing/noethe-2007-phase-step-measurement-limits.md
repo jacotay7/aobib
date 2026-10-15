@@ -1,5 +1,5 @@
 ---
-title: "Optical measurements of phase steps in segmented mirrors - fundamental precision limits"
+title: "Optical measurements of phase steps in segmented mirrors—fundamental precision limits"
 authors: ["Noethe, L.", "Adorf, H. M."]
 year: 2007
 venue: "Journal of Modern Optics 54, 3"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["phasing sensor", "cramer-rao bound", "segmented mirror", "phase steps", "shack-hartmann", "curvature wavefront sensor", "mach-zehnder", "photon noise"]
 ---
 
-# Optical measurements of phase steps in segmented mirrors - fundamental precision limits
+# Optical measurements of phase steps in segmented mirrors—fundamental precision limits
 
 **Noethe & Adorf (2007)** · *Journal of Modern Optics 54, 3* · [Free full text](https://arxiv.org/abs/physics/0604056) · DOI: [10.1080/09500340600842252](https://doi.org/10.1080/09500340600842252)
 

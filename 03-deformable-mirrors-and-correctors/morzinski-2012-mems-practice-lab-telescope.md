@@ -1,5 +1,5 @@
 ---
-title: "MEMS practice, from the lab to the telescope"
+title: "MEMS practice: from the lab to the telescope"
 authors: ["Morzinski, K. M.", "Norton, A. P.", "Evans, J. W.", "Reza, L.", "Severson, S. A.", "Dillon, D.", "et al."]
 year: 2012
 venue: "Proc. SPIE 8253, 825304"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["mems deformable mirror", "characterization", "open-loop control", "villages", "visible ao", "on-sky demonstration", "ucsc"]
 ---
 
-# MEMS practice, from the lab to the telescope
+# MEMS practice: from the lab to the telescope
 
 **Morzinski et al. (2012)** · *Proc. SPIE 8253, 825304* · [Free full text](https://arxiv.org/abs/1202.1566) · DOI: [10.1117/12.910964](https://doi.org/10.1117/12.910964)
 

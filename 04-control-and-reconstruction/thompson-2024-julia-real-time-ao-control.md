@@ -2,7 +2,7 @@
 title: "Real-time adaptive optics control with a high level programming language"
 authors: ["Thompson, W.", "Gamroth, D.", "Marois, C.", "Lardière, O."]
 year: 2024
-venue: "Proc. SPIE 13097 (Adaptive Optics Systems IX)"
+venue: "Proc. SPIE 13097, 130972C"
 doi: "10.1117/12.3020480"
 arxiv: "2407.07207"
 url: "https://arxiv.org/abs/2407.07207"
@@ -16,7 +16,7 @@ keywords: ["real-time controller", "rtc", "julia", "open-source software", "late
 
 # Real-time adaptive optics control with a high level programming language
 
-**Thompson et al. (2024)** · *Proc. SPIE 13097 (Adaptive Optics Systems IX)* · [Free full text](https://arxiv.org/abs/2407.07207) · DOI: [10.1117/12.3020480](https://doi.org/10.1117/12.3020480)
+**Thompson et al. (2024)** · *Proc. SPIE 13097, 130972C* · [Free full text](https://arxiv.org/abs/2407.07207) · DOI: [10.1117/12.3020480](https://doi.org/10.1117/12.3020480)
 
 ## Summary
 

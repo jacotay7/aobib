@@ -1,5 +1,5 @@
 ---
-title: "Cascade adaptive optics with a second stage based on a Zernike wavefront sensor for exoplanet observations"
+title: "Cascade adaptive optics with a second stage based on a Zernike wavefront sensor for exoplanet observations: Experimental validation on the ESO/GHOST testbed"
 authors: ["N'Diaye, M.", "Vigan, A.", "Engler, B.", "Kasper, M.", "Dohlen, K.", "Leveratto, S.", "et al."]
 year: 2024
 venue: "A&A 692, A157"
@@ -14,7 +14,7 @@ also_relevant_to: ["07-high-contrast-and-extreme-ao"]
 keywords: ["zernike wavefront sensor", "zwfs", "cascade ao", "second-stage ao", "ghost testbed", "extreme ao", "coronagraph"]
 ---
 
-# Cascade adaptive optics with a second stage based on a Zernike wavefront sensor for exoplanet observations
+# Cascade adaptive optics with a second stage based on a Zernike wavefront sensor for exoplanet observations: Experimental validation on the ESO/GHOST testbed
 
 **N'Diaye et al. (2024)** · *A&A 692, A157* · [Free full text](https://arxiv.org/abs/2411.11946) · DOI: [10.1051/0004-6361/202451449](https://doi.org/10.1051/0004-6361/202451449)
 

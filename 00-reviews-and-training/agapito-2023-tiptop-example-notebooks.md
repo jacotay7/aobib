@@ -18,7 +18,7 @@ keywords: ["tutorial", "tiptop", "python", "jupyter", "psf prediction", "asteris
 
 ## Summary
 
-The examples folder of the TIPTOP repository provides Jupyter notebooks and scripts showing how to use this fast analytical tool to predict AO-corrected PSFs: a basic example, a graphical-interface notebook, and asterism-evaluation examples for ERIS (including a high-order configuration) and MAVIS, together with notebooks for generating and reading asterism record arrays. They are a quick, hands-on way to explore how AO performance depends on guide-star configuration and system parameters. TIPTOP itself is described in the simulation topic; the authors listed here are those of its 2023 description paper.
+The examples folder of the TIPTOP repository provides Jupyter notebooks and scripts showing how to use this fast analytical tool to predict AO-corrected PSFs: a basic example, a graphical-interface notebook, and asterism-evaluation examples for ERIS (including a high-order configuration) and MAVIS, together with notebooks for generating and reading asterism record arrays. They are a quick, hands-on way to explore how AO performance depends on guide-star configuration and system parameters. TIPTOP itself is described in the simulation topic; the authors listed here are those of the 2023 AO4ELT7 TIPTOP paper on the cone effect.
 
 ## Keywords
 

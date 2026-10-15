@@ -2,7 +2,7 @@
 title: "PCS - A Roadmap for Exoearth Imaging with the ELT"
 authors: ["Kasper, M.", "Cerpa Urra, N.", "Pathak, P.", "Bonse, M.", "Nousiainen, J.", "Engler, B.", "et al."]
 year: 2021
-venue: "The Messenger 182"
+venue: "The Messenger 182, 38"
 doi: "10.18727/0722-6691/5221"
 arxiv: "2103.11196"
 url: "https://arxiv.org/abs/2103.11196"
@@ -16,7 +16,7 @@ keywords: ["pcs", "elt", "extremely large telescope", "extreme ao", "exao", "cor
 
 # PCS - A Roadmap for Exoearth Imaging with the ELT
 
-**Kasper et al. (2021)** · *The Messenger 182* · [Free full text](https://arxiv.org/abs/2103.11196) · DOI: [10.18727/0722-6691/5221](https://doi.org/10.18727/0722-6691/5221)
+**Kasper et al. (2021)** · *The Messenger 182, 38* · [Free full text](https://arxiv.org/abs/2103.11196) · DOI: [10.18727/0722-6691/5221](https://doi.org/10.18727/0722-6691/5221)
 
 ## Summary
 

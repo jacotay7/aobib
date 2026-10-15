@@ -3,6 +3,7 @@ title: "On-sky demonstration of self-learning predictive control with MagAO-X"
 authors: ["Haffert, S. Y.", "Males, J. R.", "Johnson, P. T.", "Close, L. M.", "Guyon, O.", "Kueny, J.", "et al."]
 year: 2026
 venue: "Proc. SPIE 14150 (Adaptive Optics Systems X), 1415078"
+doi: "10.48550/arXiv.2608.24339"
 arxiv: "2608.24339"
 url: "https://arxiv.org/abs/2608.24339"
 alt_urls: []
@@ -15,7 +16,7 @@ keywords: ["subspace predictive control", "data-driven", "recursive least square
 
 # On-sky demonstration of self-learning predictive control with MagAO-X
 
-**Haffert et al. (2026)** · *Proc. SPIE 14150 (Adaptive Optics Systems X), 1415078* · [Free full text](https://arxiv.org/abs/2608.24339)
+**Haffert et al. (2026)** · *Proc. SPIE 14150 (Adaptive Optics Systems X), 1415078* · [Free full text](https://arxiv.org/abs/2608.24339) · DOI: [10.48550/arXiv.2608.24339](https://doi.org/10.48550/arXiv.2608.24339)
 
 ## Summary
 

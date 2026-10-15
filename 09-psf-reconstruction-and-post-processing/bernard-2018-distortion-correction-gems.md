@@ -1,5 +1,5 @@
 ---
-title: "Optimal correction of distortion for high-angular-resolution images. Application to GeMS data"
+title: "Optimal correction of distortion for high-angular-resolution images: Application to GeMS data"
 authors: ["Bernard, A.", "Neichel, B.", "Mugnier, L. M.", "Fusco, T."]
 year: 2018
 venue: "MNRAS 473, 2590"
@@ -14,7 +14,7 @@ also_relevant_to: ["05-wide-field-and-tomographic-ao"]
 keywords: ["geometric distortion", "astrometry", "mcao", "gems", "inverse problems", "weighted least squares", "image registration"]
 ---
 
-# Optimal correction of distortion for high-angular-resolution images. Application to GeMS data
+# Optimal correction of distortion for high-angular-resolution images: Application to GeMS data
 
 **Bernard et al. (2018)** · *MNRAS 473, 2590* · [Free full text](https://arxiv.org/abs/1709.08567) · DOI: [10.1093/mnras/stx2517](https://doi.org/10.1093/mnras/stx2517)
 

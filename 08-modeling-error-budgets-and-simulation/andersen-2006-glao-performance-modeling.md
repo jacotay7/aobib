@@ -20,7 +20,7 @@ keywords: ["glao", "ground-layer ao", "performance prediction", "code comparison
 
 ## Summary
 
-Five independent analytic and Monte Carlo simulation codes are used to study the performance of wide-field ground-layer AO with a single low-order deformable mirror. The GLAO PSF is found to keep the functional form of a seeing-limited PSF, characterized by its FWHM, which is reduced by 0.1 arcsec or more at optical and near-infrared wavelengths. For the Cerro Pachon turbulence model, the best seeing-limited image quality (available 20% of the time) is reached 60-80% of the time with GLAO. The gains are relatively insensitive to field of view, DM conjugate altitude, actuator density and guide-star configuration; the paper is also a reference cross-comparison of modeling codes.
+Five independent analytic and Monte Carlo simulation codes are used to study the performance of wide-field ground-layer AO with a single low-order deformable mirror. The GLAO PSF is found to keep the functional form of a seeing-limited PSF, characterized by its FWHM, which is reduced by 0.1 arcsec or more at optical and near-infrared wavelengths. For the Cerro Pachon turbulence model, the best seeing-limited image quality (available 20% of the time) is reached 60-80% of the time with GLAO. The gains are relatively insensitive to field of view, DM conjugate altitude, actuator density and guide-star configuration. The five codes are compared directly and agree to within 0.04 arcsec in predicted FWHM.
 
 ## Keywords
 

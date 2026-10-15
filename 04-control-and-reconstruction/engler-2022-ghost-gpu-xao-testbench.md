@@ -1,8 +1,8 @@
 ---
 title: "The GPU-based High-order adaptive OpticS Testbench"
-authors: ["Engler, B.", "Kasper, M.", "Leveratto, S.", "Héritier, C. T.", "Bristow, P.", "Vérinaud, C.", "et al."]
+authors: ["Engler, B.", "Kasper, M.", "Bristow, P.", "Héritier, C. T.", "Leveratto, S.", "Vérinaud, C.", "et al."]
 year: 2022
-venue: "Proc. SPIE 12185 (Adaptive Optics Systems VIII)"
+venue: "Proc. SPIE 12185, 1218558"
 doi: "10.1117/12.2630595"
 arxiv: "2411.05408"
 url: "https://arxiv.org/abs/2411.05408"
@@ -16,7 +16,7 @@ keywords: ["gpu", "testbed", "cascade ao", "pyramid wavefront sensor", "predicti
 
 # The GPU-based High-order adaptive OpticS Testbench
 
-**Engler et al. (2022)** · *Proc. SPIE 12185 (Adaptive Optics Systems VIII)* · [Free full text](https://arxiv.org/abs/2411.05408) · DOI: [10.1117/12.2630595](https://doi.org/10.1117/12.2630595)
+**Engler et al. (2022)** · *Proc. SPIE 12185, 1218558* · [Free full text](https://arxiv.org/abs/2411.05408) · DOI: [10.1117/12.2630595](https://doi.org/10.1117/12.2630595)
 
 ## Summary
 

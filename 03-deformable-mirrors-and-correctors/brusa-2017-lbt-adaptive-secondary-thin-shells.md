@@ -19,7 +19,7 @@ keywords: ["adaptive secondary mirror", "thin shell", "lbt", "maintenance", "coa
 
 ## Summary
 
-Reports operational experience with the three 911-mm, 1.6-mm-thick Zerodur thin shells (two in use, one spare) of the Large Binocular Telescope adaptive secondary mirrors, each carrying 672 magnets. The paper describes the handling procedures for removing shells from their units and for re-coating, and the regular and extraordinary maintenance carried out over five to six years of operation, including optical-side re-coating, magnet re-gluing, and re-coating of the magnet-side surface. It also discusses the strategies adopted to protect these fragile components during handling.
+Reports operational experience with the three 911-mm, 1.6-mm-thick thin shells (two in use, one spare) of the Large Binocular Telescope adaptive secondary mirrors, each carrying 672 magnets. The paper describes the handling procedures for removing shells from their units and for re-coating, and the regular and extraordinary maintenance carried out over five to six years of operation, including optical-side re-coating, magnet re-gluing, and re-coating of the magnet-side surface. It also discusses the strategies adopted to protect these fragile components during handling.
 
 ## Keywords
 

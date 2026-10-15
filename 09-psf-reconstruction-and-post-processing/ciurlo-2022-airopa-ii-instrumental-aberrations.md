@@ -20,7 +20,7 @@ keywords: ["airopa", "off-axis psf", "field-dependent aberrations", "phase diver
 
 ## Summary
 
-AIROPA is a project to model spatial PSF variations in Keck/NIRC2 single-conjugate AO images caused by atmospheric anisoplanatism and instrumental aberrations. This paper characterizes the instrumental phase aberrations over the full NIRC2 field using phase diversity measurements on an artificial source and introduces the fraction of variance unexplained (FVU) as a calibration-quality metric. The wavefront error common to the whole detector varies from day to day (94 nm rms residuals), while differential aberrations across the field are stable (59 nm rms between epochs), so the field-dependent calibration need only be repeated rarely. Modeling the field variation improves FVU by 60% and reduces fake source detections by 70% in fiber images.
+AIROPA is a project to model spatial PSF variations in Keck/NIRC2 single-conjugate AO images caused by atmospheric anisoplanatism and instrumental aberrations. This paper characterizes the instrumental phase aberrations over the full NIRC2 field using phase diversity measurements on an artificial source and introduces the fraction of variance unexplained (FVU) as a calibration-quality metric. The wavefront error common to the whole detector varies from day to day (94 nm rms residuals), while differential aberrations across the field are stable (59 nm rms between epochs), so the calibration needs to be monitored often only at the detector center, while the field-dependent part can be characterized less frequently. Modeling the field variation improves FVU by 60% and reduces fake source detections by 70% in fiber images.
 
 ## Keywords
 

@@ -2,9 +2,10 @@
 title: "Sensor fusion on MagAO-X: real time vibration control using accelerometers"
 authors: ["Johnson, P. T.", "Males, J. R.", "Palunas, P.", "Guyon, O.", "Haffert, S.", "Long, J.", "et al."]
 year: 2026
-venue: "Proc. SPIE 14150 (Adaptive Optics Systems X)"
+venue: "Proc. SPIE 14150, 141502D"
 doi: "10.1117/12.3104322"
 arxiv: "2608.10205"
+bibcode: "2026SPIE14150E..2DJ"
 url: "https://arxiv.org/abs/2608.10205"
 alt_urls: []
 access: arXiv
@@ -16,11 +17,11 @@ keywords: ["vibration", "accelerometer", "disturbance identification", "coherenc
 
 # Sensor fusion on MagAO-X: real time vibration control using accelerometers
 
-**Johnson et al. (2026)** · *Proc. SPIE 14150 (Adaptive Optics Systems X)* · [Free full text](https://arxiv.org/abs/2608.10205) · DOI: [10.1117/12.3104322](https://doi.org/10.1117/12.3104322)
+**Johnson et al. (2026)** · *Proc. SPIE 14150, 141502D* · [Free full text](https://arxiv.org/abs/2608.10205) · DOI: [10.1117/12.3104322](https://doi.org/10.1117/12.3104322)
 
 ## Summary
 
-Describes a low-cost, modular accelerometer telemetry system deployed on sky with the MagAO-X extreme AO instrument on the 6.5 m Magellan Clay telescope, using piezoelectric accelerometers and a Raspberry Pi acquisition system that streams data synchronised with the real-time computer. The system is used to identify telescope vibration sources and quantify their coupling to AO telemetry, tracing narrow-band modes to the primary-mirror glycol pump, the secondary-mirror actuation system and the autofocus system. Coherence analysis indicates that about one third of the residual tip-tilt error is correlated with structural vibrations. The authors present this as a basis for future predictive and feedforward vibration control.
+Describes a low-cost, modular accelerometer telemetry system deployed on sky with the MagAO-X extreme AO instrument on the 6.5 m Magellan Clay telescope, using piezoelectric accelerometers and a Raspberry Pi acquisition system that streams data synchronised with the real-time computer. The system is used to identify telescope vibration sources and quantify their coupling to AO telemetry, tracing narrow-band modes to the primary-mirror glycol pump, the secondary-mirror actuation system and the autofocus system. Coherence analysis indicates that about one third of the residual tip-tilt error is correlated with structural vibrations. The published SPIE abstract adds that an empirical orthogonal functions predictor applied offline to the synchronised telemetry reduces tip and tilt variance by 23% and 37%, and that simulations combining accelerometer feedforward with WFS predictive control give order-of-magnitude suppression at vibration-dominated frequencies; the arXiv version leaves predictive control to future work.
 
 ## Keywords
 

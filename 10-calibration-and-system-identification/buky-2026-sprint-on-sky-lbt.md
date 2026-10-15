@@ -1,10 +1,11 @@
 ---
-title: "DM/WFS mis-registration tracking: Implementation and on-sky validation of SPRINT at LBT"
+title: "DM/WFS mis-registration tracking: implementation and on-sky validation of SPRINT at LBT"
 authors: ["Buky, B.", "Héritier, C. T.", "Rossi, F.", "Guerra, J. C.", "Bond, C. Z.", "Schwartz, N.", "Agapito, G.", "Pinna, E.", "et al."]
 year: 2026
-venue: "Proc. SPIE 14150 (Adaptive Optics Systems X)"
+venue: "Proc. SPIE 14150, 141502P"
 doi: "10.1117/12.3104960"
 arxiv: "2607.27941"
+bibcode: "2026SPIE14150E..2PB"
 url: "https://arxiv.org/abs/2607.27941"
 alt_urls: []
 access: arXiv
@@ -14,9 +15,9 @@ also_relevant_to: ["12-ao-systems-and-instruments"]
 keywords: ["mis-registration", "sprint", "on-sky demonstration", "lbt", "real-time controller", "adaptive secondary mirror", "elt"]
 ---
 
-# DM/WFS mis-registration tracking: Implementation and on-sky validation of SPRINT at LBT
+# DM/WFS mis-registration tracking: implementation and on-sky validation of SPRINT at LBT
 
-**Buky et al. (2026)** · *Proc. SPIE 14150 (Adaptive Optics Systems X)* · [Free full text](https://arxiv.org/abs/2607.27941) · DOI: [10.1117/12.3104960](https://doi.org/10.1117/12.3104960)
+**Buky et al. (2026)** · *Proc. SPIE 14150, 141502P* · [Free full text](https://arxiv.org/abs/2607.27941) · DOI: [10.1117/12.3104960](https://doi.org/10.1117/12.3104960)
 
 ## Summary
 

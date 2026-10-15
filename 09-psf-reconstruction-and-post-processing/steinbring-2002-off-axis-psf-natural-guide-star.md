@@ -1,5 +1,5 @@
 ---
-title: "Characterizing the Adaptive Optics Off-Axis Point-Spread Function. I. A Semi-Empirical Method for Use in Natural Guide Star Observations"
+title: "Characterizing the Adaptive Optics Off-Axis Point-Spread Function. I. A Semiempirical Method for Use in Natural Guide Star Observations"
 authors: ["Steinbring, E.", "Faber, S. M.", "Hinkley, S.", "Macintosh, B. A.", "Gavel, D.", "Gates, E. L.", "et al."]
 year: 2002
 venue: "PASP 114, 1267"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["off-axis psf", "anisoplanatism", "natural guide star", "crowded fields", "cfht", "lick observatory"]
 ---
 
-# Characterizing the Adaptive Optics Off-Axis Point-Spread Function. I. A Semi-Empirical Method for Use in Natural Guide Star Observations
+# Characterizing the Adaptive Optics Off-Axis Point-Spread Function. I. A Semiempirical Method for Use in Natural Guide Star Observations
 
 **Steinbring et al. (2002)** · *PASP 114, 1267* · [Free full text](https://arxiv.org/abs/astro-ph/0207261) · DOI: [10.1086/343217](https://doi.org/10.1086/343217)
 

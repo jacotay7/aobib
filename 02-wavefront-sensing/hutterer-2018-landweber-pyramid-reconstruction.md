@@ -1,5 +1,5 @@
 ---
-title: "Nonlinear wavefront reconstruction methods for pyramid sensors using Landweber and Landweber-Kaczmarz iteration"
+title: "Nonlinear wavefront reconstruction methods for pyramid sensors using Landweber and Landweber-Kaczmarz iterations"
 authors: ["Hutterer, V.", "Ramlau, R."]
 year: 2018
 venue: "Applied Optics 57, 8790"
@@ -14,7 +14,7 @@ also_relevant_to: ["04-control-and-reconstruction"]
 keywords: ["pyramid wavefront sensor", "pwfs", "nonlinear reconstruction", "landweber iteration", "kaczmarz", "inverse problems", "unmodulated"]
 ---
 
-# Nonlinear wavefront reconstruction methods for pyramid sensors using Landweber and Landweber-Kaczmarz iteration
+# Nonlinear wavefront reconstruction methods for pyramid sensors using Landweber and Landweber-Kaczmarz iterations
 
 **Hutterer & Ramlau (2018)** · *Applied Optics 57, 8790* · [Free full text](https://arxiv.org/abs/1808.07673) · DOI: [10.1364/AO.57.008790](https://doi.org/10.1364/AO.57.008790)
 

@@ -2,7 +2,7 @@
 title: "Ground control to major time-lag: on-sky results of data-driven predictive wavefront control at Keck Observatory"
 authors: ["Fowler, J.", "Jensen-Clem, R.", "Cetre, S.", "van Kooten, M. A. M.", "Salama, M.", "Bouchez, A.", "et al."]
 year: 2026
-venue: "Proc. SPIE 14150 (Adaptive Optics Systems X)"
+venue: "Proc. SPIE 14150, 141506Z"
 doi: "10.1117/12.3103126"
 arxiv: "2606.20838"
 url: "https://arxiv.org/abs/2606.20838"
@@ -16,7 +16,7 @@ keywords: ["predictive control", "empirical orthogonal functions", "eof", "keck"
 
 # Ground control to major time-lag: on-sky results of data-driven predictive wavefront control at Keck Observatory
 
-**Fowler et al. (2026)** · *Proc. SPIE 14150 (Adaptive Optics Systems X)* · [Free full text](https://arxiv.org/abs/2606.20838) · DOI: [10.1117/12.3103126](https://doi.org/10.1117/12.3103126)
+**Fowler et al. (2026)** · *Proc. SPIE 14150, 141506Z* · [Free full text](https://arxiv.org/abs/2606.20838) · DOI: [10.1117/12.3103126](https://doi.org/10.1117/12.3103126)
 
 ## Summary
 

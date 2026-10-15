@@ -6,7 +6,7 @@ venue: "A&A 688, A21"
 doi: "10.1051/0004-6361/202449697"
 arxiv: "2405.19415"
 url: "https://arxiv.org/abs/2405.19415"
-alt_urls: ["https://arxiv.org/abs/1808.03685"]
+alt_urls: []
 access: arXiv
 type: paper
 subtopic: "Spot elongation and LGS wavefront sensing"
@@ -20,7 +20,7 @@ keywords: ["ingot wavefront sensor", "pyramid wavefront sensor", "spot elongatio
 
 ## Summary
 
-With ELT-size apertures the apparent elongation of sodium laser guide stars is large, and wavefront sensors designed for natural stars are used in sub-optimal mode. The paper describes the geometry of a class of pupil-plane sensors designed specifically for LGSs launched close to the telescope aperture, mapping in three dimensions where LGS light focuses in the volume behind the focal plane. Several refractive and reflective opto-mechanical devices that act as the perturbing element, named ingot wavefront sensors, are described, with recipes for a six-pupil and a simplest three-pupil version for the ELT. The concept extends the pyramid wavefront sensor to elongated sources at finite distance, and qualitative sensitivity comparisons with conventional sensors are outlined. An earlier conference version is available as arXiv:1808.03685.
+With ELT-size apertures the apparent elongation of sodium laser guide stars is large, and wavefront sensors designed for natural stars are used in sub-optimal mode. The paper describes the geometry of a class of pupil-plane sensors designed specifically for LGSs launched close to the telescope aperture, mapping in three dimensions where LGS light focuses in the volume behind the focal plane. Several refractive and reflective opto-mechanical devices that act as the perturbing element, named ingot wavefront sensors, are described, with recipes for a six-pupil and a simplest three-pupil version for the ELT. The concept extends the pyramid wavefront sensor to elongated sources at finite distance, and qualitative sensitivity comparisons with conventional sensors are outlined. The ingot sensor was first presented in an earlier, separate AO4ELT5 conference paper (arXiv:1808.03685).
 
 ## Keywords
 

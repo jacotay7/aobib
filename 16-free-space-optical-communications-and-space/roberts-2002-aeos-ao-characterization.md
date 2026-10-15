@@ -20,7 +20,7 @@ keywords: ["aeos", "maui space surveillance system", "space situational awarenes
 
 ## Summary
 
-The 3.63-m Advanced Electro-Optical System (AEOS) telescope on Haleakala, part of the US Air Force Maui Space Surveillance System, carries an adaptive optics system with a 941-actuator deformable mirror designed to work at visible wavelengths. At the time it was one of the highest-order operational AO systems. The paper describes the design of the system and measures its performance, giving the Strehl ratio as a function of guide-star magnitude and as a function of image full width at half maximum, and shows sample images. The system was used both for imaging of satellites and for astronomical programmes such as binary-star and companion searches.
+The 3.63-m Advanced Electro-Optical System (AEOS) telescope on Haleakala, part of the US Air Force Maui Space Surveillance System, carries an adaptive optics system with a 941-actuator deformable mirror designed to work at visible wavelengths. At the time it was one of the highest-order operational AO systems. The paper describes the design of the system and measures its performance, giving the Strehl ratio as a function of guide-star magnitude and as a function of image full width at half maximum, and shows sample images.
 
 ## Keywords
 

@@ -20,7 +20,7 @@ keywords: ["mass", "dimm", "mass-dimm", "scintillation", "turbulence profiling",
 
 ## Summary
 
-Describes the combined MASS-DIMM instrument used by many site-testing programmes and observatories to monitor optical turbulence. After recalling the measured quantities and operating principles, the paper details the optics and electronics, interfacing to telescopes and detectors, and operation. Particular attention is given to the measurement and control of instrumental parameters, data quality and filtering. Example data and present and planned applications are presented.
+Describes the combined MASS-DIMM instrument used by several site-testing programmes and observatories to monitor optical turbulence. After recalling the measured quantities and operating principles, the paper details the optics and electronics, interfacing to telescopes and detectors, and operation. Particular attention is given to the measurement and control of instrumental parameters, data quality and filtering. Example data and present and planned applications are presented.
 
 ## Keywords
 

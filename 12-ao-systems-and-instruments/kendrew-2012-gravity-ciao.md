@@ -1,10 +1,11 @@
 ---
-title: "The GRAVITY Coudé Infrared Adaptive Optics (CIAO) system for the VLT Interferometer"
+title: "GRAVITY Coudé Infrared Adaptive Optics (CIAO) system for the VLT Interferometer"
 authors: ["Kendrew, S.", "Hippler, S.", "Brandner, W.", "Clénet, Y.", "Deen, C.", "Gendron, E.", "et al."]
 year: 2012
-venue: "Proc. SPIE 8446"
+venue: "Proc. SPIE 8446, 84467W"
 doi: "10.1117/12.926558"
 arxiv: "1207.2945"
+bibcode: "2012SPIE.8446E..7WK"
 url: "https://arxiv.org/abs/1207.2945"
 alt_urls: []
 access: arXiv
@@ -14,9 +15,9 @@ also_relevant_to: ["02-wavefront-sensing"]
 keywords: ["ciao", "gravity", "vlti", "infrared wavefront sensing", "saphira", "shack-hartmann", "interferometry"]
 ---
 
-# The GRAVITY Coudé Infrared Adaptive Optics (CIAO) system for the VLT Interferometer
+# GRAVITY Coudé Infrared Adaptive Optics (CIAO) system for the VLT Interferometer
 
-**Kendrew et al. (2012)** · *Proc. SPIE 8446* · [Free full text](https://arxiv.org/abs/1207.2945) · DOI: [10.1117/12.926558](https://doi.org/10.1117/12.926558)
+**Kendrew et al. (2012)** · *Proc. SPIE 8446, 84467W* · [Free full text](https://arxiv.org/abs/1207.2945) · DOI: [10.1117/12.926558](https://doi.org/10.1117/12.926558)
 
 ## Summary
 

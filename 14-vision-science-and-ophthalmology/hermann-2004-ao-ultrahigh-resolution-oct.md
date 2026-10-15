@@ -1,6 +1,6 @@
 ---
 title: "Adaptive-optics ultrahigh-resolution optical coherence tomography"
-authors: ["Hermann, B.", "Fernández, E. J.", "Unterhuber, A.", "Sattmann, H.", "Fercher, A. F.", "Drexler, W.", "et al."]
+authors: ["Hermann, B.", "Fernández, E. J.", "Unterhuber, A.", "Sattmann, H.", "Fercher, A. F.", "Drexler, W.", "Prieto, P. M.", "Artal, P."]
 year: 2004
 venue: "Optics Letters 29, 2142"
 doi: "10.1364/OL.29.002142"

@@ -2,7 +2,7 @@
 title: "Demonstrating predictive wavefront control with the Keck II near-infrared pyramid wavefront sensor"
 authors: ["Jensen-Clem, R.", "Bond, C. Z.", "Cetre, S.", "McEwen, E.", "Wizinowich, P.", "Ragland, S.", "Mawet, D.", "Graham, J."]
 year: 2019
-venue: "Proc. SPIE 11117"
+venue: "Proc. SPIE 11117, 111170W"
 doi: "10.1117/12.2529687"
 arxiv: "1909.05302"
 url: "https://arxiv.org/abs/1909.05302"
@@ -16,7 +16,7 @@ keywords: ["predictive control", "empirical orthogonal functions", "eof", "pyram
 
 # Demonstrating predictive wavefront control with the Keck II near-infrared pyramid wavefront sensor
 
-**Jensen-Clem et al. (2019)** · *Proc. SPIE 11117* · [Free full text](https://arxiv.org/abs/1909.05302) · DOI: [10.1117/12.2529687](https://doi.org/10.1117/12.2529687)
+**Jensen-Clem et al. (2019)** · *Proc. SPIE 11117, 111170W* · [Free full text](https://arxiv.org/abs/1909.05302) · DOI: [10.1117/12.2529687](https://doi.org/10.1117/12.2529687)
 
 ## Summary
 

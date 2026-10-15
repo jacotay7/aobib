@@ -2,9 +2,10 @@
 title: "MagAO: Status and on-sky performance of the Magellan adaptive optics system"
 authors: ["Morzinski, K. M.", "Close, L. M.", "Males, J. R.", "Kopon, D.", "Hinz, P. M.", "Esposito, S.", "Riccardi, A.", "Puglisi, A.", "et al."]
 year: 2014
-venue: "Proc. SPIE 9148"
+venue: "Proc. SPIE 9148, 914804"
 doi: "10.1117/12.2057048"
 arxiv: "1407.5098"
+bibcode: "2014SPIE.9148E..04M"
 url: "https://arxiv.org/abs/1407.5098"
 alt_urls: []
 access: arXiv
@@ -16,7 +17,7 @@ keywords: ["magao", "magellan", "adaptive secondary mirror", "pyramid wavefront 
 
 # MagAO: Status and on-sky performance of the Magellan adaptive optics system
 
-**Morzinski et al. (2014)** · *Proc. SPIE 9148* · [Free full text](https://arxiv.org/abs/1407.5098) · DOI: [10.1117/12.2057048](https://doi.org/10.1117/12.2057048)
+**Morzinski et al. (2014)** · *Proc. SPIE 9148, 914804* · [Free full text](https://arxiv.org/abs/1407.5098) · DOI: [10.1117/12.2057048](https://doi.org/10.1117/12.2057048)
 
 ## Summary
 

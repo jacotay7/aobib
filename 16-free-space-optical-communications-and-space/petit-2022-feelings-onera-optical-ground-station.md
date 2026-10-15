@@ -1,8 +1,8 @@
 ---
-title: "FEELINGS: the Onera's optical ground station for Geo Feeder links demonstration"
+title: "FEELINGS: the ONERA's optical ground station for Geo Feeder links demonstration"
 authors: ["Petit, C.", "Bonnefois, A.", "Conan, J.-M.", "Durecu, A.", "Gustave, F.", "Lim, C.", "et al."]
 year: 2022
-venue: "IEEE ICSOS 2022"
+venue: "IEEE ICSOS 2022, 255-260"
 doi: "10.1109/ICSOS53063.2022.9749705"
 url: "https://hal.science/hal-03828251"
 alt_urls: []
@@ -13,9 +13,9 @@ also_relevant_to: ["12-ao-systems-and-instruments"]
 keywords: ["optical ground station", "ogs", "feelings", "geo feeder link", "uplink pre-compensation", "onera", "adaptive optics"]
 ---
 
-# FEELINGS: the Onera's optical ground station for Geo Feeder links demonstration
+# FEELINGS: the ONERA's optical ground station for Geo Feeder links demonstration
 
-**Petit et al. (2022)** · *IEEE ICSOS 2022* · [Free full text](https://hal.science/hal-03828251) · DOI: [10.1109/ICSOS53063.2022.9749705](https://doi.org/10.1109/ICSOS53063.2022.9749705)
+**Petit et al. (2022)** · *IEEE ICSOS 2022, 255-260* · [Free full text](https://hal.science/hal-03828251) · DOI: [10.1109/ICSOS53063.2022.9749705](https://doi.org/10.1109/ICSOS53063.2022.9749705)
 
 ## Summary
 

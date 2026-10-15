@@ -4,9 +4,10 @@ authors: ["Thiébaut, É.", "Tallon, M.", "Thé, S.", "Denis, L."]
 year: 2022
 venue: "Proc. SPIE 12185, 121852Q"
 doi: "10.1117/12.2630192"
-url: "https://hal.science/hal-03877241"
-alt_urls: []
-access: repository
+arxiv: "2311.17721"
+url: "https://arxiv.org/abs/2311.17721"
+alt_urls: ["https://hal.science/hal-03877241"]
+access: arXiv
 type: paper
 subtopic: "Fast & iterative reconstructors"
 also_relevant_to: []
@@ -15,7 +16,7 @@ keywords: ["frim", "asap", "sparse approximation", "covariance", "preconditionin
 
 # Beyond FRiM, ASAP: a family of sparse approximation for covariance matrices and preconditioners
 
-**Thiébaut et al. (2022)** · *Proc. SPIE 12185, 121852Q* · [Free full text](https://hal.science/hal-03877241) · DOI: [10.1117/12.2630192](https://doi.org/10.1117/12.2630192)
+**Thiébaut et al. (2022)** · *Proc. SPIE 12185, 121852Q* · [Free full text](https://arxiv.org/abs/2311.17721) · DOI: [10.1117/12.2630192](https://doi.org/10.1117/12.2630192)
 
 ## Summary
 

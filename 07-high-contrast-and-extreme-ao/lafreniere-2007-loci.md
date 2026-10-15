@@ -20,7 +20,7 @@ keywords: ["loci", "psf subtraction", "angular differential imaging", "adi", "po
 
 ## Summary
 
-Presents the locally optimized combination of images (LOCI) algorithm, which builds a reference PSF as a linear combination of available reference images with coefficients optimized independently in multiple image subsections to minimize residual noise. The algorithm applies to several observing strategies, including angular and spectral differential imaging. Applied to angular differential imaging data, it improves detection limits over earlier ADI subtraction schemes, and it became a standard post-processing method for high-contrast imaging surveys.
+Presents the locally optimized combination of images (LOCI) algorithm, which builds a reference PSF as a linear combination of available reference images with coefficients optimized independently in multiple image subsections to minimize residual noise. The algorithm applies to several observing strategies, including angular and spectral differential imaging. Applied to Gemini angular differential imaging data, it improves sensitivity by up to a factor of 3 at small separations over the algorithm previously used by Marois and colleagues.
 
 ## Keywords
 

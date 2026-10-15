@@ -20,7 +20,7 @@ keywords: ["turbulence profiling", "scintillation", "mass", "shack-hartmann", "c
 
 ## Summary
 
-Proposes reconstructing the turbulence profile by applying the MASS method to scintillation recorded by a Shack-Hartmann wavefront sensor. Instead of the four concentric annuli of a classical MASS, several hundred spatial patterns formed from combinations of subapertures are used. Bayesian inference shows that profiles with more than 10 layers can be reconstructed thanks to the larger number of constraints. The method is demonstrated with a Shack-Hartmann sensor on a 50-cm telescope at Tohoku University.
+Proposes reconstructing the turbulence profile by applying the MASS method to scintillation recorded by a Shack-Hartmann wavefront sensor. Instead of the four concentric annuli of a classical MASS, several hundred spatial patterns formed from combinations of subapertures are used. Bayesian inference shows that profiles with more than 10 layers can be reconstructed thanks to the larger number of constraints. The method is demonstrated with a Shack-Hartmann sensor on a 51-cm telescope at Tohoku University.
 
 ## Keywords
 

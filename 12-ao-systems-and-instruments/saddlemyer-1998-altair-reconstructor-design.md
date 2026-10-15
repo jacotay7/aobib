@@ -20,7 +20,7 @@ keywords: ["altair", "gemini north", "natural guide star", "shack-hartmann", "wa
 
 ## Summary
 
-Describes design aspects of the wavefront reconstructor for Altair, the natural-guide-star adaptive optics system then being built for Gemini North. Altair was designed as a medium-order Shack-Hartmann system running its control loop at 1 kHz or faster, with the deformable mirror conjugated to a fixed altitude of 6.5 km, chosen from Mauna Kea turbulence studies to enlarge the isoplanatic patch. The paper sets out the constraints and demands these choices (high speed, medium order, instrument location and altitude conjugation) placed on the reconstructor, the design decisions taken, and the project status at the time. The later Altair system papers are not free; this copy is hosted on Gemini's Altair instrument pages.
+Describes design aspects of the wavefront reconstructor for Altair, the natural-guide-star adaptive optics system then being built for Gemini North. Altair was designed as a medium-order Shack-Hartmann system running its control loop at 1 kHz or faster, with the deformable mirror conjugated to a fixed altitude of 6.5 km, chosen from Mauna Kea turbulence studies to enlarge the isoplanatic patch. The paper sets out the constraints and demands these choices (high speed, medium order, instrument location and altitude conjugation) placed on the reconstructor, the design decisions taken, and the project status at the time. The linked copy is hosted on Gemini's Altair instrument pages.
 
 ## Keywords
 

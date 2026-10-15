@@ -1,8 +1,9 @@
 ---
-title: "Adaptive optics for the 6.5 m MMT"
+title: "Adaptive optics for the 6.5-m MMT"
 authors: ["Lloyd-Hart, M.", "Wildi, F.", "Martin, H.", "McGuire, P.", "Kenworthy, M.", "Johnson, R.", "Fitz-Patrick, B.", "Angeli, G.", "et al."]
 year: 2000
 venue: "Proc. SPIE 4007, 167"
+doi: "10.1117/12.390307"
 bibcode: "2000SPIE.4007..167L"
 url: "https://home.strw.leidenuniv.nl/~kenworthy/papers/2000SPIE.4007..167L.pdf"
 alt_urls: []
@@ -13,9 +14,9 @@ also_relevant_to: ["03-deformable-mirrors-and-correctors"]
 keywords: ["mmt", "adaptive secondary mirror", "thermal infrared", "low emissivity", "facility ao"]
 ---
 
-# Adaptive optics for the 6.5 m MMT
+# Adaptive optics for the 6.5-m MMT
 
-**Lloyd-Hart et al. (2000)** · *Proc. SPIE 4007, 167* · [Free full text](https://home.strw.leidenuniv.nl/~kenworthy/papers/2000SPIE.4007..167L.pdf)
+**Lloyd-Hart et al. (2000)** · *Proc. SPIE 4007, 167* · [Free full text](https://home.strw.leidenuniv.nl/~kenworthy/papers/2000SPIE.4007..167L.pdf) · DOI: [10.1117/12.390307](https://doi.org/10.1117/12.390307)
 
 ## Summary
 

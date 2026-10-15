@@ -6,7 +6,7 @@ venue: "J. Eur. Opt. Soc. Rapid Publ. 5, 10055"
 doi: "10.2971/jeos.2010.10055"
 arxiv: "1009.1581"
 url: "https://arxiv.org/abs/1009.1581"
-alt_urls: ["https://jeos.org/index.php/jeos_rp/article/view/10055"]
+alt_urls: ["https://doi.org/10.2971/jeos.2010.10055"]
 access: arXiv
 type: paper
 subtopic: "Analytic & Fourier-domain performance models"

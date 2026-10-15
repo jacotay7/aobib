@@ -20,7 +20,7 @@ keywords: ["ocam", "ocam2", "ccd220", "emccd", "detector", "read-out noise", "wa
 
 ## Summary
 
-Reports the first camera dedicated to astronomical wavefront sensing with sub-electron read-out noise, achieved at 1300 Hz with a 240x240 pixel frame. The CCD220, developed by e2v under ESO and OPTICON JRA2 funding, is a Peltier-cooled, eight-output, back-illuminated frame-transfer EMCCD. The paper characterises OCam and the CCD220, including read noise from 25 Hz to 1300 Hz, dark current below 0.01 e-/pixel/frame, multiplication gain, quantum efficiency and charge transfer efficiency. It also presents OCam2, a sealed version with an additional Peltier stage for telescope operation; this camera family became widely used in AO wavefront sensors.
+Reports the first camera dedicated to astronomical wavefront sensing with sub-electron read-out noise, achieved at 1300 Hz with a 240x240 pixel frame. The CCD220, developed by e2v under ESO and OPTICON JRA2 funding, is a Peltier-cooled, eight-output, back-illuminated frame-transfer EMCCD. The paper characterises OCam and the CCD220, including read noise from 25 Hz to 1300 Hz, dark current below 0.01 e-/pixel/frame, multiplication gain, quantum efficiency and charge transfer efficiency. It also presents OCam2, a sealed version with an additional Peltier stage for telescope operation (an OCam2K variant was later selected, for example, for the LBT SOUL pyramid sensors).
 
 ## Keywords
 

@@ -20,7 +20,7 @@ keywords: ["saxo+", "sphere", "second-stage ao", "pyramid wavefront sensor", "pw
 
 ## Summary
 
-Compares the performance of SPHERE's current SAXO system with SAXO+, which adds a second AO stage with a near-infrared pyramid wavefront sensor to observe fainter, redder stars. End-to-end COMPASS simulations with a perfect coronagraph minimize residual starlight between 3 and 5 lambda/D over a range of science cases, turbulence conditions and system parameters. SAXO+ reduces residual starlight by a factor of ten in the second-stage correction zone in all cases; the paper gives optimal first-stage gains and loop frequencies, finds 2 kHz sufficient for most conditions, and recommends a 2 lambda/D pyramid modulation radius.
+Compares the performance of SPHERE's current SAXO system with SAXO+, which adds a second AO stage with a near-infrared pyramid wavefront sensor to image fainter exoplanets around redder stars. End-to-end COMPASS simulations with a perfect coronagraph minimize residual starlight between 3 and 5 lambda/D over a range of science cases, turbulence conditions and system parameters. SAXO+ reduces residual starlight by a factor of ten in the second-stage correction zone in all cases; the paper gives optimal first-stage gains and loop frequencies, finds 2 kHz sufficient for most conditions, and recommends a 2 lambda/D pyramid modulation radius.
 
 ## Keywords
 

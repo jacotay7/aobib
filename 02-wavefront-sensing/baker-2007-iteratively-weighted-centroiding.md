@@ -19,7 +19,7 @@ keywords: ["shack-hartmann", "centroiding", "weighted center of gravity", "match
 
 ## Summary
 
-Introduces an iteratively weighted centroiding technique for Shack-Hartmann sensors, aimed in particular at open-loop applications such as aberrometers and metrology. The method is compared with centre of mass with thresholding, weighted centre of gravity, matched filtering and cross-correlation. At low signal-to-noise ratio it gives a lower variance in the reconstructed phase than the other techniques. In closed loop it shares the lowest error variance with the weighted centre of gravity while removing the latter's bias in open-loop use.
+Introduces an iteratively weighted centroiding technique for Shack-Hartmann sensors, aimed in particular at open-loop applications such as aberrometers and metrology. The method is compared with centre of mass with thresholding, weighted centre of gravity, matched filtering and cross-correlation. At low signal-to-noise ratio it gives a lower variance in the reconstructed phase than the other techniques. In closed loop it shares the lowest error variance with the weighted centre of gravity, but removes the bulk of the aberration in roughly half as many iterations.
 
 ## Keywords
 

@@ -10,7 +10,7 @@ access: free-to-read
 type: paper
 subtopic: "Image restoration with solar AO (speckle, MFBD, MOMFBD)"
 also_relevant_to: ["09-psf-reconstruction-and-post-processing"]
-keywords: ["speckle interferometry", "speckle transfer function", "spectral ratio", "image restoration", "kisip", "solar adaptive optics"]
+keywords: ["speckle interferometry", "speckle transfer function", "spectral ratio", "image restoration", "kisip", "solar adaptive optics", "photometric accuracy"]
 ---
 
 # Speckle interferometry with adaptive optics corrected solar data
@@ -19,8 +19,8 @@ keywords: ["speckle interferometry", "speckle transfer function", "spectral rati
 
 ## Summary
 
-Addresses speckle reconstruction of solar image bursts recorded with adaptive optics, where the partial and field-dependent AO correction changes the speckle transfer function relative to the uncorrected-seeing models used in classical solar speckle interferometry. The paper incorporates a model of the AO correction into the speckle transfer functions, with seeing estimated from the data via the spectral ratio technique, and applies the method to AO-corrected observations. A companion software package by the first two authors, KISIP, implements this speckle reconstruction for AO-corrected solar data.
+Evaluates the Kiepenheuer-Institut Speckle Interferometry Package (KISIP), a code for post-facto speckle reconstruction of solar image bursts, motivated by the fact that adaptive optics on solar telescopes gives only partial correction. The study examines the code's phase-reconstruction capabilities and photometric accuracy, and its scalability and the convergence of its algorithms as a function of parameters such as atmospheric conditions, with a view to real-time use. Photometric accuracy is tested by comparing reconstructions of Dunn Solar Telescope data with simultaneous observations from the space-based Hinode/SOT telescope. The analysis shows that near-real-time reconstruction with high photometric accuracy is possible, even for speckle data recorded with adaptive optics.
 
 ## Keywords
 
-`speckle interferometry` · `speckle transfer function` · `spectral ratio` · `image restoration` · `kisip` · `solar adaptive optics`
+`speckle interferometry` · `speckle transfer function` · `spectral ratio` · `image restoration` · `kisip` · `solar adaptive optics` · `photometric accuracy`

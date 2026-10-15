@@ -20,7 +20,7 @@ keywords: ["sunrise", "balloon-borne telescope", "correlating shack-hartmann", "
 
 ## Summary
 
-Describes the Correlating Wave-Front Sensor (CWS) of the first Sunrise balloon-borne solar telescope flight and its in-flight performance. The system used a six-element Shack-Hartmann sensor, a fast tip-tilt mirror to compensate image motion, and an actively controlled telescope secondary mirror for focus. In flight it stabilised the image to 0.04 arcsec rms whenever coarse pointing was better than 90 arcsec peak-to-peak, and kept focus stable to 0.01 waves. Good image quality and stability were obtained during 33 hours of the 5.5-day flight.
+Describes the Correlating Wave-Front Sensor (CWS) of the first Sunrise balloon-borne solar telescope flight and its in-flight performance. The system used a six-element Shack-Hartmann sensor, a fast tip-tilt mirror to compensate image motion, and an actively controlled telescope secondary mirror for focus. In flight it stabilised the image to 0.04 arcsec rms whenever coarse pointing was better than ±45 arcsec peak-to-peak, and kept focus stable to 0.01 waves. Good image quality and stability were obtained during 33 hours of the 5.5-day flight.
 
 ## Keywords
 

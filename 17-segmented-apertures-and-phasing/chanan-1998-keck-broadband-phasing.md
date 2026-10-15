@@ -19,7 +19,7 @@ keywords: ["segment phasing", "keck", "shack-hartmann", "broadband phasing", "ph
 
 ## Summary
 
-Describes the broadband phasing algorithm used to phase the 36 primary-mirror segments of the Keck telescopes, which must have inter-segment steps below about 100 nm for diffraction-limited infrared work. The method is a wave-optics variant of the Shack-Hartmann test: subapertures straddle segment edges and the measured quantity is the degree of coherence of each subimage rather than its centroid. Using filters with a range of coherence lengths, segments with initial piston errors as large as ±30 µm can be captured and reduced to about 30 nm, a dynamic range of three orders of magnitude. Residual errors of about 75 nm are attributed substantially to segment aberrations. This is the reference description of the Keck phasing camera approach that later segmented telescopes build on.
+Describes the broadband phasing algorithm used to phase the 36 primary-mirror segments of the Keck telescopes, which must have inter-segment steps below about 100 nm for diffraction-limited infrared work. The method is a wave-optics variant of the Shack-Hartmann test: subapertures straddle segment edges and the measured quantity is the degree of coherence of each subimage rather than its centroid. Using filters with a range of coherence lengths, segments with initial piston errors as large as ±30 µm can be captured and reduced to about 30 nm, a dynamic range of three orders of magnitude. Residual errors of about 75 nm are attributed substantially to segment aberrations.
 
 ## Keywords
 

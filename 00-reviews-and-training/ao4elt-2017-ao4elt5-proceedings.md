@@ -18,7 +18,7 @@ keywords: ["conference proceedings", "ao4elt", "elt", "extremely large telescope
 
 ## Summary
 
-Proceedings of the fifth AO4ELT conference, held in Tenerife (Canary Islands, Spain) on 25-30 June 2017 and hosted by the Instituto de Astrofísica de Canarias, together with the 12th Laser Workshop. The proceedings page lists all papers with authors, abstracts and a free PDF for each; papers carry DOIs of the form 10.26698/AO4ELT5.xxxx. Contributions include system updates for the TMT, GMT and ELT AO programmes, GTC AO, vibration control, wavefront sensing and deformable mirror technology.
+Proceedings of the fifth AO4ELT conference, held in Tenerife (Canary Islands, Spain) on 25-30 June 2017 and hosted by the Instituto de Astrofísica de Canarias, together with the 12th Laser Workshop. The proceedings page lists all papers with authors and a free PDF for each, and links to a page with each paper's abstract; papers carry DOIs of the form 10.26698/AO4ELT5.xxxx. Contributions include system updates for the TMT, GMT and ELT AO programmes, GTC AO, vibration control, wavefront sensing and deformable mirror technology.
 
 ## Keywords
 

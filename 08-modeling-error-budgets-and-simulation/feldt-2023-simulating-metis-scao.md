@@ -4,8 +4,9 @@ authors: ["Feldt, M.", "Steuer, H.", "Correia, C.", "Obereder, A.", "Raffetseder
 year: 2023
 venue: "Proc. AO4ELT7 (Avignon, 2023)"
 doi: "10.13009/AO4ELT7-2023-007"
+arxiv: "2311.13437"
 url: "https://hal.science/hal-04440473"
-alt_urls: []
+alt_urls: ["https://arxiv.org/abs/2311.13437"]
 access: repository
 type: paper
 subtopic: "Performance predictions for ELT-class systems"

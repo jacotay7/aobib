@@ -1,5 +1,5 @@
 ---
-title: "Intermodal quantum key distribution over an 18 km free-space channel with adaptive optics and room-temperature detectors"
+title: "Intermodal quantum key distribution over an 18-km free-space channel with adaptive optics and room-temperature detectors"
 authors: ["Rossi, E.", "Karakosta-Amarantidou, I.", "Padovan, M.", "Nardi, M.", "Avesani, M.", "Santagiustina, F. B. L.", "et al."]
 year: 2026
 venue: "npj Quantum Information"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["quantum key distribution", "qkd", "intermodal qkd", "single-mode fiber coupling", "horizontal path", "optical ground station", "field experiment", "adaptive optics"]
 ---
 
-# Intermodal quantum key distribution over an 18 km free-space channel with adaptive optics and room-temperature detectors
+# Intermodal quantum key distribution over an 18-km free-space channel with adaptive optics and room-temperature detectors
 
 **Rossi et al. (2026)** · *npj Quantum Information* · [Free full text](https://arxiv.org/abs/2602.16680) · DOI: [10.1038/s41534-026-01358-0](https://doi.org/10.1038/s41534-026-01358-0)
 

@@ -2,7 +2,7 @@
 title: "Daytime calibration and testing of the Keck All sky Precision Adaptive optics tomography system"
 authors: ["Surendran, A.", "Delorme, J.-R.", "Correia, C. M.", "Doyle, S.", "Ragland, S.", "Richards, P.", "et al."]
 year: 2022
-venue: "Proc. SPIE 12185"
+venue: "Proc. SPIE 12185, 121851V"
 doi: "10.1117/12.2628264"
 arxiv: "2207.14433"
 url: "https://arxiv.org/abs/2207.14433"
@@ -16,7 +16,7 @@ keywords: ["kapa", "keck", "laser tomography ao", "ltao", "calibration", "laser 
 
 # Daytime calibration and testing of the Keck All sky Precision Adaptive optics tomography system
 
-**Surendran et al. (2022)** · *Proc. SPIE 12185* · [Free full text](https://arxiv.org/abs/2207.14433) · DOI: [10.1117/12.2628264](https://doi.org/10.1117/12.2628264)
+**Surendran et al. (2022)** · *Proc. SPIE 12185, 121851V* · [Free full text](https://arxiv.org/abs/2207.14433) · DOI: [10.1117/12.2628264](https://doi.org/10.1117/12.2628264)
 
 ## Summary
 

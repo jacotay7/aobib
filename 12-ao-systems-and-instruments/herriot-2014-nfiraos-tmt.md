@@ -2,9 +2,10 @@
 title: "NFIRAOS: First Facility AO System for the Thirty Meter Telescope"
 authors: ["Herriot, G.", "Andersen, D.", "Atwood, J.", "Boyer, C.", "Byrnes, P.", "Caputa, K.", "Ellerbroek, B.", "Gilles, L.", "et al."]
 year: 2014
-venue: "Proc. SPIE 9148"
+venue: "Proc. SPIE 9148 (Adaptive Optics Systems IV), 914810"
 doi: "10.1117/12.2055525"
 arxiv: "1408.4406"
+bibcode: "2014SPIE.9148E..10H"
 url: "https://arxiv.org/abs/1408.4406"
 alt_urls: []
 access: arXiv
@@ -16,7 +17,7 @@ keywords: ["nfiraos", "tmt", "mcao", "laser guide star", "elt", "facility ao", "
 
 # NFIRAOS: First Facility AO System for the Thirty Meter Telescope
 
-**Herriot et al. (2014)** · *Proc. SPIE 9148* · [Free full text](https://arxiv.org/abs/1408.4406) · DOI: [10.1117/12.2055525](https://doi.org/10.1117/12.2055525)
+**Herriot et al. (2014)** · *Proc. SPIE 9148 (Adaptive Optics Systems IV), 914810* · [Free full text](https://arxiv.org/abs/1408.4406) · DOI: [10.1117/12.2055525](https://doi.org/10.1117/12.2055525)
 
 ## Summary
 

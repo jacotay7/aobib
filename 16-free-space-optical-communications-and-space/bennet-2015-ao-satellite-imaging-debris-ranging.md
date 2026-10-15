@@ -18,7 +18,7 @@ keywords: ["satellite imaging", "space debris", "laser ranging", "space situatio
 
 ## Summary
 
-Describes AO systems developed at the Australian National University with EOS Space Systems for 1 to 2.5 m telescopes at Mount Stromlo to image and laser-range satellites and space debris. The paper argues that the same AO system that corrects images of orbiting objects can also correct the upward-propagating ranging laser. Strehl ratios above 30 % at 800 nm are reported for LEO targets with an AO loop running at 1.5 to 2 kHz, allowing features smaller than 50 cm to be resolved. The authors present this as a route to determining object shape and improving orbit-determination accuracy.
+Describes AO systems developed at the Australian National University with EOS Space Systems for 1 to 2.5 m telescopes, including EOS's 1.8 m ranging telescope at Mount Stromlo, to image and laser-range satellites and space debris. The paper argues that the same AO system that corrects images of orbiting objects can also correct the upward-propagating ranging laser. Strehl ratios above 30 % at 800 nm are reported for LEO targets with an AO loop running at 1.5 to 2 kHz, allowing features smaller than 50 cm to be resolved. The authors present this as a route to determining object shape and improving orbit-determination accuracy.
 
 ## Keywords
 

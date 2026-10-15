@@ -19,7 +19,7 @@ keywords: ["adaptive optics", "introduction", "review", "ophthalmology", "micros
 
 ## Summary
 
-This introduction to an Optics Express feature issue that followed the 2020 Optica Imaging and Applied Optics Congress gives a basic introduction to adaptive optics and summarises the multidisciplinary articles in the issue. The articles cover the development and use of AO across its range of application domains, including atmospheric correction, ophthalmology and vision science, microscopy, optical communications and beam control. It is a short, open-access entry point to the breadth of current AO applications.
+This introduction to an Optics Express feature issue that followed the 2020 OSA Imaging and Applied Optics Congress gives a basic introduction to adaptive optics and summarises the multidisciplinary articles in the issue. The articles cover the development and use of AO across its range of application domains, including atmospheric correction, ophthalmology and vision science, microscopy, optical communications and beam control. It is a short, open-access entry point to the breadth of current AO applications.
 
 ## Keywords
 

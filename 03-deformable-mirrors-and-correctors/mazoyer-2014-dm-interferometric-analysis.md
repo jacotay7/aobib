@@ -11,7 +11,7 @@ access: arXiv
 type: paper
 subtopic: "Characterization, modeling & open-loop control"
 also_relevant_to: ["07-high-contrast-and-extreme-ao"]
-keywords: ["mems deformable mirror", "interferometry", "surface quality", "influence function", "cross-talk", "high-contrast imaging", "thd2"]
+keywords: ["mems deformable mirror", "interferometry", "surface quality", "influence function", "cross-talk", "high-contrast imaging", "boston micromachines"]
 ---
 
 # Deformable mirror interferometric analysis for the direct imagery of exoplanets
@@ -24,4 +24,4 @@ Characterises a 1024-actuator Boston Micromachines MEMS deformable mirror from t
 
 ## Keywords
 
-`mems deformable mirror` · `interferometry` · `surface quality` · `influence function` · `cross-talk` · `high-contrast imaging` · `thd2`
+`mems deformable mirror` · `interferometry` · `surface quality` · `influence function` · `cross-talk` · `high-contrast imaging` · `boston micromachines`

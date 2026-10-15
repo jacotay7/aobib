@@ -21,7 +21,7 @@ keywords: ["maory", "morfeo", "multi-conjugate ao", "mcao", "elt", "micado", "la
 
 ## Summary
 
-This article gives an overview of MAORY (later renamed MORFEO), the adaptive optics module for the ELT. MAORY provides two gravity-invariant ports and two AO modes: single-conjugate AO with very high correction over a field of about 10 arcsec, and MCAO giving moderate, homogeneous correction over a field about 60 arcsec in diameter. Wavefront sensing uses laser and natural guide stars, and correction is shared between post-focal deformable mirrors and the telescope's M4 and M5 mirrors. The article summarizes the science drivers, design and status at the start of the preliminary design phase, with MICADO as the first client instrument.
+This article gives an overview of MAORY (later renamed MORFEO), the adaptive optics module for the ELT. MAORY provides two gravity-invariant ports and two AO modes: single-conjugate AO with very high correction over a field of about 10 arcsec, and MCAO giving moderate, homogeneous correction over a field about 60 arcsec in diameter. Wavefront sensing uses laser and natural guide stars, and correction is shared between post-focal deformable mirrors and the telescope's M4 and M5 mirrors. The article summarizes the science drivers, design and status of the project in its phase B, as it progressed towards the Preliminary Design Review, with MICADO as the first client instrument.
 
 ## Keywords
 

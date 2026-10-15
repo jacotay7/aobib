@@ -10,7 +10,7 @@ access: repository
 type: paper
 subtopic: "Segmented-mirror control & Keck phasing"
 also_relevant_to: ["10-calibration-and-system-identification"]
-keywords: ["segmented mirror", "edge sensor", "active control", "control matrix", "noise propagation", "keck", "tmt", "extremely large telescope"]
+keywords: ["segmented mirror", "edge sensor", "active control", "control matrix", "noise propagation", "keck", "extremely large telescope"]
 ---
 
 # Control and Alignment of Segmented-Mirror Telescopes: Matrices, Modes, and Error Propagation
@@ -23,4 +23,4 @@ Constructs and analyzes the control matrix of the active control system for the 
 
 ## Keywords
 
-`segmented mirror` · `edge sensor` · `active control` · `control matrix` · `noise propagation` · `keck` · `tmt` · `extremely large telescope`
+`segmented mirror` · `edge sensor` · `active control` · `control matrix` · `noise propagation` · `keck` · `extremely large telescope`

@@ -2,7 +2,7 @@
 title: "The bright pyramid wavefront sensor"
 authors: ["Gerard, B. L.", "Chambouleyron, V.", "Jensen-Clem, R.", "Sauvage, J.-F."]
 year: 2021
-venue: "Proc. SPIE 11823"
+venue: "Proc. SPIE 11823, 118231B"
 doi: "10.1117/12.2594795"
 arxiv: "2107.13105"
 url: "https://arxiv.org/abs/2107.13105"
@@ -16,7 +16,7 @@ keywords: ["bright pyramid", "pyramid wavefront sensor", "pwfs", "linearity", "m
 
 # The bright pyramid wavefront sensor
 
-**Gerard et al. (2021)** · *Proc. SPIE 11823* · [Free full text](https://arxiv.org/abs/2107.13105) · DOI: [10.1117/12.2594795](https://doi.org/10.1117/12.2594795)
+**Gerard et al. (2021)** · *Proc. SPIE 11823, 118231B* · [Free full text](https://arxiv.org/abs/2107.13105) · DOI: [10.1117/12.2594795](https://doi.org/10.1117/12.2594795)
 
 ## Summary
 

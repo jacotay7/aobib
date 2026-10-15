@@ -1,21 +1,23 @@
 ---
-title: "Wavefront Profiling via correlation of GLAO open loop telemetry"
+title: "Wavefront profiling via correlation of GLAO open loop telemetry"
 authors: ["McEwen, E. A.", "Dungee, R.", "Chun, M.", "Lu, J. R.", "Lai, O.", "Baranec, C."]
-year: 2026
-venue: "arXiv:2608.10786"
+year: 2022
+venue: "Proc. SPIE 12185, 121855U"
+doi: "10.1117/12.2629613"
 arxiv: "2608.10786"
+bibcode: "2022SPIE12185E..5UM"
 url: "https://arxiv.org/abs/2608.10786"
 alt_urls: []
 access: arXiv
 type: paper
 subtopic: "Turbulence parameter estimation from AO telemetry"
 also_relevant_to: ["01-atmospheric-turbulence"]
-keywords: ["wind profile", "telemetry", "glao", "imaka", "maunakea", "cross-correlation", "turbulence profiling"]
+keywords: ["wind profile", "telemetry", "glao", "imaka", "mauna kea", "cross-correlation", "turbulence profiling"]
 ---
 
-# Wavefront Profiling via correlation of GLAO open loop telemetry
+# Wavefront profiling via correlation of GLAO open loop telemetry
 
-**McEwen et al. (2026)** · *arXiv:2608.10786* · [Free full text](https://arxiv.org/abs/2608.10786)
+**McEwen et al. (2022)** · *Proc. SPIE 12185, 121855U* · [Free full text](https://arxiv.org/abs/2608.10786) · DOI: [10.1117/12.2629613](https://doi.org/10.1117/12.2629613)
 
 ## Summary
 
@@ -23,4 +25,4 @@ Applies a wind-profiling method to open-loop telemetry from the 'imaka ground-la
 
 ## Keywords
 
-`wind profile` · `telemetry` · `glao` · `imaka` · `maunakea` · `cross-correlation` · `turbulence profiling`
+`wind profile` · `telemetry` · `glao` · `imaka` · `mauna kea` · `cross-correlation` · `turbulence profiling`

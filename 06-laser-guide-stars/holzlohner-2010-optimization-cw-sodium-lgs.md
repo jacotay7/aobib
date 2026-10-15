@@ -20,7 +20,7 @@ keywords: ["sodium laser guide star", "return flux", "bloch equations", "optical
 
 ## Summary
 
-The paper numerically optimizes the format of continuous-wave sodium guide-star lasers, in particular polarization and spectrum, for the higher laser powers planned for next-generation systems. Mesospheric sodium is simulated with density-matrix Bloch equations covering all 24 hyperfine states and about 100 velocity groups, including Doppler broadening, saturation, collisional relaxation, Larmor precession in the geomagnetic field and atomic recoil. Return flux is found to be limited by Larmor precession, recoil and transition saturation. The authors show that repumping, i.e. simultaneously exciting the D2b line with 10-20% of the power, boosts the return, and recommend circular polarization and repumping, with a rule of thumb that the laser bandwidth in MHz should be about the launched power in watts divided by six.
+The paper numerically optimizes the format of continuous-wave sodium guide-star lasers, in particular polarization and spectrum, for the higher laser powers planned for next-generation systems. Mesospheric sodium is simulated with density-matrix Bloch equations covering all 24 hyperfine states and 100-300 velocity groups, including Doppler broadening, saturation, collisional relaxation, Larmor precession in the geomagnetic field and atomic recoil. Return flux is found to be limited by Larmor precession, recoil and transition saturation. The authors show that repumping, i.e. simultaneously exciting the D2b line with 10-20% of the power, boosts the return, and recommend circular polarization and repumping, with a rule of thumb that the laser bandwidth in MHz should be about the launched power in watts divided by six.
 
 ## Keywords
 

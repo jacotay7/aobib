@@ -1,5 +1,5 @@
 ---
-title: "Tomographic reconstruction for Wide Field Adaptive Optics systems: Fourier domain analysis and fundamental limitations"
+title: "Tomographic reconstruction for wide-field adaptive optics systems: Fourier domain analysis and fundamental limitations"
 authors: ["Neichel, B.", "Fusco, T.", "Conan, J.-M."]
 year: 2009
 venue: "JOSA A 26, 219"
@@ -14,7 +14,7 @@ also_relevant_to: ["05-wide-field-and-tomographic-ao"]
 keywords: ["fourier model", "tomography", "wide-field ao", "mcao", "moao", "glao", "elt", "performance prediction"]
 ---
 
-# Tomographic reconstruction for Wide Field Adaptive Optics systems: Fourier domain analysis and fundamental limitations
+# Tomographic reconstruction for wide-field adaptive optics systems: Fourier domain analysis and fundamental limitations
 
 **Neichel et al. (2009)** · *JOSA A 26, 219* · [Free full text](https://arxiv.org/abs/0811.2369) · DOI: [10.1364/JOSAA.26.000219](https://doi.org/10.1364/JOSAA.26.000219)
 

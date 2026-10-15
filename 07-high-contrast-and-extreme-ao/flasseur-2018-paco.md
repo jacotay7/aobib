@@ -1,5 +1,5 @@
 ---
-title: "Exoplanet detection in angular differential imaging by statistical learning of the nonstationary patch covariances"
+title: "Exoplanet detection in angular differential imaging by statistical learning of the nonstationary patch covariances. The PACO algorithm"
 authors: ["Flasseur, O.", "Denis, L.", "Thiébaut, É.", "Langlois, M."]
 year: 2018
 venue: "A&A 618, A138"
@@ -13,7 +13,7 @@ also_relevant_to: []
 keywords: ["paco", "angular differential imaging", "adi", "exoplanet detection", "statistical learning", "detection statistics", "sphere"]
 ---
 
-# Exoplanet detection in angular differential imaging by statistical learning of the nonstationary patch covariances
+# Exoplanet detection in angular differential imaging by statistical learning of the nonstationary patch covariances. The PACO algorithm
 
 **Flasseur et al. (2018)** · *A&A 618, A138* · [Free full text](https://www.aanda.org/articles/aa/full_html/2018/10/aa32745-18/aa32745-18.html) · DOI: [10.1051/0004-6361/201832745](https://doi.org/10.1051/0004-6361/201832745)
 

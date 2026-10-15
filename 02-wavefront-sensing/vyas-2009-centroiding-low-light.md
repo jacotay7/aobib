@@ -2,7 +2,7 @@
 title: "Performance of centroiding algorithms at low light level conditions in adaptive optics"
 authors: ["Vyas, A.", "Roopashree, M. B.", "Prasad, B. R."]
 year: 2009
-venue: "Proc. ARTCom 2009 (IEEE)"
+venue: "Proc. ARTCom 2009 (IEEE), 366"
 doi: "10.1109/ARTCom.2009.30"
 arxiv: "1001.1503"
 url: "https://arxiv.org/abs/1001.1503"
@@ -16,7 +16,7 @@ keywords: ["shack-hartmann", "centroiding", "low light level", "photon noise", "
 
 # Performance of centroiding algorithms at low light level conditions in adaptive optics
 
-**Vyas et al. (2009)** · *Proc. ARTCom 2009 (IEEE)* · [Free full text](https://arxiv.org/abs/1001.1503) · DOI: [10.1109/ARTCom.2009.30](https://doi.org/10.1109/ARTCom.2009.30)
+**Vyas et al. (2009)** · *Proc. ARTCom 2009 (IEEE), 366* · [Free full text](https://arxiv.org/abs/1001.1503) · DOI: [10.1109/ARTCom.2009.30](https://doi.org/10.1109/ARTCom.2009.30)
 
 ## Summary
 

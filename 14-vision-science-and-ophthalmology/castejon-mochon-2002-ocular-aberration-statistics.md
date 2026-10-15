@@ -19,7 +19,7 @@ keywords: ["ocular aberrations", "population statistics", "zernike polynomials",
 
 ## Summary
 
-The study measured monochromatic ocular aberrations in 108 eyes of 59 normal young subjects under natural conditions using a near-infrared Shack-Hartmann wavefront sensor. For a 5 mm pupil, more than 99% of the root-mean-square wavefront error is contained in the first four Zernike orders, and about 91% corresponds to the second order alone. Comparing right and left eyes in 35 subjects showed a good correlation for most second- and third-order terms and a slight tendency towards mirror symmetry between eyes. The data are often used as reference statistics for ocular aberrations. The article is in Elsevier's open archive for Vision Research.
+The study measured monochromatic ocular aberrations in 108 eyes of 59 normal young subjects under natural conditions using a near-infrared Shack-Hartmann wavefront sensor. For a 5 mm pupil, more than 99% of the root-mean-square wavefront error is contained in the first four Zernike orders, and about 91% corresponds to the second order alone. Comparing right and left eyes in 35 subjects showed a good correlation for most second- and third-order terms and a slight tendency towards mirror symmetry between eyes. The article is in Elsevier's open archive for Vision Research.
 
 ## Keywords
 

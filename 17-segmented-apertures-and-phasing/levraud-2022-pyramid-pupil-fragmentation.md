@@ -2,7 +2,7 @@
 title: "Adapting the pyramid wavefront sensor for pupil fragmentation of the ELT class telescopes"
 authors: ["Levraud, N.", "Chambouleyron, V.", "Fauvarque, O.", "Cissé, M.", "Sauvage, J.-F.", "Neichel, B.", "et al."]
 year: 2022
-venue: "Proc. SPIE 12185 (Adaptive Optics Systems VIII)"
+venue: "Proc. SPIE 12185 (Adaptive Optics Systems VIII), 1218559"
 doi: "10.1117/12.2629861"
 arxiv: "2209.08822"
 url: "https://arxiv.org/abs/2209.08822"
@@ -16,7 +16,7 @@ keywords: ["pyramid wavefront sensor", "pwfs", "petal modes", "pupil fragmentati
 
 # Adapting the pyramid wavefront sensor for pupil fragmentation of the ELT class telescopes
 
-**Levraud et al. (2022)** · *Proc. SPIE 12185 (Adaptive Optics Systems VIII)* · [Free full text](https://arxiv.org/abs/2209.08822) · DOI: [10.1117/12.2629861](https://doi.org/10.1117/12.2629861)
+**Levraud et al. (2022)** · *Proc. SPIE 12185 (Adaptive Optics Systems VIII), 1218559* · [Free full text](https://arxiv.org/abs/2209.08822) · DOI: [10.1117/12.2629861](https://doi.org/10.1117/12.2629861)
 
 ## Summary
 

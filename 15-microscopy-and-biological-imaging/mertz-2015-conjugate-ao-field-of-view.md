@@ -4,6 +4,7 @@ authors: ["Mertz, J.", "Paudel, H.", "Bifano, T. G."]
 year: 2015
 venue: "Applied Optics 54, 3498"
 doi: "10.1364/AO.54.003498"
+arxiv: "1501.02685"
 url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4629780/"
 alt_urls: ["https://arxiv.org/abs/1501.02685"]
 access: repository

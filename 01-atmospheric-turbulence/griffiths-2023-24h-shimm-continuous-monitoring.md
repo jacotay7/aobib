@@ -20,7 +20,7 @@ keywords: ["shimm", "turbulence profiling", "daytime seeing", "coherence time", 
 
 ## Summary
 
-Reports what the authors describe as the first fully continuous, 24-hour vertical monitoring of atmospheric optical turbulence, using the 24-hour Shack-Hartmann Image Motion Monitor (24hSHIMM). The instrument measures a four-layer turbulence profile and combines it with wind profiles from meteorological forecasts to estimate coherence length, time and angle and the Rytov variance. A 35-hour continuous demonstration is shown. The instrument is portable and can operate in strong turbulence, including urban locations relevant to free-space optical communications.
+Reports what the authors describe as the first fully continuous, 24-hour vertical monitoring of atmospheric optical turbulence, using the 24-hour Shack-Hartmann Image Motion Monitor (24hSHIMM). The instrument measures a four-layer turbulence profile and combines it with wind profiles from meteorological forecasts to estimate coherence length, time and angle and the Rytov variance. A 36-hour continuous demonstration is shown. The instrument is portable and can operate in strong turbulence, including urban locations relevant to free-space optical communications.
 
 ## Keywords
 

@@ -19,7 +19,7 @@ keywords: ["adaptive optics", "ophthalmoscopy", "retinal imaging", "aoslo", "ao-
 
 ## Summary
 
-Review of adaptive optics (AO) for imaging the human retina. It opens with a brief history and description of AO technology for the eye, then surveys the imaging capabilities of current AO ophthalmoscopes, including flood-illumination, scanning laser and OCT-based systems. A large part of the article is a literature review of clinical uses of AO imaging in retinal and optic-nerve disease. It closes with a discussion of future directions and practical guidance on acquiring and interpreting AO retinal images.
+Review of adaptive optics (AO) for imaging the human retina. It opens with a brief history and description of AO technology for the eye, then surveys the imaging capabilities of current AO ophthalmoscopes, organised by retinal structure (from the nerve fibre layer, ganglion cells and vasculature to photoreceptors, RPE and lamina cribrosa) and by functional tests. A large part of the article is a literature review of clinical uses of AO imaging, mainly with AOSLO, in retinal disease. It closes with a discussion of future directions and practical guidance on acquiring and interpreting AO retinal images.
 
 ## Keywords
 

@@ -1,9 +1,10 @@
 ---
 title: "Simultaneous Measurements of the Fried Parameter r_0 and the Isoplanatic Angle theta_0 using SCIDAR and Adaptive Optics - First Results"
 authors: ["Weiss, A. R.", "Hippler, S.", "Kasper, M. E.", "Wooder, N. J.", "Quartel, J. C."]
-year: 2001
+year: 2002
 venue: "ASP Conf. Ser. 266 (Astronomical Site Evaluation in the Visible and Radio Range), 86"
 arxiv: "astro-ph/0101474"
+bibcode: "2002ASPC..266...86W"
 url: "https://arxiv.org/abs/astro-ph/0101474"
 alt_urls: []
 access: arXiv
@@ -15,7 +16,7 @@ keywords: ["isoplanatic angle", "fried parameter", "scidar", "cn2 profile", "tel
 
 # Simultaneous Measurements of the Fried Parameter r_0 and the Isoplanatic Angle theta_0 using SCIDAR and Adaptive Optics - First Results
 
-**Weiss et al. (2001)** · *ASP Conf. Ser. 266 (Astronomical Site Evaluation in the Visible and Radio Range), 86* · [Free full text](https://arxiv.org/abs/astro-ph/0101474)
+**Weiss et al. (2002)** · *ASP Conf. Ser. 266 (Astronomical Site Evaluation in the Visible and Radio Range), 86* · [Free full text](https://arxiv.org/abs/astro-ph/0101474)
 
 ## Summary
 

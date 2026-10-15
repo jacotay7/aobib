@@ -20,7 +20,7 @@ keywords: ["pyramid wavefront sensor", "pwfs", "optical gain", "gain scheduling 
 
 ## Summary
 
-Proposes complementing the pyramid wavefront sensor with a focal-plane image, combined with the convolutional sensor model, to track optical gains on every frame. The authors show that the additional focal-plane path needs only a small fraction of the flux while giving a robust optical-gain estimate. The benefit is demonstrated in simulations for loop bootstrapping and for handling non-common path aberrations. This concept was later named the gain scheduling camera.
+Proposes complementing the pyramid wavefront sensor with a focal-plane image, combined with the convolutional sensor model, to track optical gains on every frame. The authors show that the additional focal-plane path needs only a small fraction of the flux while giving a robust optical-gain estimate. The benefit is demonstrated in simulations for loop bootstrapping and for handling non-common path aberrations. The additional focal-plane camera is called the gain scheduling camera (GSC).
 
 ## Keywords
 

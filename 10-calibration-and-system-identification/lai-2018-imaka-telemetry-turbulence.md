@@ -2,8 +2,9 @@
 title: "Deconstructing turbulence and optimising GLAO using imaka telemetry"
 authors: ["Lai, O.", "Chun, M.", "Abdurrahman, F.", "Lu, J.", "Service, M.", "Föhring, D.", "Toomey, D. R."]
 year: 2018
-venue: "Proc. SPIE 10703 (Adaptive Optics Systems VI)"
+venue: "Proc. SPIE 10703, 107036D"
 doi: "10.1117/12.2313356"
+bibcode: "2018SPIE10703E..6DL"
 url: "https://hal.science/hal-02340523"
 alt_urls: []
 access: repository
@@ -15,7 +16,7 @@ keywords: ["ground-layer ao", "glao", "imaka", "telemetry", "structure function"
 
 # Deconstructing turbulence and optimising GLAO using imaka telemetry
 
-**Lai et al. (2018)** · *Proc. SPIE 10703 (Adaptive Optics Systems VI)* · [Free full text](https://hal.science/hal-02340523) · DOI: [10.1117/12.2313356](https://doi.org/10.1117/12.2313356)
+**Lai et al. (2018)** · *Proc. SPIE 10703, 107036D* · [Free full text](https://hal.science/hal-02340523) · DOI: [10.1117/12.2313356](https://doi.org/10.1117/12.2313356)
 
 ## Summary
 

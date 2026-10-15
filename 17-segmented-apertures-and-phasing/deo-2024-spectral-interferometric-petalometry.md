@@ -2,7 +2,7 @@
 title: "Spectral interferometric wavefront sensing: a solution for petalometry at Subaru/SCExAO"
 authors: ["Deo, V.", "Vievard, S.", "Lallement, M.", "Lucas, M.", "Huby, E.", "Ahn, K.", "et al."]
 year: 2024
-venue: "Proc. SPIE 13097 (Adaptive Optics Systems IX)"
+venue: "Proc. SPIE 13097 (Adaptive Optics Systems IX), 130972G"
 doi: "10.1117/12.3019419"
 arxiv: "2409.05246"
 url: "https://arxiv.org/abs/2409.05246"
@@ -16,7 +16,7 @@ keywords: ["petalometer", "petal modes", "differential piston", "non-redundant m
 
 # Spectral interferometric wavefront sensing: a solution for petalometry at Subaru/SCExAO
 
-**Deo et al. (2024)** · *Proc. SPIE 13097 (Adaptive Optics Systems IX)* · [Free full text](https://arxiv.org/abs/2409.05246) · DOI: [10.1117/12.3019419](https://doi.org/10.1117/12.3019419)
+**Deo et al. (2024)** · *Proc. SPIE 13097 (Adaptive Optics Systems IX), 130972G* · [Free full text](https://arxiv.org/abs/2409.05246) · DOI: [10.1117/12.3019419](https://doi.org/10.1117/12.3019419)
 
 ## Summary
 

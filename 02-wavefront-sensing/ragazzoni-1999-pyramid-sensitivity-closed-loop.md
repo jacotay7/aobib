@@ -19,7 +19,7 @@ keywords: ["pyramid wavefront sensor", "pwfs", "sensitivity", "closed-loop contr
 
 ## Summary
 
-Points out that the signal-to-noise ratio of the pyramid wavefront sensor increases significantly once the AO loop is closed, as for the curvature sensor and unlike the Shack-Hartmann. Using descriptive and numerical arguments, the authors estimate that the resulting gain over the Shack-Hartmann is of order (D/r0)^2 for low-order modes, decreasing linearly to the Shack-Hartmann case at the highest sampled spatial frequency. The overall gain, including a first estimate in limiting magnitude, is discussed together with procedures to make a real system work in closed loop. This letter is the origin of the widely quoted sensitivity advantage of the pyramid sensor.
+Points out that the signal-to-noise ratio of the pyramid wavefront sensor increases significantly once the AO loop is closed, as for the curvature sensor and unlike the Shack-Hartmann. Using descriptive and numerical arguments, the authors estimate that the resulting gain over the Shack-Hartmann is of order (D/r0)^2 for low-order modes, decreasing linearly to the Shack-Hartmann case at the highest sampled spatial frequency. The overall gain, including a first estimate in limiting magnitude, is discussed together with procedures to make a real system work in closed loop.
 
 ## Keywords
 

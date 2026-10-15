@@ -19,7 +19,7 @@ keywords: ["pupil segmentation", "frequency-multiplexed aberration measurement",
 
 ## Summary
 
-Describes a zonal adaptive optics method that modulates the intensity or phase of light at many pupil segments in parallel, each at a different frequency, to determine the sample-induced aberration from the fluorescence signal. Because it does not require a guide star, the method applies to fluorescent-protein-labelled structures of arbitrary complexity. Diffraction-limited resolution was obtained in various samples in vivo. In the strongly scattering mouse brain, a single aberration correction improved structural and functional imaging of fine neuronal processes over a large imaging volume.
+Describes a zonal adaptive optics method that modulates the intensity or phase of light at many pupil segments in parallel, each at a different frequency, to determine the sample-induced aberration from the fluorescence signal. The method works in both sparsely and densely labelled samples and applies to fluorescent-protein-labelled structures of arbitrary complexity. Diffraction-limited resolution was obtained in various samples in vivo. In the strongly scattering mouse brain, a single aberration correction improved structural and functional imaging of fine neuronal processes over a large imaging volume.
 
 ## Keywords
 

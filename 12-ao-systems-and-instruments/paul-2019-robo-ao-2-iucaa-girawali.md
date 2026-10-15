@@ -1,5 +1,5 @@
 ---
-title: "Design and development of an adaptive optics system in visible and near-infrared for Inter-University Centre for Astronomy and Astrophysics Girawali Observatory 2-m telescope"
+title: "Design and development of an adaptive optics system in visible and near-infrared for Inter-University Centre for Astronomy and Astrophysics 2-meter telescope"
 authors: ["Paul, J.", "Das, H. K.", "Ramaprakash, A. N.", "Burse, M.", "Chordia, P.", "Chillal, K.", "et al."]
 year: 2019
 venue: "JATIS 5, 039002"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["robo-ao", "iucaa", "girawali observatory", "india", "laser guide star facility", "atmospheric dispersion corrector", "visible ao"]
 ---
 
-# Design and development of an adaptive optics system in visible and near-infrared for Inter-University Centre for Astronomy and Astrophysics Girawali Observatory 2-m telescope
+# Design and development of an adaptive optics system in visible and near-infrared for Inter-University Centre for Astronomy and Astrophysics 2-meter telescope
 
 **Paul et al. (2019)** · *JATIS 5, 039002* · [Free full text](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-5/issue-3/039002/Design-and-development-of-an-adaptive-optics-system-in-visible/10.1117/1.JATIS.5.3.039002.pdf) · DOI: [10.1117/1.JATIS.5.3.039002](https://doi.org/10.1117/1.JATIS.5.3.039002)
 

@@ -19,7 +19,7 @@ keywords: ["deformable mirror", "variable reluctance actuator", "electromagnetic
 
 ## Summary
 
-Presents deformable-mirror technology developed by TU Eindhoven, TU Delft and TNO, with prototypes of up to 427 actuators and 150 mm diameter. A 100-micron-thick continuous facesheet is deformed by low-voltage electromagnetic variable-reluctance push-pull actuators with about plus or minus 10 microns of stroke and nanometre resolution, grouped in standard modules of 61 actuators. Each module connects to a PCB with 16-bit PWM drivers, modules are chained over an LVDS multi-drop cable, and an Ethernet bridge lets a standard PC command the mirror, making both mechanics and electronics modular. This line of work led to the hybrid variable reluctance actuators later used in TNO-style adaptive secondaries.
+Presents deformable-mirror technology developed by TU Eindhoven, TU Delft and TNO, with prototypes of up to 427 actuators and 150 mm diameter. A 100-micron-thick continuous facesheet is deformed by low-voltage electromagnetic variable-reluctance push-pull actuators with about plus or minus 10 microns of stroke and nanometre resolution, grouped in standard modules of 61 actuators. Each module connects to a PCB with 16-bit PWM drivers, modules are chained over an LVDS multi-drop cable, and an Ethernet bridge lets a standard PC command the mirror, making both mechanics and electronics modular.
 
 ## Keywords
 

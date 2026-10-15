@@ -20,7 +20,7 @@ keywords: ["klip", "forward modeling", "klip-fm", "post-processing", "self-subtr
 
 ## Summary
 
-Derives a linear expansion describing astrophysical over-subtraction and self-subtraction in least-squares speckle-subtraction algorithms such as KLIP, for reference images in which the astrophysical scene moves azimuthally or radially. The method perturbs the covariance matrix underlying the speckle problem and propagates the perturbation through the analysis (KLIP-FM). Using GPI commissioning data, it reduces biases in spectral extraction of faint point sources, and for detection it lowers the false-negative rate at fixed false-positive rate compared with classical fitting.
+Derives a linear expansion describing astrophysical over-subtraction and self-subtraction in least-squares speckle-subtraction algorithms such as KLIP, for reference images in which the astrophysical scene moves azimuthally or radially. The method perturbs the covariance matrix underlying the speckle problem and propagates the perturbation through the analysis (KLIP-FM). Using GPI commissioning data, it reduces biases in spectral extraction of faint point sources, and for detection it lowers the false-negative rate at fixed false-positive rate compared with classical KLIP.
 
 ## Keywords
 

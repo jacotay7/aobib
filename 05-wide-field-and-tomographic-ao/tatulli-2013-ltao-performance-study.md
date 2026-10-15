@@ -20,7 +20,7 @@ keywords: ["laser tomography ao", "ltao", "analytical model", "rayleigh laser gu
 
 ## Summary
 
-The paper derives analytically the on-axis performance of AO systems using an arbitrary number of guide stars at arbitrary altitudes and angular positions, for continuous and discrete turbulence profiles. Assuming Shack-Hartmann sensing with circular apertures, the residual error is expressed through integrals of products of three Bessel functions. Natural, sodium and Rayleigh guide stars are compared. For telescopes of about 5 m, a few Rayleigh beacons can match the performance of a single sodium laser at lower cost, while for larger apertures the cone effect makes Rayleigh beacons less suitable.
+The paper derives analytically the on-axis performance of AO systems using an arbitrary number of guide stars at arbitrary altitudes and angular positions, for continuous and discrete turbulence profiles. Assuming Shack-Hartmann sensing with circular apertures, the residual error is expressed through integrals of products of three Bessel functions. Natural, sodium and Rayleigh guide stars are compared. For small telescopes (up to about 5 m), a few Rayleigh beacons can match the performance of a single sodium laser at lower cost, while for larger apertures the cone effect makes Rayleigh beacons less suitable.
 
 ## Keywords
 

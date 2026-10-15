@@ -19,7 +19,7 @@ keywords: ["laser guide star", "review", "history", "rayleigh laser guide star",
 
 ## Summary
 
-This review, written after feasibility demonstrations on 1-2 m telescopes, summarizes the laser guide star concept, noting its independent proposal in the classified literature by Happer in 1982 and in the open literature by Foy and Labeyrie in 1985. It describes the two beacon types (Rayleigh scattering from about 5-15 km and resonant sodium scattering near 100 km) and the architecture of an LGS AO system with separate tip-tilt sensing on a natural star. Progress by groups worldwide in implementing such systems is reviewed, and the Lawrence Livermore National Laboratory LGS program, aimed at 8-10 m telescopes, is described together with early experimental results.
+This review, written after feasibility demonstrations on 1-2 m telescopes, summarizes the laser guide star concept, noting its independent proposal in the classified literature by Happer in 1982 and in the open literature by Foy and Labeyrie in 1985. It describes the two beacon types (Rayleigh scattering from about 5-15 km and resonant sodium scattering near 100 km) and the architecture of an LGS AO system with separate tip-tilt sensing on a natural star. Progress by groups worldwide in implementing such systems is reviewed, and the Lawrence Livermore National Laboratory LGS program, built around the high-power AVLIS sodium dye laser, is described together with early experimental results.
 
 ## Keywords
 

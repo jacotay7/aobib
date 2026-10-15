@@ -2,9 +2,10 @@
 title: "Blind and robust reconstruction of adaptive optics point spread functions for asteroid deconvolution and moon detection"
 authors: ["Berdeu, A.", "Soulez, F.", "Minker, K.", "Carry, B.", "Bourdarot, G.", "Kaszczyc, A.", "Langlois, M."]
 year: 2024
-venue: "Proc. SPIE (Adaptive Optics Systems IX), 2024"
+venue: "Proc. SPIE 13097, 130977E"
 doi: "10.1117/12.3019874"
 arxiv: "2410.08585"
+bibcode: "2024SPIE13097E..7EB"
 url: "https://arxiv.org/abs/2410.08585"
 alt_urls: []
 access: arXiv
@@ -16,7 +17,7 @@ keywords: ["blind deconvolution", "psf estimation", "asteroid", "moon detection"
 
 # Blind and robust reconstruction of adaptive optics point spread functions for asteroid deconvolution and moon detection
 
-**Berdeu et al. (2024)** · *Proc. SPIE (Adaptive Optics Systems IX), 2024* · [Free full text](https://arxiv.org/abs/2410.08585) · DOI: [10.1117/12.3019874](https://doi.org/10.1117/12.3019874)
+**Berdeu et al. (2024)** · *Proc. SPIE 13097, 130977E* · [Free full text](https://arxiv.org/abs/2410.08585) · DOI: [10.1117/12.3019874](https://doi.org/10.1117/12.3019874)
 
 ## Summary
 

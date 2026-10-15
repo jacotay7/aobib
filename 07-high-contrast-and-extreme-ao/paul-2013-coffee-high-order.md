@@ -1,6 +1,6 @@
 ---
 title: "High-order myopic coronagraphic phase diversity (COFFEE) for wave-front control in high-contrast imaging systems"
-authors: ["Paul, B.", "Mugnier, L. M.", "Sauvage, J.-F.", "Dohlen, K."]
+authors: ["Paul, B.", "Mugnier, L. M.", "Sauvage, J.-F.", "Ferrari, M.", "Dohlen, K."]
 year: 2013
 venue: "Optics Express 21, 31751"
 doi: "10.1364/OE.21.031751"

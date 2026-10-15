@@ -1,8 +1,8 @@
 ---
-title: "PASSATA - Object oriented numerical simulation software for adaptive optics"
+title: "PASSATA: object oriented numerical simulation software for adaptive optics"
 authors: ["Agapito, G.", "Puglisi, A.", "Esposito, S."]
 year: 2016
-venue: "Proc. SPIE 9909"
+venue: "Proc. SPIE 9909, 99097E"
 doi: "10.1117/12.2233963"
 arxiv: "1607.07624"
 url: "https://arxiv.org/abs/1607.07624"
@@ -14,9 +14,9 @@ also_relevant_to: []
 keywords: ["passata", "end-to-end simulation", "idl", "cuda", "pyramid wavefront sensor", "mcao", "glao", "simulation code"]
 ---
 
-# PASSATA - Object oriented numerical simulation software for adaptive optics
+# PASSATA: object oriented numerical simulation software for adaptive optics
 
-**Agapito et al. (2016)** · *Proc. SPIE 9909* · [Free full text](https://arxiv.org/abs/1607.07624) · DOI: [10.1117/12.2233963](https://doi.org/10.1117/12.2233963)
+**Agapito et al. (2016)** · *Proc. SPIE 9909, 99097E* · [Free full text](https://arxiv.org/abs/1607.07624) · DOI: [10.1117/12.2233963](https://doi.org/10.1117/12.2233963)
 
 ## Summary
 

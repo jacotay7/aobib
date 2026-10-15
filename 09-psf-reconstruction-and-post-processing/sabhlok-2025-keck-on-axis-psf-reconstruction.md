@@ -6,7 +6,7 @@ venue: "PASP 137, 105001"
 doi: "10.1088/1538-3873/ae02c4"
 bibcode: "2025PASP..137j5001S"
 url: "https://iopscience.iop.org/article/10.1088/1538-3873/ae02c4"
-alt_urls: []
+alt_urls: ["https://par.nsf.gov/servlets/purl/10668518"]
 access: open-access
 type: paper
 subtopic: "PSF reconstruction from AO telemetry"

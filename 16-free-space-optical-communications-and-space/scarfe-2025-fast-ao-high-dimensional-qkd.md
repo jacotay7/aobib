@@ -1,8 +1,8 @@
 ---
-title: "Fast Adaptive Optics for High-Dimensional Quantum Communications in Turbulent Channels"
+title: "Fast adaptive optics for high-dimensional quantum communications in turbulent channels"
 authors: ["Scarfe, L.", "Hufnagel, F.", "Ferrer-Garcia, M. F.", "D'Errico, A.", "Heshami, K.", "Karimi, E."]
-year: 2023
-venue: "Communications Physics 8, 79 (2025)"
+year: 2025
+venue: "Communications Physics 8, 79"
 doi: "10.1038/s42005-025-01986-6"
 arxiv: "2311.13041"
 url: "https://arxiv.org/abs/2311.13041"
@@ -14,9 +14,9 @@ also_relevant_to: []
 keywords: ["high-dimensional qkd", "orbital angular momentum", "oam", "spatial modes", "mode crosstalk", "quantum key distribution", "adaptive optics"]
 ---
 
-# Fast Adaptive Optics for High-Dimensional Quantum Communications in Turbulent Channels
+# Fast adaptive optics for high-dimensional quantum communications in turbulent channels
 
-**Scarfe et al. (2023)** · *Communications Physics 8, 79 (2025)* · [Free full text](https://arxiv.org/abs/2311.13041) · DOI: [10.1038/s42005-025-01986-6](https://doi.org/10.1038/s42005-025-01986-6)
+**Scarfe et al. (2025)** · *Communications Physics 8, 79* · [Free full text](https://arxiv.org/abs/2311.13041) · DOI: [10.1038/s42005-025-01986-6](https://doi.org/10.1038/s42005-025-01986-6)
 
 ## Summary
 

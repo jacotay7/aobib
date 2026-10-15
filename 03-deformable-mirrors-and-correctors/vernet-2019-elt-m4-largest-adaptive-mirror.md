@@ -19,7 +19,7 @@ keywords: ["elt", "m4", "deformable mirror", "voice-coil actuator", "thin shell"
 
 ## Summary
 
-Short ESO Messenger article in the series on the optical elements of the Extremely Large Telescope, describing the quaternary mirror M4, a 2.4-m-class flat adaptive mirror that together with the tip-tilt mirror M5 provides the telescope's built-in correction of atmospheric turbulence and telescope vibrations. It outlines the main characteristics of the unit (six thin Zerodur shell petals driven by several thousand contactless voice-coil actuators with capacitive position sensing), the manufacturing challenges, and the production status at the end of 2019. It is an accessible introduction to the ELT's adaptive mirror.
+Short ESO Messenger article in the series on the optical elements of the Extremely Large Telescope, describing the quaternary mirror M4, a 2.4-m-class flat adaptive mirror that together with the tip-tilt mirror M5 provides the telescope's built-in correction of atmospheric turbulence and telescope vibrations. It outlines the main characteristics of the unit (six thin Zerodur shell petals driven by several thousand contactless voice-coil actuators with capacitive position sensing), the manufacturing challenges, and the production status at the end of 2019.
 
 ## Keywords
 

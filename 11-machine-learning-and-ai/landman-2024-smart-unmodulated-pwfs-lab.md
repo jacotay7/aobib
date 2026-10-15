@@ -1,5 +1,5 @@
 ---
-title: "Making the unmodulated pyramid wavefront sensor smart. Closed-loop demonstration of neural network wavefront reconstruction with MagAO-X"
+title: "Making the unmodulated Pyramid wavefront sensor smart. Closed-loop demonstration of neural network wavefront reconstruction with MagAO-X"
 authors: ["Landman, R.", "Haffert, S. Y.", "Males, J. R.", "Close, L. M.", "Foster, W. B.", "Van Gorkom, K.", "et al."]
 year: 2024
 venue: "A&A 684, A114"
@@ -14,7 +14,7 @@ also_relevant_to: ["02-wavefront-sensing", "07-high-contrast-and-extreme-ao"]
 keywords: ["pyramid wavefront sensor", "pwfs", "unmodulated", "convolutional neural network", "cnn", "magao-x", "nonlinear reconstruction", "extreme ao"]
 ---
 
-# Making the unmodulated pyramid wavefront sensor smart. Closed-loop demonstration of neural network wavefront reconstruction with MagAO-X
+# Making the unmodulated Pyramid wavefront sensor smart. Closed-loop demonstration of neural network wavefront reconstruction with MagAO-X
 
 **Landman et al. (2024)** · *A&A 684, A114* · [Free full text](https://arxiv.org/abs/2401.16325) · DOI: [10.1051/0004-6361/202348898](https://doi.org/10.1051/0004-6361/202348898)
 

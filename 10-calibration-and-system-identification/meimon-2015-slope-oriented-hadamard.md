@@ -19,7 +19,7 @@ keywords: ["interaction matrix", "calibration", "hadamard actuation", "slope-ori
 
 ## Summary
 
-Addresses how to measure the interaction matrix of high-order AO systems, with thousands of mirror modes, to a given quality in minimum time. The authors propose the Slope-Oriented Hadamard actuation scheme and build a tractable quality criterion for the measured interaction matrix, showing that the scheme tends to optimise it. Analytic and simulation results indicate that, for a given quality level, calibration with the Slope-Oriented Hadamard scheme requires about seven times less time than a classical Hadamard scheme. The results are confirmed experimentally on the SPHERE extreme AO system (SAXO), including calibration in closed loop.
+Addresses how to measure the interaction matrix of high-order AO systems, with thousands of mirror modes, to a given quality in minimum time. The authors propose the Slope-Oriented Hadamard actuation scheme and build a tractable quality criterion for the measured interaction matrix, showing that the scheme tends to optimise it. Analytic and simulation results indicate that, for a given quality level, calibration with the Slope-Oriented Hadamard scheme requires about seven times less time than a classical Hadamard scheme. The results are confirmed experimentally on the SPHERE extreme AO system (SAXO) bench during integration tests, where a 90-second slope-oriented Hadamard calibration gave the same closed-loop performance as a 90-minute zonal one.
 
 ## Keywords
 

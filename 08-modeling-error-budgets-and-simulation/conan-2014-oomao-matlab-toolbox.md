@@ -19,7 +19,7 @@ keywords: ["oomao", "end-to-end simulation", "matlab", "object-oriented", "simul
 
 ## Summary
 
-OOMAO is an open-source MATLAB toolbox for AO simulation built around a small set of classes (source, atmosphere, telescope, wavefront sensor, deformable mirror, imager) that can be combined to model natural and laser guide star systems, both single-conjugate and tomographic, up to ELT scale. It emphasizes object-oriented modularity and vectorized, parallel computation, and was used in the design of systems such as RAVEN and the GMT laser tomography system. The toolbox is described in Conan & Correia (2014, Proc. SPIE 9148), whose submitted version is in the ANU Open Research repository (alternate link); the main link points to the GitHub repository with tutorials and documentation. OOPAO is its Python successor.
+OOMAO is an open-source MATLAB toolbox for AO simulation built around a small set of classes (source, atmosphere, telescope, wavefront sensor, deformable mirror, imager) that can be combined to model natural and laser guide star systems, both single-conjugate and tomographic, up to ELT scale. It emphasizes object-oriented modularity and vectorized, parallel computation, and was used in the design of systems such as RAVEN and the GMT laser tomography system. The toolbox is described in Conan & Correia (2014, Proc. SPIE 9148), whose published version is in the ANU Open Research repository (alternate link); the main link points to the GitHub repository with tutorials and documentation. OOPAO is a Python code based on it.
 
 ## Keywords
 

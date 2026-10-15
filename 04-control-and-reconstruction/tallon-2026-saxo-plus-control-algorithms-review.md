@@ -1,6 +1,6 @@
 ---
 title: "SAXO+, the second-stage adaptive optics for SPHERE: a review of six selected control algorithms and the results achieved to date"
-authors: ["Tallon, M.", "Béchet, C.", "Dinis, I.", "Ferreira, F.", "Fontanillas, P.", "et al."]
+authors: ["Tallon, M.", "Béchet, C.", "Dinis, I.", "Ferreira, F.", "Fontanillas, P.", "Galland, N.", "et al."]
 year: 2026
 venue: "Proc. SPIE 14150, 1415012"
 doi: "10.1117/12.3106037"

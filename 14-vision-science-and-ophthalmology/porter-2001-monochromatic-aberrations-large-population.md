@@ -19,7 +19,7 @@ keywords: ["ocular aberrations", "population statistics", "zernike polynomials",
 
 ## Summary
 
-A modified Hartmann-Shack wavefront sensor was used to measure the monochromatic wave aberration of both eyes of 109 normal subjects over a 5.7 mm pupil. Most Zernike modes were found to be relatively uncorrelated with each other across the population. Principal component analysis gave only a slightly more compact description than Zernike modes, which the authors interpret as support for Zernike modes as an efficient basis for the eye's aberrations. Many aberrations in the left eye were significantly correlated with the corresponding aberrations in the right eye. The data set is widely used as a reference population for ocular AO design.
+A modified Hartmann-Shack wavefront sensor was used to measure the monochromatic wave aberration of both eyes of 109 normal subjects over a 5.7 mm pupil. Most Zernike modes were found to be relatively uncorrelated with each other across the population. Principal component analysis gave only a slightly more compact description than Zernike modes, which the authors interpret as support for Zernike modes as an efficient basis for the eye's aberrations. Many aberrations in the left eye were significantly correlated with the corresponding aberrations in the right eye.
 
 ## Keywords
 

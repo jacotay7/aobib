@@ -1,6 +1,6 @@
 ---
-title: "Robust control of a bimorph mirror for adaptive optics system"
-authors: ["Baudouin, L.", "Arzelier, D.", "Prieur, C.", "Guignard, F."]
+title: "Robust control of a bimorph mirror for adaptive optics systems"
+authors: ["Baudouin, L.", "Prieur, C.", "Guignard, F.", "Arzelier, D."]
 year: 2008
 venue: "Applied Optics 47, 3637"
 doi: "10.1364/AO.47.003637"
@@ -14,7 +14,7 @@ also_relevant_to: ["04-control-and-reconstruction"]
 keywords: ["bimorph mirror", "plate equation", "deformable mirror dynamics", "robust control", "h-infinity control", "state-space model"]
 ---
 
-# Robust control of a bimorph mirror for adaptive optics system
+# Robust control of a bimorph mirror for adaptive optics systems
 
 **Baudouin et al. (2008)** · *Applied Optics 47, 3637* · [Free full text](https://arxiv.org/abs/0804.1721) · DOI: [10.1364/AO.47.003637](https://doi.org/10.1364/AO.47.003637)
 

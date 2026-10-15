@@ -1,21 +1,22 @@
 ---
-title: "Commissioning of the TeraNet Optical Ground Station Network"
+title: "Commissioning of the TeraNet Optical Communications Ground Station Network"
 authors: ["Schediwy, S.", "Aden, A.", "Dix-Matthews, B.", "Frost, A.", "Gill, A.", "Gozzard, D.", "et al."]
 year: 2025
-venue: "arXiv preprint"
+venue: "IAF Space Communications and Navigation Symposium 2025, 231-242"
+doi: "10.52202/083082-0029"
 arxiv: "2510.25090"
 url: "https://arxiv.org/abs/2510.25090"
 alt_urls: []
 access: arXiv
-type: paper
+type: proceedings
 subtopic: "AO for space-to-ground downlinks & optical ground stations"
 also_relevant_to: []
 keywords: ["optical ground station", "ogs", "teranet", "single-mode fiber coupling", "coherent communication", "leo", "quantum communication", "adaptive optics"]
 ---
 
-# Commissioning of the TeraNet Optical Ground Station Network
+# Commissioning of the TeraNet Optical Communications Ground Station Network
 
-**Schediwy et al. (2025)** · *arXiv preprint* · [Free full text](https://arxiv.org/abs/2510.25090)
+**Schediwy et al. (2025)** · *IAF Space Communications and Navigation Symposium 2025, 231-242* · [Free full text](https://arxiv.org/abs/2510.25090) · DOI: [10.52202/083082-0029](https://doi.org/10.52202/083082-0029)
 
 ## Summary
 

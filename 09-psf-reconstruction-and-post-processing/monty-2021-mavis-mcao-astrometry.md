@@ -1,5 +1,5 @@
 ---
-title: "Towards realistic modelling of the astrometric capabilities of MCAO systems: detecting an intermediate mass black hole with MAVIS"
+title: "Towards realistic modelling of the astrometric capabilities of MCAO systems: detecting an intermediate-mass black hole with MAVIS"
 authors: ["Monty, S.", "Rigaut, F.", "McDermid, R.", "Baumgardt, H.", "Cranney, J.", "Agapito, G.", "et al."]
 year: 2021
 venue: "MNRAS 507, 2192"
@@ -14,7 +14,7 @@ also_relevant_to: ["05-wide-field-and-tomographic-ao", "08-modeling-error-budget
 keywords: ["astrometry", "mcao", "mavis", "error budget", "psf variability", "image simulation", "globular cluster"]
 ---
 
-# Towards realistic modelling of the astrometric capabilities of MCAO systems: detecting an intermediate mass black hole with MAVIS
+# Towards realistic modelling of the astrometric capabilities of MCAO systems: detecting an intermediate-mass black hole with MAVIS
 
 **Monty et al. (2021)** · *MNRAS 507, 2192* · [Free full text](https://arxiv.org/abs/2107.13199) · DOI: [10.1093/mnras/stab2199](https://doi.org/10.1093/mnras/stab2199)
 

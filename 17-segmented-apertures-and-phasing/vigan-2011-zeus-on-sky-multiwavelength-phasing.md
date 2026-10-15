@@ -1,5 +1,5 @@
 ---
-title: "On-sky multi-wavelength phasing of segmented telescopes with the Zernike phase contrast sensor"
+title: "On-sky multiwavelength phasing of segmented telescopes with the Zernike phase contrast sensor"
 authors: ["Vigan, A.", "Dohlen, K.", "Mazzanti, S."]
 year: 2011
 venue: "Applied Optics 50, 2708"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["zernike phase contrast", "zeus", "active phasing experiment", "ape", "segment phasing", "multi-wavelength", "capture range", "vlt"]
 ---
 
-# On-sky multi-wavelength phasing of segmented telescopes with the Zernike phase contrast sensor
+# On-sky multiwavelength phasing of segmented telescopes with the Zernike phase contrast sensor
 
 **Vigan et al. (2011)** · *Applied Optics 50, 2708* · [Free full text](https://arxiv.org/abs/1104.3859) · DOI: [10.1364/AO.50.002708](https://doi.org/10.1364/AO.50.002708)
 

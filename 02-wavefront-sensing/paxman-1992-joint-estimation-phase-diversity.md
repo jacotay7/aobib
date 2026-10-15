@@ -19,7 +19,7 @@ keywords: ["phase diversity", "maximum likelihood", "joint estimation", "extende
 
 ## Summary
 
-Treats the joint estimation of an unknown object and the aberrations of an incoherent imaging system from several images that differ by known phase diversity (for example, a defocus). Maximum-likelihood estimation is developed under both additive Gaussian and Poisson noise models. For Gaussian noise the authors derive an aberration-only objective function, with its gradient, that accepts any number of diversity images; for Poisson noise they give the log-likelihood and its gradient and build an expectation-maximization algorithm that naturally enforces non-negativity. This framework is a standard reference for phase-diversity wavefront sensing, used for example in NCPA calibration and solar image restoration.
+Treats the joint estimation of an unknown object and the aberrations of an incoherent imaging system from several images that differ by known phase diversity (for example, a defocus). Maximum-likelihood estimation is developed under both additive Gaussian and Poisson noise models. For Gaussian noise the authors derive an aberration-only objective function, with its gradient, that accepts any number of diversity images; for Poisson noise they give the log-likelihood and its gradient and build an expectation-maximization algorithm that naturally enforces non-negativity.
 
 ## Keywords
 

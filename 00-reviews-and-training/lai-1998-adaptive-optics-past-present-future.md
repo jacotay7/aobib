@@ -18,7 +18,7 @@ keywords: ["adaptive optics", "lecture notes", "introduction", "cfht", "pueo", "
 
 ## Summary
 
-A set of viewgraphs by Olivier Lai, hosted by the Canada-France-Hawaii Telescope, from an introductory talk on adaptive optics. The slides introduce the principles of AO (atmospheric distortion, deformable mirrors, wavefront sensing and real-time control), basic concepts such as seeing, diffraction limit and Strehl ratio, Babcock's 1953 proposal, and the first astronomical AO instruments (COME-ON at OHP and ESO, ADONIS, the University of Hawaii system and Hokupa'a). They continue with early science results from CFHT's PUEO system and plans at CFHT and Keck. The material is a snapshot of the field in the late 1990s.
+A set of viewgraphs by Olivier Lai, hosted by the Canada-France-Hawaii Telescope, from an introductory talk on adaptive optics. The slides introduce the principles of AO (atmospheric distortion, deformable mirrors, wavefront sensing and real-time control), basic concepts such as seeing, diffraction limit and Strehl ratio, Babcock's 1953 proposal, and the first astronomical AO instruments (COME-ON at OHP and ESO, ADONIS, the University of Hawaii system and Hokupa'a). They continue with early science results from CFHT's PUEO system, projects then under way (the Keck AO system and interferometer, the VLT and its AO), longer-term plans for exoplanet imaging and larger telescopes, and non-astronomical applications. The material is a snapshot of the field in the late 1990s.
 
 ## Keywords
 

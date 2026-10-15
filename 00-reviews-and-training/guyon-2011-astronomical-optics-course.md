@@ -18,7 +18,7 @@ keywords: ["adaptive optics", "course", "lecture notes", "astronomical optics", 
 
 ## Summary
 
-Lecture slides from the University of Arizona graduate and undergraduate course "Astronomical Optics" taught by Olivier Guyon, Phil Hinz and Jim Burge, hosted on Guyon's web pages. The course covers fundamentals of astronomical imaging, telescope design, spectroscopy and interferometry, followed by a block of seven AO lectures: introduction to AO systems, atmospheric turbulence and image quality, wavefront sensing, wavefront correction, wide-field correction (ground-layer, multi-conjugate and multi-object AO), and system design and control. A final part treats high-contrast imaging and coronagraphs. Pages for later editions (2012-2016) are linked from the same site.
+Lecture slides from the University of Arizona graduate and undergraduate course "Astronomical Optics" taught by Olivier Guyon, Phil Hinz and Jim Burge, hosted on Guyon's web pages. The course covers fundamentals of astronomical imaging, telescope design, spectroscopy and interferometry, followed by a block of seven AO lectures: introduction to AO systems, atmospheric turbulence and image quality, wavefront sensing, wavefront correction, laser guide stars, wide-field correction (ground-layer, multi-conjugate and multi-object AO), and system design and control. A final part treats high-contrast imaging and coronagraphs. Pages for later editions (2012-2016) are linked from the same site.
 
 ## Keywords
 

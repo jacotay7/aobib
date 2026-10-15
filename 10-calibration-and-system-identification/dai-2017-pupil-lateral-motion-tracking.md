@@ -1,9 +1,10 @@
 ---
 title: "Experiments of two pupil lateral motion tracking algorithms using a Shack-Hartmann sensor"
 authors: ["Dai, X.", "Hippler, S.", "Gendron, E."]
-year: 2016
+year: 2017
 venue: "Journal of Modern Optics 64, 127"
 doi: "10.1080/09500340.2016.1212415"
+bibcode: "2017JMOp...64..127D"
 url: "https://hal-obspm.ccsd.cnrs.fr/obspm-02268044"
 alt_urls: []
 access: repository
@@ -15,7 +16,7 @@ keywords: ["pupil tracking", "mis-registration", "pupil shift", "shack-hartmann"
 
 # Experiments of two pupil lateral motion tracking algorithms using a Shack-Hartmann sensor
 
-**Dai et al. (2016)** · *Journal of Modern Optics 64, 127* · [Free full text](https://hal-obspm.ccsd.cnrs.fr/obspm-02268044) · DOI: [10.1080/09500340.2016.1212415](https://doi.org/10.1080/09500340.2016.1212415)
+**Dai et al. (2017)** · *Journal of Modern Optics 64, 127* · [Free full text](https://hal-obspm.ccsd.cnrs.fr/obspm-02268044) · DOI: [10.1080/09500340.2016.1212415](https://doi.org/10.1080/09500340.2016.1212415)
 
 ## Summary
 

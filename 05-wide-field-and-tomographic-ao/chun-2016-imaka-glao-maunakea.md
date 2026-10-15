@@ -1,5 +1,5 @@
 ---
-title: "'imaka - a ground-layer adaptive optics system on Maunakea"
+title: "'imaka: a ground-layer adaptive optics system on Maunakea"
 authors: ["Chun, M.", "Lai, O.", "Toomey, D.", "Lu, J.", "Service, M.", "Baranec, C.", "et al."]
 year: 2016
 venue: "Proc. SPIE 9909, 990902"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["ground-layer ao", "glao", "imaka", "mauna kea", "wide-field ao", "system design"]
 ---
 
-# 'imaka - a ground-layer adaptive optics system on Maunakea
+# 'imaka: a ground-layer adaptive optics system on Maunakea
 
 **Chun et al. (2016)** · *Proc. SPIE 9909, 990902* · [Free full text](https://arxiv.org/abs/1608.01804) · DOI: [10.1117/12.2233208](https://doi.org/10.1117/12.2233208)
 

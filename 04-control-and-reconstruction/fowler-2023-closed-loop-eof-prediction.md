@@ -2,12 +2,13 @@
 title: "Closed-Loop Until Further Notice: Comparing Predictive Control Methods in Closed-Loop"
 authors: ["Fowler, J.", "van Kooten, M. A. M.", "Jensen-Clem, R."]
 year: 2023
-venue: "arXiv:2310.02514"
+venue: "Proc. AO4ELT7 (Avignon, 2023)"
+doi: "10.13009/AO4ELT7-2023-051"
 arxiv: "2310.02514"
 url: "https://arxiv.org/abs/2310.02514"
 alt_urls: []
 access: arXiv
-type: paper
+type: proceedings
 subtopic: "Predictive & data-driven control"
 also_relevant_to: ["07-high-contrast-and-extreme-ao"]
 keywords: ["predictive control", "empirical orthogonal functions", "eof", "pseudo-open-loop control", "closed-loop control", "data-driven", "deformable mirror"]
@@ -15,7 +16,7 @@ keywords: ["predictive control", "empirical orthogonal functions", "eof", "pseud
 
 # Closed-Loop Until Further Notice: Comparing Predictive Control Methods in Closed-Loop
 
-**Fowler et al. (2023)** · *arXiv:2310.02514* · [Free full text](https://arxiv.org/abs/2310.02514)
+**Fowler et al. (2023)** · *Proc. AO4ELT7 (Avignon, 2023)* · [Free full text](https://arxiv.org/abs/2310.02514) · DOI: [10.13009/AO4ELT7-2023-051](https://doi.org/10.13009/AO4ELT7-2023-051)
 
 ## Summary
 

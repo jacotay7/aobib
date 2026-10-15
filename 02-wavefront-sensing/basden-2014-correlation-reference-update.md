@@ -1,6 +1,6 @@
 ---
 title: "Real-time correlation reference update for astronomical adaptive optics"
-authors: ["Basden, A. G."]
+authors: ["Basden, A. G.", "Chemla, F.", "Dipper, N.", "Gendron, E.", "Henry, D.", "Morris, T.", "Rousset, G.", "Vidal, F."]
 year: 2014
 venue: "MNRAS 439, 968"
 doi: "10.1093/mnras/stu027"
@@ -16,7 +16,7 @@ keywords: ["shack-hartmann", "correlation", "reference image", "laser guide star
 
 # Real-time correlation reference update for astronomical adaptive optics
 
-**Basden (2014)** · *MNRAS 439, 968* · [Free full text](https://arxiv.org/abs/1401.2635) · DOI: [10.1093/mnras/stu027](https://doi.org/10.1093/mnras/stu027)
+**Basden et al. (2014)** · *MNRAS 439, 968* · [Free full text](https://arxiv.org/abs/1401.2635) · DOI: [10.1093/mnras/stu027](https://doi.org/10.1093/mnras/stu027)
 
 ## Summary
 

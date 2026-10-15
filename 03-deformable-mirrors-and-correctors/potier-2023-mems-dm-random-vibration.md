@@ -1,5 +1,5 @@
 ---
-title: "Random Vibration Testing of Microelectromechanical Deformable Mirrors for Space-based High-Contrast Imaging"
+title: "Random vibration testing of microelectromechanical deformable mirrors for space-based high-contrast imaging"
 authors: ["Potier, A.", "Mejia Prada, C.", "Ruane, G.", "Tang, H.", "Baxter, W.", "Liu, D.", "et al."]
 year: 2023
 venue: "JATIS 9, 029001"
@@ -14,7 +14,7 @@ also_relevant_to: ["07-high-contrast-and-extreme-ao"]
 keywords: ["mems deformable mirror", "space qualification", "vibration testing", "coronagraph", "boston micromachines", "dark hole"]
 ---
 
-# Random Vibration Testing of Microelectromechanical Deformable Mirrors for Space-based High-Contrast Imaging
+# Random vibration testing of microelectromechanical deformable mirrors for space-based high-contrast imaging
 
 **Potier et al. (2023)** · *JATIS 9, 029001* · [Free full text](https://arxiv.org/abs/2305.19495) · DOI: [10.1117/1.JATIS.9.2.029001](https://doi.org/10.1117/1.JATIS.9.2.029001)
 

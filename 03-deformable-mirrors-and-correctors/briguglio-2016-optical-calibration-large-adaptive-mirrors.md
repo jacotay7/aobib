@@ -1,13 +1,13 @@
 ---
 title: "Optical calibration of large format adaptive mirrors"
 authors: ["Briguglio, R.", "Xompero, M.", "Riccardi, A."]
-year: 2022
-venue: "arXiv:2210.04608"
+year: 2016
+venue: "INAF - Osservatorio Astrofisico di Arcetri technical report, ISBN 978-88-908876-1-1 (arXiv:2210.04608)"
 arxiv: "2210.04608"
 url: "https://arxiv.org/abs/2210.04608"
 alt_urls: []
 access: arXiv
-type: paper
+type: report
 subtopic: "Adaptive secondaries & large-format voice-coil mirrors (MMT, LBT, VLT, GMT, ELT M4)"
 also_relevant_to: ["10-calibration-and-system-identification"]
 keywords: ["optical calibration", "adaptive secondary mirror", "interferometry", "flattening", "measurement noise", "elt", "m4", "large-format deformable mirror"]
@@ -15,7 +15,7 @@ keywords: ["optical calibration", "adaptive secondary mirror", "interferometry",
 
 # Optical calibration of large format adaptive mirrors
 
-**Briguglio et al. (2022)** · *arXiv:2210.04608* · [Free full text](https://arxiv.org/abs/2210.04608)
+**Briguglio et al. (2016)** · *INAF - Osservatorio Astrofisico di Arcetri technical report, ISBN 978-88-908876-1-1 (arXiv:2210.04608)* · [Free full text](https://arxiv.org/abs/2210.04608)
 
 ## Summary
 

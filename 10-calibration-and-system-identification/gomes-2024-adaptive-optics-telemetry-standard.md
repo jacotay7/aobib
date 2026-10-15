@@ -1,10 +1,11 @@
 ---
-title: "Adaptive Optics Telemetry Standard: Design and specification of a novel data exchange format"
+title: "Adaptive optics telemetry standard. Design and specification of a novel data exchange format"
 authors: ["Gomes, T.", "Correia, C. M.", "Bardou, L.", "Cetre, S.", "Kolb, J.", "Kulcsár, C.", "et al."]
 year: 2024
 venue: "A&A 686, A7"
 doi: "10.1051/0004-6361/202348486"
 arxiv: "2312.08300"
+bibcode: "2024A&A...686A...7G"
 url: "https://arxiv.org/abs/2312.08300"
 alt_urls: ["https://insu.hal.science/insu-04726490"]
 access: arXiv
@@ -14,7 +15,7 @@ also_relevant_to: ["09-psf-reconstruction-and-post-processing", "08-modeling-err
 keywords: ["telemetry", "data format", "aot", "fits", "turbulence parameter estimation", "psf reconstruction", "aotpy", "software"]
 ---
 
-# Adaptive Optics Telemetry Standard: Design and specification of a novel data exchange format
+# Adaptive optics telemetry standard. Design and specification of a novel data exchange format
 
 **Gomes et al. (2024)** · *A&A 686, A7* · [Free full text](https://arxiv.org/abs/2312.08300) · DOI: [10.1051/0004-6361/202348486](https://doi.org/10.1051/0004-6361/202348486)
 

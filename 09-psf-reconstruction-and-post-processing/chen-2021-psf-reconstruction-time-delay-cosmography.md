@@ -1,5 +1,5 @@
 ---
-title: "Point-spread function reconstruction of adaptive-optics imaging: meeting the astrometric requirements for time-delay cosmography"
+title: "Point spread function reconstruction of adaptive-optics imaging: meeting the astrometric requirements for time-delay cosmography"
 authors: ["Chen, G. C.-F.", "Treu, T.", "Fassnacht, C. D.", "Ragland, S.", "Schmidt, T.", "Suyu, S. H."]
 year: 2021
 venue: "MNRAS 508, 755"
@@ -15,7 +15,7 @@ also_relevant_to: []
 keywords: ["psf reconstruction", "keck", "laser guide star", "astrometry", "strong lensing", "time-delay cosmography", "psf wings"]
 ---
 
-# Point-spread function reconstruction of adaptive-optics imaging: meeting the astrometric requirements for time-delay cosmography
+# Point spread function reconstruction of adaptive-optics imaging: meeting the astrometric requirements for time-delay cosmography
 
 **Chen et al. (2021)** · *MNRAS 508, 755* · [Free full text](https://arxiv.org/abs/2106.11060) · DOI: [10.1093/mnras/stab2587](https://doi.org/10.1093/mnras/stab2587)
 

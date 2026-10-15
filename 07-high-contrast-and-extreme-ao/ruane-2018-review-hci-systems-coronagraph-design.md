@@ -1,5 +1,5 @@
 ---
-title: "Review of high-contrast imaging systems for current and future ground- and space-based telescopes I. Coronagraph design methods and optical performance metrics"
+title: "Review of high-contrast imaging systems for current and future ground- and space-based telescopes I: coronagraph design methods and optical performance metrics"
 authors: ["Ruane, G.", "Riggs, A.", "Mazoyer, J.", "Por, E. H.", "N'Diaye, M.", "Huby, E.", "et al."]
 year: 2018
 venue: "Proc. SPIE 10698, 106982S"
@@ -14,7 +14,7 @@ also_relevant_to: ["00-reviews-and-training"]
 keywords: ["review", "coronagraph", "coronagraph design", "performance metric", "high-contrast imaging", "space telescope"]
 ---
 
-# Review of high-contrast imaging systems for current and future ground- and space-based telescopes I. Coronagraph design methods and optical performance metrics
+# Review of high-contrast imaging systems for current and future ground- and space-based telescopes I: coronagraph design methods and optical performance metrics
 
 **Ruane et al. (2018)** · *Proc. SPIE 10698, 106982S* · [Free full text](https://arxiv.org/abs/1807.07042) · DOI: [10.1117/12.2312948](https://doi.org/10.1117/12.2312948)
 

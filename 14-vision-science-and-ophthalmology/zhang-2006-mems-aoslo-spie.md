@@ -2,7 +2,7 @@
 title: "Adaptive optics scanning laser ophthalmoscope using a micro-electro-mechanical (MEMS) deformable mirror"
 authors: ["Zhang, Y.", "Poonja, S.", "Roorda, A."]
 year: 2006
-venue: "Proc. SPIE 6138 (Ophthalmic Technologies XVI), 221"
+venue: "Proc. SPIE 6138 (Ophthalmic Technologies XVI), 61380Z"
 doi: "10.1117/12.646934"
 bibcode: "2006SPIE.6138..221Z"
 url: "http://roorda.vision.berkeley.edu/Pubs/ZhangPoonjaRoordaSPIE6138.pdf"
@@ -16,7 +16,7 @@ keywords: ["aoslo", "mems deformable mirror", "scanning laser ophthalmoscope", "
 
 # Adaptive optics scanning laser ophthalmoscope using a micro-electro-mechanical (MEMS) deformable mirror
 
-**Zhang et al. (2006)** · *Proc. SPIE 6138 (Ophthalmic Technologies XVI), 221* · [Free full text](http://roorda.vision.berkeley.edu/Pubs/ZhangPoonjaRoordaSPIE6138.pdf) · DOI: [10.1117/12.646934](https://doi.org/10.1117/12.646934)
+**Zhang et al. (2006)** · *Proc. SPIE 6138 (Ophthalmic Technologies XVI), 61380Z* · [Free full text](http://roorda.vision.berkeley.edu/Pubs/ZhangPoonjaRoordaSPIE6138.pdf) · DOI: [10.1117/12.646934](https://doi.org/10.1117/12.646934)
 
 ## Summary
 

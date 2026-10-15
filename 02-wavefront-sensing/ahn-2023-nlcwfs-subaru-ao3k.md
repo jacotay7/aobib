@@ -1,6 +1,6 @@
 ---
 title: "Development of a non-linear curvature wavefront sensor for the Subaru Telescope's AO3k system"
-authors: ["Ahn, K.", "Guyon, O.", "Lozi, J.", "Vievard, S.", "Deo, V.", "Lallement, M.", "et al."]
+authors: ["Ahn, K.", "Guyon, O.", "Lozi, J.", "Vievard, S.", "Deo, V.", "Lallement, M.", "Bragg, J. C."]
 year: 2023
 venue: "Proc. AO4ELT7 (Avignon, 2023)"
 doi: "10.13009/AO4ELT7-2023-075"

@@ -1,10 +1,11 @@
 ---
 title: "Single conjugate adaptive optics for the ELT instrument METIS"
 authors: ["Hippler, S.", "Feldt, M.", "Bertram, T.", "Brandner, W.", "Cantalloube, F.", "Carlomagno, B.", "Absil, O.", "Obereder, A.", "et al."]
-year: 2018
+year: 2019
 venue: "Experimental Astronomy 47, 65"
 doi: "10.1007/s10686-018-9609-y"
 arxiv: "1810.07578"
+bibcode: "2019ExA....47...65H"
 url: "https://arxiv.org/abs/1810.07578"
 alt_urls: []
 access: arXiv
@@ -16,7 +17,7 @@ keywords: ["metis", "elt", "scao", "pyramid wavefront sensor", "shack-hartmann",
 
 # Single conjugate adaptive optics for the ELT instrument METIS
 
-**Hippler et al. (2018)** · *Experimental Astronomy 47, 65* · [Free full text](https://arxiv.org/abs/1810.07578) · DOI: [10.1007/s10686-018-9609-y](https://doi.org/10.1007/s10686-018-9609-y)
+**Hippler et al. (2019)** · *Experimental Astronomy 47, 65* · [Free full text](https://arxiv.org/abs/1810.07578) · DOI: [10.1007/s10686-018-9609-y](https://doi.org/10.1007/s10686-018-9609-y)
 
 ## Summary
 

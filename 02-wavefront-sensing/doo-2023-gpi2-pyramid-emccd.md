@@ -2,12 +2,13 @@
 title: "GPI 2.0: performance evaluation of the wavefront sensor's EMCCD"
 authors: ["Do Ó, C. R.", "Perera, S.", "Maire, J.", "Nguyen, J. S.", "Chambouleyron, V.", "Konopacky, Q. M.", "et al."]
 year: 2023
-venue: "arXiv preprint 2310.06276"
+venue: "Proc. AO4ELT7 (Avignon, 2023)"
+doi: "10.13009/AO4ELT7-2023-045"
 arxiv: "2310.06276"
 url: "https://arxiv.org/abs/2310.06276"
-alt_urls: []
+alt_urls: ["https://hal.science/hal-04419969"]
 access: arXiv
-type: paper
+type: proceedings
 subtopic: "Wavefront sensor detectors"
 also_relevant_to: ["07-high-contrast-and-extreme-ao"]
 keywords: ["emccd", "detector", "pyramid wavefront sensor", "gpi", "read-out noise", "extreme ao"]
@@ -15,7 +16,7 @@ keywords: ["emccd", "detector", "pyramid wavefront sensor", "gpi", "read-out noi
 
 # GPI 2.0: performance evaluation of the wavefront sensor's EMCCD
 
-**Do Ó et al. (2023)** · *arXiv preprint 2310.06276* · [Free full text](https://arxiv.org/abs/2310.06276)
+**Do Ó et al. (2023)** · *Proc. AO4ELT7 (Avignon, 2023)* · [Free full text](https://arxiv.org/abs/2310.06276) · DOI: [10.13009/AO4ELT7-2023-045](https://doi.org/10.13009/AO4ELT7-2023-045)
 
 ## Summary
 

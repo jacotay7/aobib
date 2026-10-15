@@ -1,6 +1,6 @@
 ---
 title: "Operation of a layer-oriented multiconjugate adaptive optics system in the partial illumination regime"
-authors: ["Radhakrishnan, K.", "Arcidiacono, C.", "Bertram, T.", "Briegel, F.", "Herbst, T.", "Ragazzoni, R."]
+authors: ["Santhakumari, K. K. R.", "Arcidiacono, C.", "Bertram, T.", "Briegel, F.", "Herbst, T.", "Ragazzoni, R."]
 year: 2019
 venue: "JATIS 5, 049002"
 doi: "10.1117/1.JATIS.5.4.049002"
@@ -15,7 +15,7 @@ keywords: ["layer-oriented", "multi-conjugate ao", "mcao", "linc-nirvana", "lbt"
 
 # Operation of a layer-oriented multiconjugate adaptive optics system in the partial illumination regime
 
-**Radhakrishnan et al. (2019)** · *JATIS 5, 049002* · [Free full text](https://www.research.unipd.it/bitstream/11577/3452150/1/049002_1.pdf) · DOI: [10.1117/1.JATIS.5.4.049002](https://doi.org/10.1117/1.JATIS.5.4.049002)
+**Santhakumari et al. (2019)** · *JATIS 5, 049002* · [Free full text](https://www.research.unipd.it/bitstream/11577/3452150/1/049002_1.pdf) · DOI: [10.1117/1.JATIS.5.4.049002](https://doi.org/10.1117/1.JATIS.5.4.049002)
 
 ## Summary
 

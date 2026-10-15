@@ -1,9 +1,11 @@
 ---
-title: "ESCAPE: Efficient Synthesis of Calibrations for Adaptive optics through Pseudo-synthetic and Empirical methods"
+title: "ESCAPE: efficient synthesis of calibrations for adaptive optics through pseudo-synthetic and empirical methods"
 authors: ["Taylor, J.", "Swanson, R.", "Levesque, P.", "Lamb, M.", "Vaz, A.", "Montoya, M.", "et al."]
 year: 2024
-venue: "Proc. SPIE 13097 (Adaptive Optics Systems IX)"
+venue: "Proc. SPIE 13097, 130970V"
+doi: "10.1117/12.3020489"
 arxiv: "2408.06974"
+bibcode: "2024SPIE13097E..0VT"
 url: "https://arxiv.org/abs/2408.06974"
 alt_urls: []
 access: arXiv
@@ -13,9 +15,9 @@ also_relevant_to: ["12-ao-systems-and-instruments", "03-deformable-mirrors-and-c
 keywords: ["interaction matrix", "pseudo-synthetic interaction matrix", "adaptive secondary mirror", "on-sky calibration", "do-crime", "sprint", "optical gain", "mmt", "maps"]
 ---
 
-# ESCAPE: Efficient Synthesis of Calibrations for Adaptive optics through Pseudo-synthetic and Empirical methods
+# ESCAPE: efficient synthesis of calibrations for adaptive optics through pseudo-synthetic and empirical methods
 
-**Taylor et al. (2024)** · *Proc. SPIE 13097 (Adaptive Optics Systems IX)* · [Free full text](https://arxiv.org/abs/2408.06974)
+**Taylor et al. (2024)** · *Proc. SPIE 13097, 130970V* · [Free full text](https://arxiv.org/abs/2408.06974) · DOI: [10.1117/12.3020489](https://doi.org/10.1117/12.3020489)
 
 ## Summary
 

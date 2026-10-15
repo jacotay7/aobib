@@ -1,6 +1,6 @@
 ---
 title: "First Light for the GRAVITY+ Adaptive Optics: Extreme Adaptive Optics for the Very Large Telescope Interferometer"
-authors: ["GRAVITY+ Collaboration", "Allouche, F.", "Bailet, C.", "Benisty, M.", "Berdeu, A.", "Berger, J.-P.", "et al."]
+authors: ["GRAVITY+ Collaboration", "Abuter, R.", "Allouche, F.", "Bailet, C.", "Benisty, M.", "Berdeu, A.", "et al."]
 year: 2026
 venue: "A&A 707, A115"
 doi: "10.1051/0004-6361/202555666"

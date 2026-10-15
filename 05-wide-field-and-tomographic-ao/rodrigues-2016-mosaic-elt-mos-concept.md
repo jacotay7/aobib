@@ -20,7 +20,7 @@ keywords: ["mosaic", "multi-object ao", "moao", "elt", "multi-object spectroscop
 
 ## Summary
 
-The paper discusses the design issues and trade-offs behind a new concept for MOSAIC, the multi-object spectrograph for the E-ELT, which combines the science cases of earlier multi-object and multi-AO instrument studies. MOSAIC pairs a high-multiplex mode for unresolved sources with a lower-multiplex mode using integral-field units that spatially resolve sources with AO correction (MOAO), in both visible and near-infrared bands. The trade-offs considered in assembling the integrated concept are presented.
+The paper discusses the design issues and trade-offs behind a new concept for MOSAIC, the multi-object spectrograph for the E-ELT, which combines the science cases of earlier multi-object and multi-AO instrument studies. MOSAIC pairs a high-multiplex mode for unresolved sources, operating seeing-limited or with GLAO, with a lower-multiplex near-infrared mode using integral-field units that spatially resolve sources with MOAO correction; the instrument covers both visible and near-infrared bands. The trade-offs considered in assembling the integrated concept are presented.
 
 ## Keywords
 

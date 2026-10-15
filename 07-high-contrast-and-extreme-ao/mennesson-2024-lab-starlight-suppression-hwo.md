@@ -1,5 +1,5 @@
 ---
-title: "Current laboratory performance of starlight suppression systems, and potential pathways to desired Habitable Worlds Observatory exoplanet science capabilities"
+title: "Current laboratory performance of starlight suppression systems and potential pathways to desired Habitable Worlds Observatory exoplanet science capabilities"
 authors: ["Mennesson, B.", "Belikov, R.", "Por, E.", "Serabyn, E.", "Ruane, G.", "Riggs, A. J. E.", "et al."]
 year: 2024
 venue: "JATIS 10, 035004"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["habitable worlds observatory", "hwo", "coronagraph", "starshade", "testbed", "raw contrast", "space telescope", "dark hole"]
 ---
 
-# Current laboratory performance of starlight suppression systems, and potential pathways to desired Habitable Worlds Observatory exoplanet science capabilities
+# Current laboratory performance of starlight suppression systems and potential pathways to desired Habitable Worlds Observatory exoplanet science capabilities
 
 **Mennesson et al. (2024)** · *JATIS 10, 035004* · [Free full text](https://arxiv.org/abs/2404.18036) · DOI: [10.1117/1.JATIS.10.3.035004](https://doi.org/10.1117/1.JATIS.10.3.035004)
 

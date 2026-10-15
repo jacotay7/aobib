@@ -19,7 +19,7 @@ keywords: ["single-molecule localization microscopy", "smlm", "storm", "sensorle
 
 ## Summary
 
-Reports adaptive optics methods for single-molecule switching (localization) microscopy that provide feedback correction of specimen-induced aberrations. Because SMLM images consist of sparse blinking emitters, conventional image-quality metrics are not directly applicable, and the authors develop correction suited to this situation. The benefits are demonstrated through two- and three-dimensional STORM imaging, with the aim of extending SMLM to deep-cell and tissue-level imaging.
+Reports adaptive optics methods for single-molecule switching (localization) microscopy that provide feedback correction of specimen-induced aberrations. Because each raw SMLM frame is a sparse, random collection of blinking point emitters, the authors design an image-based (sensorless) correction scheme suited to this situation. The benefits are demonstrated through two- and three-dimensional STORM imaging, with the aim of extending SMLM to deep-cell and tissue-level imaging.
 
 ## Keywords
 

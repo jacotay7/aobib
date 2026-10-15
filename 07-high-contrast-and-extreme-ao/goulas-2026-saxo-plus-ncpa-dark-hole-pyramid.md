@@ -20,7 +20,7 @@ keywords: ["non-common path aberrations", "ncpa", "dark hole", "pyramid wavefron
 
 ## Summary
 
-Studies two methods for removing quasi-static speckles behind the SAXO+ second-stage AO loop, whose near-infrared pyramid wavefront sensor has non-linear modal optical gains: NCPA compensation and a dark-hole loop, both applied by offsetting the pyramid operating point. End-to-end simulations show NCPA compensation reduces residual coronagraphic starlight by a factor of 20 for bright stars in 0.7-1 arcsec seeing, while the dark-hole loop reduces it by a factor of 200. Optical-gain compensation helps a single pyramid AO system but brings little or negative benefit behind SAXO+, and an on-sky method for measuring pyramid optical gains is derived.
+Studies two methods for removing quasi-static speckles behind the SAXO+ second-stage AO loop, whose near-infrared pyramid wavefront sensor has non-linear modal optical gains: NCPA compensation and a dark-hole loop, both applied by offsetting the pyramid operating point. End-to-end simulations show NCPA compensation reduces residual coronagraphic starlight by up to a factor of 20 for bright stars in 0.7-1 arcsec seeing (a factor of 2 for a faint star), while the dark-hole loop reduces it by up to a factor of 200. Optical-gain compensation improves NCPA compensation for bright stars in poor seeing but is useless or harmful for faint targets, and it improves the dark-hole loop behind a single pyramid AO system but not behind SAXO+; an on-sky method for measuring pyramid optical gains is derived as a by-product.
 
 ## Keywords
 

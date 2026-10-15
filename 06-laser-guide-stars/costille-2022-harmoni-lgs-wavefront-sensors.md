@@ -2,7 +2,7 @@
 title: "HARMONI at ELT: designing a laser guide star wavefront sensors for the ELT"
 authors: ["Costille, A.", "Bonnefoi, A.", "Renault, E.", "Ceria, W.", "Dohlen, K.", "Neichel, B.", "et al."]
 year: 2022
-venue: "Proc. SPIE 12185"
+venue: "Proc. SPIE 12185, 121854L"
 doi: "10.1117/12.2627644"
 arxiv: "2207.08451"
 url: "https://arxiv.org/abs/2207.08451"
@@ -16,7 +16,7 @@ keywords: ["harmoni", "elt", "laser tomography ao", "ltao", "shack-hartmann", "c
 
 # HARMONI at ELT: designing a laser guide star wavefront sensors for the ELT
 
-**Costille et al. (2022)** · *Proc. SPIE 12185* · [Free full text](https://arxiv.org/abs/2207.08451) · DOI: [10.1117/12.2627644](https://doi.org/10.1117/12.2627644)
+**Costille et al. (2022)** · *Proc. SPIE 12185, 121854L* · [Free full text](https://arxiv.org/abs/2207.08451) · DOI: [10.1117/12.2627644](https://doi.org/10.1117/12.2627644)
 
 ## Summary
 

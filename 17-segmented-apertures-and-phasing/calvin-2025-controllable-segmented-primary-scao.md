@@ -1,5 +1,5 @@
 ---
-title: "Simultaneous operation of a controllable segmented primary mirror and single conjugate adaptive optics system, part 1: design concept and sensitivity analysis"
+title: "Simultaneous operation of a controllable segmented primary mirror and single conjugate adaptive optics system part 1: design concept and sensitivity analysis"
 authors: ["Calvin, B.", "Fitzgerald, M."]
 year: 2025
 venue: "JATIS 11, 019003"
@@ -14,7 +14,7 @@ also_relevant_to: ["04-control-and-reconstruction"]
 keywords: ["segmented mirror", "segment phasing", "keck", "single-conjugate ao", "scao", "controllable segmented primary", "sensitivity analysis"]
 ---
 
-# Simultaneous operation of a controllable segmented primary mirror and single conjugate adaptive optics system, part 1: design concept and sensitivity analysis
+# Simultaneous operation of a controllable segmented primary mirror and single conjugate adaptive optics system part 1: design concept and sensitivity analysis
 
 **Calvin & Fitzgerald (2025)** · *JATIS 11, 019003* · [Free full text](https://arxiv.org/abs/2503.02026) · DOI: [10.1117/1.JATIS.11.1.019003](https://doi.org/10.1117/1.JATIS.11.1.019003)
 

@@ -1,5 +1,5 @@
 ---
-title: "Adaptive optics with programmable Fourier-based wavefront sensors: a spatial light modulator approach to the LOOPS testbed"
+title: "Adaptive optics with programmable Fourier-based wavefront sensors: a spatial light modulator approach to the LAM/ONERA on-sky pyramid sensor testbed"
 authors: ["Janin-Potiron, P.", "Chambouleyron, V.", "Schatz, L.", "Fauvarque, O.", "Bond, C. Z.", "Abautret, Y.", "et al."]
 year: 2019
 venue: "JATIS 5, 039001"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["fourier-filtering wavefront sensor", "spatial light modulator", "slm", "pyramid wavefront sensor", "flattened pyramid", "loops testbed", "axicon"]
 ---
 
-# Adaptive optics with programmable Fourier-based wavefront sensors: a spatial light modulator approach to the LOOPS testbed
+# Adaptive optics with programmable Fourier-based wavefront sensors: a spatial light modulator approach to the LAM/ONERA on-sky pyramid sensor testbed
 
 **Janin-Potiron et al. (2019)** · *JATIS 5, 039001* · [Free full text](https://arxiv.org/abs/1903.06599) · DOI: [10.1117/1.JATIS.5.3.039001](https://doi.org/10.1117/1.JATIS.5.3.039001)
 

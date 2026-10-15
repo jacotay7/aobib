@@ -1,5 +1,5 @@
 ---
-title: "Accurate photometry with adaptive optics in the presence of anisoplanatic effects with a sparsely sampled PSF"
+title: "Accurate photometry with adaptive optics in the presence of anisoplanatic effects with a sparsely sampled PSF. The Galactic center as an example of a challenging target for accurate AO photometry"
 authors: ["Schödel, R."]
 year: 2010
 venue: "A&A 509, A58"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["photometry", "anisoplanatism", "starfinder", "local psf", "wiener deconvolution", "galactic center", "crowded fields"]
 ---
 
-# Accurate photometry with adaptive optics in the presence of anisoplanatic effects with a sparsely sampled PSF
+# Accurate photometry with adaptive optics in the presence of anisoplanatic effects with a sparsely sampled PSF. The Galactic center as an example of a challenging target for accurate AO photometry
 
 **Schödel (2010)** · *A&A 509, A58* · [Free full text](https://arxiv.org/abs/0912.1219) · DOI: [10.1051/0004-6361/200912808](https://doi.org/10.1051/0004-6361/200912808)
 

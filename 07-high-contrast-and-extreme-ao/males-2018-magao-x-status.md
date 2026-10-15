@@ -2,7 +2,7 @@
 title: "MagAO-X: project status and first laboratory results"
 authors: ["Males, J. R.", "Close, L. M.", "Miller, K.", "Schatz, L.", "Doelman, D.", "Lumbres, J.", "et al."]
 year: 2018
-venue: "Proc. SPIE 10703"
+venue: "Proc. SPIE 10703, 1070309"
 doi: "10.1117/12.2312992"
 arxiv: "1807.04315"
 url: "https://arxiv.org/abs/1807.04315"
@@ -16,7 +16,7 @@ keywords: ["magao-x", "magellan", "extreme ao", "exao", "visible ao", "h-alpha",
 
 # MagAO-X: project status and first laboratory results
 
-**Males et al. (2018)** · *Proc. SPIE 10703* · [Free full text](https://arxiv.org/abs/1807.04315) · DOI: [10.1117/12.2312992](https://doi.org/10.1117/12.2312992)
+**Males et al. (2018)** · *Proc. SPIE 10703, 1070309* · [Free full text](https://arxiv.org/abs/1807.04315) · DOI: [10.1117/12.2312992](https://doi.org/10.1117/12.2312992)
 
 ## Summary
 

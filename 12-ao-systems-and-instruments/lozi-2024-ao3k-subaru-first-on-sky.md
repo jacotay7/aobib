@@ -5,7 +5,7 @@ year: 2024
 venue: "Proc. SPIE 13097, 1309703"
 doi: "10.1117/12.3019294"
 arxiv: "2407.19188"
-bibcode: "2024arXiv240719188L"
+bibcode: "2024SPIE13097E..03L"
 url: "https://arxiv.org/abs/2407.19188"
 alt_urls: []
 access: arXiv

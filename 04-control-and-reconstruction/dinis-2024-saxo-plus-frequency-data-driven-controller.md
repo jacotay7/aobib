@@ -2,7 +2,7 @@
 title: "Upgrading SPHERE with the second stage AO system SAXO+: frequency-based data-driven controller for adaptive optics"
 authors: ["Dinis, I.", "Wildi, F.", "Ségransan, D.", "Gupta, V.", "Karimi, A.", "Tallon, M.", "et al."]
 year: 2024
-venue: "Proc. SPIE 13097"
+venue: "Proc. SPIE 13097, 130977Z"
 doi: "10.1117/12.3020179"
 arxiv: "2410.05123"
 url: "https://arxiv.org/abs/2410.05123"
@@ -16,7 +16,7 @@ keywords: ["data-driven", "frequency-domain control", "convex optimization", "sa
 
 # Upgrading SPHERE with the second stage AO system SAXO+: frequency-based data-driven controller for adaptive optics
 
-**Dinis et al. (2024)** · *Proc. SPIE 13097* · [Free full text](https://arxiv.org/abs/2410.05123) · DOI: [10.1117/12.3020179](https://doi.org/10.1117/12.3020179)
+**Dinis et al. (2024)** · *Proc. SPIE 13097, 130977Z* · [Free full text](https://arxiv.org/abs/2410.05123) · DOI: [10.1117/12.3020179](https://doi.org/10.1117/12.3020179)
 
 ## Summary
 

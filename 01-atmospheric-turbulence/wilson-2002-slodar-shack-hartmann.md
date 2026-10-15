@@ -6,7 +6,7 @@ venue: "MNRAS 337, 103"
 doi: "10.1046/j.1365-8711.2002.05847.x"
 bibcode: "2002MNRAS.337..103W"
 url: "https://academic.oup.com/mnras/article/337/1/103/1034115"
-alt_urls: []
+alt_urls: ["https://articles.adsabs.harvard.edu/pdf/2002MNRAS.337..103W"]
 access: free-to-read
 type: paper
 subtopic: "Cn2 profiling & seeing monitors"

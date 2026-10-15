@@ -1,5 +1,5 @@
 ---
-title: "Point spread function reconstruction for SOUL+LUCI LBT data"
+title: "Point spread function reconstruction for SOUL + LUCI LBT data"
 authors: ["Simioni, M.", "Arcidiacono, C.", "Wagner, R.", "Grazian, A.", "Gullieuszik, M.", "Portaluri, E.", "et al."]
 year: 2022
 venue: "JATIS 8(3), 038003"
@@ -15,7 +15,7 @@ also_relevant_to: []
 keywords: ["psf reconstruction", "psf-r", "pyramid wavefront sensor", "lbt", "soul", "luci", "telemetry", "micado"]
 ---
 
-# Point spread function reconstruction for SOUL+LUCI LBT data
+# Point spread function reconstruction for SOUL + LUCI LBT data
 
 **Simioni et al. (2022)** · *JATIS 8(3), 038003* · [Free full text](https://arxiv.org/abs/2209.01563) · DOI: [10.1117/1.JATIS.8.3.038003](https://doi.org/10.1117/1.JATIS.8.3.038003)
 

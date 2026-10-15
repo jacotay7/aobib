@@ -19,7 +19,7 @@ keywords: ["predictive control", "neural network", "machine learning", "empirica
 
 ## Summary
 
-Predictive control aims to compensate the latency between wavefront measurement and correction in AO systems; a current approach is the linear empirical orthogonal functions (EOF) framework borrowed from weather prediction. This paper evaluates neural networks as predictors. Using on-sky SCExAO telemetry, the authors show that neural networks provide better regularization than the truncation regularization used in the linear EOF method. With simulated data they then show that neural networks can model nonlinearities, which is relevant to operating a pyramid wavefront sensor at low modulation. The linked copy is the published version deposited in the University of Arizona repository.
+Predictive control aims to compensate the latency between wavefront measurement and correction in AO systems; a current approach is the linear empirical orthogonal functions (EOF) framework borrowed from weather prediction. This paper evaluates neural networks as predictors. Using on-sky SCExAO telemetry, the authors show that neural networks provide better regularization than the truncation regularization used in the linear EOF method. With simulated data they then show that neural networks can model nonlinearities, which is relevant to operating a pyramid wavefront sensor at low modulation. The main link is the free publisher PDF; a copy is also deposited in the University of Arizona repository.
 
 ## Keywords
 

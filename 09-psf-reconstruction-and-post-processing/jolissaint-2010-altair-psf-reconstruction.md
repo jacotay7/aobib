@@ -1,6 +1,6 @@
 ---
 title: "Adaptive optics point spread function reconstruction: lessons learned from on-sky experiment on Altair/Gemini and pathway for future systems"
-authors: ["Jolissaint, L.", "Christou, J.", "Tolstoy, E.", "Wizinowich, P."]
+authors: ["Jolissaint, L.", "Christou, J.", "Wizinowich, P.", "Tolstoy, E."]
 year: 2010
 venue: "Proc. SPIE 7736, 77361F"
 doi: "10.1117/12.857670"

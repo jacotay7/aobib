@@ -3,6 +3,7 @@ title: "The Possibility of Compensating Astronomical Seeing"
 authors: ["Babcock, H. W."]
 year: 1953
 venue: "PASP 65, 229"
+doi: "10.1086/126606"
 bibcode: "1953PASP...65..229B"
 url: "https://articles.adsabs.harvard.edu/pdf/1953PASP...65..229B"
 alt_urls: []
@@ -15,7 +16,7 @@ keywords: ["history", "seeing compensation", "deformable mirror", "wavefront sen
 
 # The Possibility of Compensating Astronomical Seeing
 
-**Babcock (1953)** · *PASP 65, 229* · [Free full text](https://articles.adsabs.harvard.edu/pdf/1953PASP...65..229B)
+**Babcock (1953)** · *PASP 65, 229* · [Free full text](https://articles.adsabs.harvard.edu/pdf/1953PASP...65..229B) · DOI: [10.1086/126606](https://doi.org/10.1086/126606)
 
 ## Summary
 

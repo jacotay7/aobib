@@ -20,7 +20,7 @@ keywords: ["pyramid wavefront sensor", "pwfs", "roof prism", "scexao", "saphira"
 
 ## Summary
 
-Addresses the difficulty of fabricating four-sided pyramid optics with a sharp common apex by implementing the pyramid wavefront sensor with two inexpensive roof prisms. The roof-prism sensor is demonstrated on an 8 m-class telescope setup (SCExAO) at visible and near-infrared wavelengths. The demonstration includes the first laboratory use of a SAPHIRA HgCdTe detector with a non-modulated pyramid. The authors discuss how this implementation can be used more widely on testbeds and instruments.
+Addresses the difficulty of fabricating four-sided pyramid optics with a sharp common apex by implementing the pyramid wavefront sensor with two inexpensive roof prisms. The roof-prism sensor is demonstrated in SCExAO on the 8 m Subaru Telescope at visible and near-infrared wavelengths, the visible sensor also operating on-sky. The demonstration includes the first laboratory use of a SAPHIRA HgCdTe detector with a non-modulated pyramid. The authors discuss how this implementation can be used more widely on testbeds and instruments.
 
 ## Keywords
 

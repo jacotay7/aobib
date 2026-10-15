@@ -4,8 +4,9 @@ authors: ["Li, J.", "Beaulieu, D. R.", "Paudel, H.", "Barankov, R.", "Bifano, T.
 year: 2015
 venue: "Optica 2, 682"
 doi: "10.1364/OPTICA.2.000682"
+arxiv: "1506.03463"
 url: "https://doi.org/10.1364/OPTICA.2.000682"
-alt_urls: []
+alt_urls: ["https://arxiv.org/abs/1506.03463"]
 access: open-access
 type: paper
 subtopic: "Conjugate & wide-field AO in microscopy"

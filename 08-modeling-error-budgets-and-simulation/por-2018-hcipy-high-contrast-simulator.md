@@ -2,7 +2,7 @@
 title: "High Contrast Imaging for Python (HCIPy): an open-source adaptive optics and coronagraph simulator"
 authors: ["Por, E. H.", "Haffert, S. Y.", "Radhakrishnan, V. M.", "Doelman, D. S.", "van Kooten, M.", "Bos, S. P."]
 year: 2018
-venue: "Software (Python); described in Proc. SPIE 10703"
+venue: "Software (Python); described in Proc. SPIE 10703, 1070342"
 doi: "10.1117/12.2314407"
 url: "https://docs.hcipy.org/"
 alt_urls: ["https://github.com/ehpor/hcipy"]
@@ -15,7 +15,7 @@ keywords: ["hcipy", "end-to-end simulation", "python", "coronagraph", "fresnel p
 
 # High Contrast Imaging for Python (HCIPy): an open-source adaptive optics and coronagraph simulator
 
-**Por et al. (2018)** · *Software (Python); described in Proc. SPIE 10703* · [Free full text](https://docs.hcipy.org/) · DOI: [10.1117/12.2314407](https://doi.org/10.1117/12.2314407)
+**Por et al. (2018)** · *Software (Python); described in Proc. SPIE 10703, 1070342* · [Free full text](https://docs.hcipy.org/) · DOI: [10.1117/12.2314407](https://doi.org/10.1117/12.2314407)
 
 ## Summary
 

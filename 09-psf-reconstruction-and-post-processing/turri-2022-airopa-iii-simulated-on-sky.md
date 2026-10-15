@@ -1,5 +1,5 @@
 ---
-title: "AIROPA III: Testing Simulated and On-Sky Data"
+title: "AIROPA III: testing simulated and on-sky data"
 authors: ["Turri, P.", "Lu, J. R.", "Witzel, G.", "Ciurlo, A.", "Do, T.", "Ghez, A. M.", "et al."]
 year: 2022
 venue: "JATIS 8, 039002"
@@ -14,7 +14,7 @@ also_relevant_to: []
 keywords: ["airopa", "psf reconstruction", "psf fitting", "off-axis psf", "galactic center", "keck", "astrometry", "photometry"]
 ---
 
-# AIROPA III: Testing Simulated and On-Sky Data
+# AIROPA III: testing simulated and on-sky data
 
 **Turri et al. (2022)** · *JATIS 8, 039002* · [Free full text](https://arxiv.org/abs/2207.00548) · DOI: [10.1117/1.JATIS.8.3.039002](https://doi.org/10.1117/1.JATIS.8.3.039002)
 

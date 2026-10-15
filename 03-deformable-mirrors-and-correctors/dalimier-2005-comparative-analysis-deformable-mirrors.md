@@ -19,7 +19,7 @@ keywords: ["deformable mirror", "membrane mirror", "bimorph mirror", "piezoelect
 
 ## Summary
 
-Evaluates how well three commercially available low-cost deformable mirrors can compensate ocular aberrations: a 37-actuator membrane mirror and a 19-actuator piezoelectric mirror (OKO Technologies) and a 35-actuator bimorph mirror (AOptix). The mirror influence functions were measured with a Twyman-Green interferometer and used to fit Zernike polynomials and statistically representative ocular wavefronts generated from the Thibos-Bradley-Hong model. The bimorph mirror gave the lowest residual rms error, while the piezoelectric device was found promising if extended to more actuators. The fitting methodology is presented as a general procedure for assessing new deformable mirrors.
+Evaluates how well three commercially available deformable mirrors can compensate ocular aberrations: a 37-actuator membrane mirror and a 19-actuator piezoelectric mirror (OKO Technologies) and a 35-actuator bimorph mirror (AOptix). The mirror influence functions were measured with a Twyman-Green interferometer and used to fit Zernike polynomials and statistically representative ocular wavefronts generated from the Thibos-Bradley-Hong model. The bimorph mirror gave the lowest residual rms error, while the piezoelectric device was found promising if extended to more actuators. The fitting methodology is presented as a general procedure for assessing new deformable mirrors.
 
 ## Keywords
 

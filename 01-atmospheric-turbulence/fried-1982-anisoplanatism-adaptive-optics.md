@@ -19,7 +19,7 @@ keywords: ["anisoplanatism", "isoplanatic angle", "theta0", "optical transfer fu
 
 ## Summary
 
-Analyses how the difference between the turbulent wavefront along the reference-source direction and along the direction of interest limits an adaptive-optics system. Results are given for a compensated imaging system (as the average optical transfer function) and for an adaptive laser transmitter (as the average antenna gain), as functions of the angular separation between the two paths. For high spatial frequencies and large apertures, the degradation reduces to a factor exp[-(θ/θ0)^(5/3)], which defines the isoplanatic angle θ0. Numerical results show that the reduction is less severe at lower spatial frequencies and for smaller apertures. The isoplanatic angle defined here is a standard parameter in AO error budgets and site characterization.
+Analyses how the difference between the turbulent wavefront along the reference-source direction and along the direction of interest limits an adaptive-optics system. Results are given for a compensated imaging system (as the average optical transfer function) and for an adaptive laser transmitter (as the average antenna gain), as functions of the angular separation between the two paths. For high spatial frequencies and large apertures, the degradation reduces to a factor exp[-(θ/θ0)^(5/3)], which defines the isoplanatic angle θ0. Numerical results show that the reduction is less severe at lower spatial frequencies and for smaller apertures.
 
 ## Keywords
 

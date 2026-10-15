@@ -20,7 +20,7 @@ keywords: ["multi-frame blind deconvolution", "mfbd", "phase diversity", "statis
 
 ## Summary
 
-Neither MFBD nor speckle methods restore AO-compensated solar images to the correct power spectrum and contrast: MFBD fits only a finite number of low-order modes, while speckle restoration of AO data depends on calibrations of the AO correction and assumptions on the turbulence height distribution. The authors supplement the fitted low-order aberrations in the MFBD image-formation model with random high-order tails following Kolmogorov statistics scaled by an estimated or measured r0, an approach they call statistical diversity (SD). MFBD with SD is tested on simulated and real data and compared with standard MFBD and speckle restoration.
+Neither MFBD nor speckle methods restore AO-compensated solar images to the correct power spectrum and contrast: MFBD fits only a finite number of low-order modes, while speckle restoration of AO data depends on calibrations of the AO correction and assumptions on the turbulence height distribution. The authors supplement the fitted low-order aberrations in the MFBD image-formation model with random high-order tails following Kolmogorov statistics scaled by an estimated or measured r0, an approach they call statistical diversity (SD). MFBD with SD is tested on noise-free synthetic data for many values of r0 and numbers of AO-corrected modes. SD improves the contrast and power spectra of the restored images without extra processing time, gives almost perfect results when combined with focus diversity, and tolerates errors of several percent in r0; tests on real data are left for future work.
 
 ## Keywords
 

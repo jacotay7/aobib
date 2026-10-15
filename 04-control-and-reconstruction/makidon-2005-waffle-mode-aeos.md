@@ -1,6 +1,6 @@
 ---
 title: "An Analysis of Fundamental Waffle Mode in Early AEOS Adaptive Optics Images"
-authors: ["Makidon, R. B.", "Sivaramakrishnan, A.", "Perrin, M. D.", "Roberts, L. C., Jr.", "Soummer, R.", "Oppenheimer, B. R.", "Graham, J. R."]
+authors: ["Makidon, R. B.", "Sivaramakrishnan, A.", "Perrin, M. D.", "Roberts, L. C., Jr.", "Oppenheimer, B. R.", "Soummer, R.", "Graham, J. R."]
 year: 2005
 venue: "PASP 117, 831"
 doi: "10.1086/431436"

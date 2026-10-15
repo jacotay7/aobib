@@ -20,7 +20,7 @@ keywords: ["solar adaptive optics", "review", "high-resolution solar observation
 
 ## Summary
 
-Short review of solar adaptive optics written as the first generation of high-order solar AO systems came into routine use. It presents examples of solar observations obtained with AO and lists limitations of the AO systems in operation at the time. The authors outline the developments needed to extend AO to solar telescopes with apertures beyond 1.5 m, and summarize the status of solar AO development in India.
+Short review of solar adaptive optics. It presents examples of solar observations obtained with AO and lists limitations of the AO systems in operation at the time. The authors outline the developments needed to extend AO to solar telescopes with apertures beyond 1.5 m, and summarize the status of solar AO development in India.
 
 ## Keywords
 

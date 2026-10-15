@@ -1,8 +1,8 @@
 ---
 title: "Performance of Large-Format Deformable Mirrors Constructed with Hybrid Variable Reluctance Actuators II: Initial Lab Results from FLASH"
-authors: ["Bowens-Rubin, R.", "Dillon, D.", "Hinz, P. M.", "Kuiper, S."]
+authors: ["Bowens-Rubin, R.", "Hinz, P. M.", "Kuiper, S.", "Dillon, D."]
 year: 2021
-venue: "Proc. SPIE 11823"
+venue: "Proc. SPIE 11823 (Techniques and Instrumentation for Detection of Exoplanets X), 118231R"
 doi: "10.1117/12.2593535"
 arxiv: "2110.01693"
 url: "https://arxiv.org/abs/2110.01693"
@@ -16,7 +16,7 @@ keywords: ["hybrid variable reluctance actuator", "hvr", "tno", "adaptive second
 
 # Performance of Large-Format Deformable Mirrors Constructed with Hybrid Variable Reluctance Actuators II: Initial Lab Results from FLASH
 
-**Bowens-Rubin et al. (2021)** · *Proc. SPIE 11823* · [Free full text](https://arxiv.org/abs/2110.01693) · DOI: [10.1117/12.2593535](https://doi.org/10.1117/12.2593535)
+**Bowens-Rubin et al. (2021)** · *Proc. SPIE 11823 (Techniques and Instrumentation for Detection of Exoplanets X), 118231R* · [Free full text](https://arxiv.org/abs/2110.01693) · DOI: [10.1117/12.2593535](https://doi.org/10.1117/12.2593535)
 
 ## Summary
 

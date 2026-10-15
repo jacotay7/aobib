@@ -1,8 +1,8 @@
 ---
 title: "Single-Shot Phase Diversity Wavefront Sensing in Deep Turbulence via Metasurface Optics"
-authors: ["Jimenez, A. M.", "Baltes, M.", "Cornelius, J.", "Akozbek, N.", "Coppens, Z."]
-year: 2024
-venue: "Nature Photonics 19, 1315 (2025)"
+authors: ["Martin Jimenez, A.", "Baltes, M.", "Cornelius, J.", "Aközbek, N.", "Coppens, Z. J."]
+year: 2025
+venue: "Nature Photonics 19, 1315"
 doi: "10.1038/s41566-025-01772-4"
 arxiv: "2410.18789"
 url: "https://arxiv.org/abs/2410.18789"
@@ -16,7 +16,7 @@ keywords: ["phase diversity", "metasurface", "deep turbulence", "rytov number", 
 
 # Single-Shot Phase Diversity Wavefront Sensing in Deep Turbulence via Metasurface Optics
 
-**Jimenez et al. (2024)** · *Nature Photonics 19, 1315 (2025)* · [Free full text](https://arxiv.org/abs/2410.18789) · DOI: [10.1038/s41566-025-01772-4](https://doi.org/10.1038/s41566-025-01772-4)
+**Martin Jimenez et al. (2025)** · *Nature Photonics 19, 1315* · [Free full text](https://arxiv.org/abs/2410.18789) · DOI: [10.1038/s41566-025-01772-4](https://doi.org/10.1038/s41566-025-01772-4)
 
 ## Summary
 

@@ -18,7 +18,7 @@ keywords: ["tutorial", "oomao", "matlab", "simulation", "shack-hartmann", "tomog
 
 ## Summary
 
-The OOMAO Matlab toolbox repository contains tutorial scripts (oomaoTutorial.m and a tutorial written for an SPIE paper, with a PDF rendering) that walk through building an AO simulation step by step: defining sources, atmosphere and telescope, wavefront sensors and deformable mirrors, calibrating interaction matrices and running a closed loop. OOMAO underlies many published AO modelling studies and inspired the Python OOPAO package. The toolbox itself is listed in the simulation topic.
+The OOMAO Matlab toolbox repository contains tutorial scripts (oomaoTutorial.m and a tutorial written for an SPIE paper, with a PDF rendering) that walk through building an AO simulation step by step: defining sources, atmosphere and telescope, wavefront sensors and deformable mirrors, calibrating interaction matrices and running a closed loop. The architecture of the Python OOPAO package is inspired by OOMAO. The toolbox itself is listed in the simulation topic.
 
 ## Keywords
 

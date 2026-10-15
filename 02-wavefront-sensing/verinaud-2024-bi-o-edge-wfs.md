@@ -1,5 +1,5 @@
 ---
-title: "The Bi-O-edge wavefront sensor: how Foucault-knife-edge variants can boost extreme adaptive optics"
+title: "The Bi-O edge wavefront sensor: how Foucault-knife-edge variants can boost extreme adaptive optics"
 authors: ["Vérinaud, C.", "Héritier, C. T.", "Kasper, M.", "Tallon, M."]
 year: 2024
 venue: "A&A 682, A27"
@@ -14,7 +14,7 @@ also_relevant_to: ["07-high-contrast-and-extreme-ao"]
 keywords: ["bi-o-edge", "knife-edge sensor", "foucault test", "pyramid wavefront sensor", "pwfs", "sensitivity", "extreme ao", "elt"]
 ---
 
-# The Bi-O-edge wavefront sensor: how Foucault-knife-edge variants can boost extreme adaptive optics
+# The Bi-O edge wavefront sensor: how Foucault-knife-edge variants can boost extreme adaptive optics
 
 **Vérinaud et al. (2024)** · *A&A 682, A27* · [Free full text](https://arxiv.org/abs/2309.07485) · DOI: [10.1051/0004-6361/202346660](https://doi.org/10.1051/0004-6361/202346660)
 
