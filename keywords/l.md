@@ -75,7 +75,7 @@
 - **local reconstructor** (1): [MacMartin 2003](../04-control-and-reconstruction/macmartin-2003-local-hierarchic-iterative-reconstructors.md)
 - **local seeing** (2): [Racine et al. 1991](../01-atmospheric-turbulence/racine-1991-mirror-dome-seeing-cfht.md), [Kurmus et al. 2023](../01-atmospheric-turbulence/kurmus-2023-dimsum-dome-seeing.md)
 - **loci** (1): [Lafrenière et al. 2007](../07-high-contrast-and-extreme-ao/lafreniere-2007-loci.md)
-- **log-amplitude** (1): [Lognoné et al. 2023](../16-free-space-optical-communications-and-space/lognone-2023-phase-estimation-point-ahead-geo.md)
+- **log-amplitude** (2): [Lognoné et al. 2023](../16-free-space-optical-communications-and-space/lognone-2023-phase-estimation-point-ahead-geo.md), [Lognoné et al. 2026](../16-free-space-optical-communications-and-space/lognone-2026-on-sky-intensity-angular-phase-estimation.md)
 - **log-normal statistics** (1): [Dravins et al. 1997](../01-atmospheric-turbulence/dravins-1997-intensity-scintillation-stars-i.md)
 - **lolas** (2): [Avila et al. 2008](../01-atmospheric-turbulence/avila-2008-lolas-boundary-layer-profiler.md), [Chun et al. 2009](../01-atmospheric-turbulence/chun-2009-mauna-kea-ground-layer-campaign.md)
 - **long exposure** (2): [Fried 1966](../01-atmospheric-turbulence/fried-1966-optical-resolution-long-short-exposures.md), [Mugnier et al. 2008](../10-calibration-and-system-identification/mugnier-2008-long-exposure-phase-diversity.md)

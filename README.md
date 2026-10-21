@@ -31,10 +31,10 @@ to several topics live in one home folder and are cross-listed in the others' in
 |---|---|---|---|
 | 00 | [Reviews, Textbooks & Training Resources](00-reviews-and-training/README.md) | 46 | 49 |
 | 01 | [Atmospheric Turbulence & Site Characterization](01-atmospheric-turbulence/README.md) | 69 | 35 |
-| 02 | [Wavefront Sensing](02-wavefront-sensing/README.md) | 81 | 92 |
+| 02 | [Wavefront Sensing](02-wavefront-sensing/README.md) | 81 | 93 |
 | 03 | [Deformable Mirrors & Wavefront Correctors](03-deformable-mirrors-and-correctors/README.md) | 57 | 24 |
 | 04 | [Control, Reconstruction & Real-Time Computing](04-control-and-reconstruction/README.md) | 80 | 64 |
-| 05 | [Wide-Field & Tomographic AO (MCAO, GLAO, LTAO, MOAO)](05-wide-field-and-tomographic-ao/README.md) | 63 | 105 |
+| 05 | [Wide-Field & Tomographic AO (MCAO, GLAO, LTAO, MOAO)](05-wide-field-and-tomographic-ao/README.md) | 63 | 106 |
 | 06 | [Laser Guide Stars](06-laser-guide-stars/README.md) | 62 | 42 |
 | 07 | [High-Contrast Imaging & Extreme AO](07-high-contrast-and-extreme-ao/README.md) | 80 | 104 |
 | 08 | [Modeling, Error Budgets & Simulation](08-modeling-error-budgets-and-simulation/README.md) | 57 | 57 |
@@ -45,10 +45,10 @@ to several topics live in one home folder and are cross-listed in the others' in
 | 13 | [Solar Adaptive Optics](13-solar-ao/README.md) | 56 | 9 |
 | 14 | [AO for Vision Science & Ophthalmology](14-vision-science-and-ophthalmology/README.md) | 53 | 11 |
 | 15 | [AO for Microscopy & Biological Imaging](15-microscopy-and-biological-imaging/README.md) | 53 | 11 |
-| 16 | [AO for Free-Space Optical Communications & Space Imaging](16-free-space-optical-communications-and-space/README.md) | 59 | 16 |
+| 16 | [AO for Free-Space Optical Communications & Space Imaging](16-free-space-optical-communications-and-space/README.md) | 60 | 16 |
 | 17 | [Segmented Apertures, Phasing & Petaling](17-segmented-apertures-and-phasing/README.md) | 48 | 15 |
 
-**Total entries: 1096**
+**Total entries: 1097**
 <!-- INDEX:END -->
 
 ## Maintenance
